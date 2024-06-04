@@ -88,100 +88,97 @@
     </style>
 </head>
 
-<body>
-    <div class="header">
-        <div class="header-title">Mudae History</div>
-        <div class="header-menu">
-            <button onclick="loadData('rolls.txt')">All Rolls</button>
-            <button onclick="loadData('clains.txt')">Clains</button>
-        </div>
-    </div>
-    <div class="content">
-        <div class="search-bar">
-            <input type="text" id="searchInput" placeholder="Buscar..." onkeyup="searchImages()">
-        </div>
-        <div id="imageGrid" class="image-grid"></div>
-        <div class="pagination">
-            <label for="itemsPerPage">Itens por página:</label>
-            <select id="itemsPerPage" onchange="changeItemsPerPage()">
-                <option value="10">10</option>
-                <option value="50">50</option>
-                <option value="100">100</option>
-            </select>
-            <div>
-                <button onclick="previousPage()">Anterior</button>
-                <button onclick="nextPage()">Próxima</button>
-            </div>
-        </div>
-    </div>
-    <script>
-        let data = [];
-        let filteredData = [];
-        let currentPage = 1;
-        let itemsPerPage = 10;
+<script>
+    let data = [];
+    let filteredData = [];
+    let currentPage = 1;
+    let itemsPerPage = 10;
 
-        async function loadData(file) {
-            const response = await fetch(file);
+    async function loadDataFromGitHub(file) {
+        try {
+            const response = await fetch(`https://github.com/CarlosOlc/Mudae-history/${file}`);
             const text = await response.text();
-            data = text.trim().split('\n').map(line => {
+            return text.trim().split('\n').map(line => {
                 const [name, imageUrl] = line.split(', ');
                 return { name, imageUrl };
             });
+        } catch (error) {
+            console.error('Erro ao carregar dados do GitHub:', error);
+            return [];
+        }
+    }
+
+    async function loadAndDisplayImages(file) {
+        try {
+            data = await loadDataFromGitHub(file);
             filteredData = data;
             currentPage = 1;
             displayImages();
+        } catch (error) {
+            console.error('Erro ao carregar e exibir imagens:', error);
         }
+    }
 
-        async function displayImages() {
-            const imageGrid = document.getElementById('imageGrid');
-            imageGrid.innerHTML = '';
-            const start = (currentPage - 1) * itemsPerPage;
-            const end = start + itemsPerPage;
-            const pageItems = filteredData.slice(start, end);
+    async function displayImages() {
+        const imageGrid = document.getElementById('imageGrid');
+        imageGrid.innerHTML = '';
+        const start = (currentPage - 1) * itemsPerPage;
+        const end = start + itemsPerPage;
+        const pageItems = filteredData.slice(start, end);
 
-            for (let i = 0; i < pageItems.length; i++) {
-                const item = pageItems[i];
-                const div = document.createElement('div');
-                div.className = 'image-item';
-                const response = await fetch('rolls.txt');
-                const text = await response.text();
-                const lines = text.trim().split('\n');
-                const lineNumber = lines.findIndex(line => line.split(',')[1].trim() === item.imageUrl.trim()) + 1;
-                div.innerHTML = `<h3>${item.name}</h3><img src="${item.imageUrl}" alt="${item.name}"><div class="image-number">${lineNumber}</div>`;
-                imageGrid.appendChild(div);
-            }
+        for (let i = 0; i < pageItems.length; i++) {
+            const item = pageItems[i];
+            const div = document.createElement('div');
+            div.className = 'image-item';
+            const lineNumber = await getLineNumber(item.imageUrl);
+            div.innerHTML = `<h3>${item.name}</h3><img src="${item.imageUrl}" alt="${item.name}"><div class="image-number">${lineNumber}</div>`;
+            imageGrid.appendChild(div);
         }
+    }
 
-        function searchImages() {
-            const query = document.getElementById('searchInput').value.toLowerCase();
-            filteredData = data.filter(item => item.name.toLowerCase().includes(query));
-            currentPage = 1;
+    async function getLineNumber(imageUrl) {
+        try {
+            const response = await fetch('https://github.com/CarlosOlc/Mudae-history/blob/main/rolls.txt');
+            const text = await response.text();
+            const lines = text.trim().split('\n');
+            const lineNumber = lines.findIndex(line => line.split(',')[1].trim() === imageUrl.trim()) + 1;
+            return lineNumber;
+        } catch (error) {
+            console.error('Erro ao obter número da linha:', error);
+            return -1;
+        }
+    }
+
+    function searchImages() {
+        const query = document.getElementById('searchInput').value.toLowerCase();
+        filteredData = data.filter(item => item.name.toLowerCase().includes(query));
+        currentPage = 1;
+        displayImages();
+    }
+
+    function changeItemsPerPage() {
+        itemsPerPage = parseInt(document.getElementById('itemsPerPage').value);
+        currentPage = 1;
+        displayImages();
+    }
+
+    function previousPage() {
+        if (currentPage > 1) {
+            currentPage--;
             displayImages();
         }
+    }
 
-        function changeItemsPerPage() {
-            itemsPerPage = parseInt(document.getElementById('itemsPerPage').value);
-            currentPage = 1;
+    function nextPage() {
+        if (currentPage * itemsPerPage < filteredData.length) {
+            currentPage++;
             displayImages();
         }
+    }
 
-        function previousPage() {
-            if (currentPage > 1) {
-                currentPage--;
-                displayImages();
-            }
-        }
+    // Carregar o primeiro arquivo
+    loadAndDisplayImages('rolls.txt');
+</script>
 
-        function nextPage() {
-            if (currentPage * itemsPerPage < filteredData.length) {
-                currentPage++;
-                displayImages();
-            }
-        }
-
-        // Carregar o primeiro arquivo
-        loadData('rolls.txt');
-    </script>
-</body>
 
 </html>
