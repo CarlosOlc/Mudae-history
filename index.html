@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mudae History</title>
+    <style>
+        body {
+            background-color: #222222;
+            color: #CCCCCC;
+            font-family: Verdana, Arial;
+            text-align: center;
+        }
+
+        .header a {
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .header {
+            width: 100%;
+            padding: 20px;
+            background-color: #333;
+        }
+
+        .header-title {
+            font-size: 24px;
+        }
+
+        .header-menu {
+            margin-top: 10px;
+        }
+
+        .content {
+            max-width: 2000px;
+            /* Ajustado para um container mais largo */
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #444;
+            border-radius: 8px;
+        }
+
+        .search-bar {
+            margin-bottom: 20px;
+        }
+
+        .image-grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 0px;
+            /* Espaçamento entre os itens */
+        }
+
+        .image-item {
+            width: 200px;
+            /* Largura fixa para os itens */
+            margin: 10px;
+            padding: 10px;
+            background-color: #555;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .image-item img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+
+        .pagination {
+            margin-top: 20px;
+        }
+
+        .pagination button {
+            background-color: #0df246;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .pagination button:hover {
+            background-color: #0be03f;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="header-title">Mudae History</div>
+        <div class="header-menu">
+            <button onclick="loadData('rolls.txt')">All Rolls</button>
+            <button onclick="loadData('clains.txt')">Clains</button>
+        </div>
+    </div>
+    <div class="content">
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Buscar..." onkeyup="searchImages()">
+        </div>
+        <div id="imageGrid" class="image-grid"></div>
+        <div class="pagination">
+            <label for="itemsPerPage">Itens por página:</label>
+            <select id="itemsPerPage" onchange="changeItemsPerPage()">
+                <option value="10">10</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
+            <div>
+                <button onclick="previousPage()">Anterior</button>
+                <button onclick="nextPage()">Próxima</button>
+            </div>
+        </div>
+    </div>
+    <script>
+        let data = [];
+        let filteredData = [];
+        let currentPage = 1;
+        let itemsPerPage = 10;
+
+        async function loadData(file) {
+            const response = await fetch(file);
+            const text = await response.text();
+            data = text.trim().split('\n').map(line => {
+                const [name, imageUrl] = line.split(', ');
+                return { name, imageUrl };
+            });
+            filteredData = data;
+            currentPage = 1;
+            displayImages();
+        }
+
+        async function displayImages() {
+            const imageGrid = document.getElementById('imageGrid');
+            imageGrid.innerHTML = '';
+            const start = (currentPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const pageItems = filteredData.slice(start, end);
+
+            for (let i = 0; i < pageItems.length; i++) {
+                const item = pageItems[i];
+                const div = document.createElement('div');
+                div.className = 'image-item';
+                const response = await fetch('rolls.txt');
+                const text = await response.text();
+                const lines = text.trim().split('\n');
+                const lineNumber = lines.findIndex(line => line.split(',')[1].trim() === item.imageUrl.trim()) + 1;
+                div.innerHTML = `<h3>${item.name}</h3><img src="${item.imageUrl}" alt="${item.name}"><div class="image-number">${lineNumber}</div>`;
+                imageGrid.appendChild(div);
+            }
+        }
+
+        function searchImages() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            filteredData = data.filter(item => item.name.toLowerCase().includes(query));
+            currentPage = 1;
+            displayImages();
+        }
+
+        function changeItemsPerPage() {
+            itemsPerPage = parseInt(document.getElementById('itemsPerPage').value);
+            currentPage = 1;
+            displayImages();
+        }
+
+        function previousPage() {
+            if (currentPage > 1) {
+                currentPage--;
+                displayImages();
+            }
+        }
+
+        function nextPage() {
+            if (currentPage * itemsPerPage < filteredData.length) {
+                currentPage++;
+                displayImages();
+            }
+        }
+
+        // Carregar o primeiro arquivo por padrão
+        loadData('rolls.txt');
+    </script>
+</body>
+
+</html>
