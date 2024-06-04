@@ -1,3 +1,3 @@
 # Mudae-history
 
-salvar historico de rolls bot mudae
+salvar historico dos rolls bot mudae
