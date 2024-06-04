@@ -124,8 +124,8 @@
             const response = await fetch(file);
             const text = await response.text();
             data = text.trim().split('\n').map(line => {
-                const [name, imageUrl] = line.split(', ');
-                return { name, imageUrl };
+                const [name, imageUrl, number] = line.split(', ');
+                return { name, imageUrl, number };
             });
             filteredData = data;
             currentPage = 1;
@@ -146,11 +146,15 @@
                 const response = await fetch('rolls.txt');
                 const text = await response.text();
                 const lines = text.trim().split('\n');
-                const lineNumber = lines.findIndex(line => line.split(',')[1].trim() === item.imageUrl.trim()) + 1;
-                div.innerHTML = `<h3>${item.name}</h3><img src="${item.imageUrl}" alt="${item.name}"><div class="image-number">${lineNumber}</div>`;
+                const line = lines.find(line => line.split(',')[1].trim() === item.imageUrl.trim());
+                const lineNumber = line ? line.split(',')[2].trim() : 'N/A'; // Assuming the number is at index 2
+                div.innerHTML = `<h3>${item.name}</h3><img src="${item.imageUrl}" alt="${item.name}"><div class="image-number">${item.number}</div>`;
                 imageGrid.appendChild(div);
             }
         }
+
+
+
 
         function searchImages() {
             const query = document.getElementById('searchInput').value.toLowerCase();
