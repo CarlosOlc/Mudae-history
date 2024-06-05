@@ -127,6 +127,7 @@
                 const [name, imageUrl, number] = line.split(', ');
                 return { name, imageUrl, number };
             });
+            data.reverse();
             filteredData = data;
             currentPage = 1;
             displayImages();
