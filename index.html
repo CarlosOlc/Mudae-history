@@ -7,7 +7,7 @@
     <title>Mudae History</title>
     <style>
         body {
-            background-color: #222222;
+            background-color: #000000;
             color: #CCCCCC;
             font-family: Verdana, Arial;
             text-align: center;
@@ -33,11 +33,11 @@
         }
 
         .content {
-            max-width: 2000px;
+            max-width: 1686px;
             /* Ajustado para um container mais largo */
             margin: 20px auto;
             padding: 20px;
-            background-color: #444;
+            background-color: #1c1c1c;
             border-radius: 8px;
         }
 
@@ -46,7 +46,7 @@
         }
 
         .image-grid {
-            display: flex;
+            display: -webkit-inline-box;
             flex-wrap: wrap;
             justify-content: space-around;
             gap: 0px;
@@ -58,7 +58,7 @@
             /* Largura fixa para os itens */
             margin: 10px;
             padding: 10px;
-            background-color: #555;
+            background-color: #373737;
             border-radius: 8px;
             text-align: center;
         }
@@ -127,6 +127,7 @@
                 const [name, imageUrl, number] = line.split(', ');
                 return { name, imageUrl, number };
             });
+            data.reverse();
             filteredData = data;
             currentPage = 1;
             displayImages();
