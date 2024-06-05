@@ -21,7 +21,7 @@
         .header {
             width: 100%;
             padding: 20px;
-            background-color: #333;
+            background-color: #1c1c1c;
         }
 
         .header-title {
@@ -34,7 +34,6 @@
 
         .content {
             max-width: 1686px;
-            /* Ajustado para um container mais largo */
             margin: 20px auto;
             padding: 20px;
             background-color: #1c1c1c;
@@ -50,12 +49,10 @@
             flex-wrap: wrap;
             justify-content: space-around;
             gap: 0px;
-            /* Espaçamento entre os itens */
         }
 
         .image-item {
             width: 200px;
-            /* Largura fixa para os itens */
             margin: 10px;
             padding: 10px;
             background-color: #373737;
@@ -72,7 +69,9 @@
             margin-top: 20px;
         }
 
-        .pagination button {
+        button,
+        select,
+        input {
             background-color: #0df246;
             border: none;
             padding: 10px 20px;
@@ -99,6 +98,10 @@
     <div class="content">
         <div class="search-bar">
             <input type="text" id="searchInput" placeholder="Buscar..." onkeyup="searchImages()">
+            <select id="sortOrder" onchange="sortData()">
+                <option value="default">Últimos Rolls</option>
+                <option value="numberDesc">Maior Número</option>
+            </select>
         </div>
         <div id="imageGrid" class="image-grid"></div>
         <div class="pagination">
@@ -107,9 +110,11 @@
                 <option value="10">10</option>
                 <option value="50">50</option>
                 <option value="100">100</option>
+                <option value="1000">1000</option>
             </select>
             <div>
                 <button onclick="previousPage()">Anterior</button>
+                <span id="pageInfo"></span>
                 <button onclick="nextPage()">Próxima</button>
             </div>
         </div>
@@ -125,11 +130,12 @@
             const text = await response.text();
             data = text.trim().split('\n').map(line => {
                 const [name, imageUrl, number] = line.split(', ');
-                return { name, imageUrl, number };
+                return { name, imageUrl, number: parseInt(number) };
             });
             data.reverse();
-            filteredData = data;
-            currentPage = 1;
+            filteredData = data.slice();
+            const urlParams = new URLSearchParams(window.location.search);
+            currentPage = parseInt(urlParams.get('page')) || 1;
             displayImages();
         }
 
@@ -144,35 +150,31 @@
                 const item = pageItems[i];
                 const div = document.createElement('div');
                 div.className = 'image-item';
-                const response = await fetch('rolls.txt');
-                const text = await response.text();
-                const lines = text.trim().split('\n');
-                const line = lines.find(line => line.split(',')[1].trim() === item.imageUrl.trim());
-                const lineNumber = line ? line.split(',')[2].trim() : 'N/A'; // Assuming the number is at index 2
                 div.innerHTML = `<h3>${item.name}</h3><img src="${item.imageUrl}" alt="${item.name}"><div class="image-number">${item.number}</div>`;
                 imageGrid.appendChild(div);
             }
+            updatePageInfo();
         }
-
-
-
 
         function searchImages() {
             const query = document.getElementById('searchInput').value.toLowerCase();
             filteredData = data.filter(item => item.name.toLowerCase().includes(query));
             currentPage = 1;
+            updateURL();
             displayImages();
         }
 
         function changeItemsPerPage() {
             itemsPerPage = parseInt(document.getElementById('itemsPerPage').value);
             currentPage = 1;
+            updateURL();
             displayImages();
         }
 
         function previousPage() {
             if (currentPage > 1) {
                 currentPage--;
+                updateURL();
                 displayImages();
             }
         }
@@ -180,11 +182,34 @@
         function nextPage() {
             if (currentPage * itemsPerPage < filteredData.length) {
                 currentPage++;
+                updateURL();
                 displayImages();
             }
         }
 
-        // Carregar o primeiro arquivo por padrão
+        function updateURL() {
+            const url = new URL(window.location);
+            url.searchParams.set('page', currentPage);
+            history.pushState(null, '', url);
+        }
+
+        function updatePageInfo() {
+            const totalItems = filteredData.length;
+            const totalPages = Math.ceil(totalItems / itemsPerPage);
+            document.getElementById('pageInfo').innerText = `Página ${currentPage} de ${totalPages}`;
+        }
+
+        function sortData() {
+            const sortOrder = document.getElementById('sortOrder').value;
+            if (sortOrder === 'numberDesc') {
+                filteredData.sort((a, b) => b.number - a.number);
+            } else {
+                filteredData = data.slice();
+            }
+            currentPage = 1;
+            updateURL();
+            displayImages();
+        }
         loadData('rolls.txt');
     </script>
 </body>
