@@ -200,7 +200,7 @@ Hinata Imamura, https://images-ext-1.discordapp.net/external/SDEryEskJe1VXZy5um-
 Houkiboshi, https://images-ext-1.discordapp.net/external/FEcJJNuclnFozOJTOz96EdGpFqDuJBl2nbRxP3pKmko/https/mudae.net/uploads/9332752/V4b_Ed7amWKaGemIyCLe~bbEN8wT.png?width=193&height=300, 1
 Aoi Kusunoki, https://images-ext-1.discordapp.net/external/aI-b0p3_oYnbHWaSmll7cXuMarF8inHhq_IWIUSlasU/https/mudae.net/uploads/6727651/0hGmdQeEmtEZGebH8Q4U~TMTi8sS.png?width=193&height=300, 1
 Nodoka Ootani, https://images-ext-1.discordapp.net/external/Itb9tAWn-N-9ddgGcYzyEENg6msWOJyPUtIptnMouQQ/https/mudae.net/uploads/4006743/Sl8XUBBIBwPQ59VNQuJX~3yrgc3wkdg4.png?width=193&height=300, 1
-Momoka Sonou, https://images-ext-1.discordapp.net/external/QngDWcP38KromcIF3eQSvypspCru-4YGZqwFW5ytbts/https/mudae.net/uploads/4398999/G37XAhczqIJ8niQRNPeh~szLGVi3.png?width=193&height=300, 1
+Momoka Sonou, https://images-ext-1.discordapp.net/external/QngDWcP38KromcIF3eQSvypspCru-4YGZqwFW5ytbts/https/mudae.net/uploads/4398999/G37XAhczqIJ8niQRNPeh~szLGVi3.png?width=193&height=300, 2
 Juri Igarashi, https://images-ext-1.discordapp.net/external/8lq2iT16dcyyarVuID3-XZ3AFf8w48IEio42N0Y9k2I/https/mudae.net/uploads/3340172/758vbiEJHpKVwEoc1qs1~K9BIEQD.png?width=193&height=300, 2
 Amana Totsuka, https://images-ext-1.discordapp.net/external/2kh76FOQbkdqCCT_ZkpVXOeC88BQOANMBncQ4traAtA/https/mudae.net/uploads/5961337/eu58zwbGlS1NhrjQowU2~uCLqJ1t.png?width=193&height=300, 1
 Shinobu Nagumo, https://images-ext-1.discordapp.net/external/dYCHQtm7ofBmHRRD9I3BEMtQ-o8J8EXI6fY4yrDytsk/https/mudae.net/uploads/5090810/e-N1ThbsAvmRobsWfJUX~zxC1cT4.png?width=193&height=300, 1
@@ -255,7 +255,7 @@ Bi Ki, https://images-ext-1.discordapp.net/external/qiI3048HMdL6IPUbHUaLkqVOS1EN
 Cha Oran Song, https://images-ext-1.discordapp.net/external/yN5cEH2V3818fG51hY5MM33ASyyO17nLI6I3lUntJ7A/https/mudae.net/uploads/1816014/-vD5ngJLOd4wQcR1mnwv~BFFCgut.png?width=193&height=300, 1
 Rabbid, https://images-ext-1.discordapp.net/external/TRMwwDeegRPJe_cyd8k5CewnERWcvVf0ouxeNlk5wgc/https/mudae.net/uploads/8794629/89LnNDf1FQ3UOKGEr4Dy~uOQce64.png?width=193&height=300, 1
 Hild, https://images-ext-1.discordapp.net/external/rhkHyD_pjaMsMEKE94grJVF5JFrVVm-t2q_miHi5qSU/https/mudae.net/uploads/4907608/NjJY6XlkrDLRCA9SaHjh~GnU6yD9.png?width=193&height=300, 1
-Chikaru Minamoto, https://images-ext-1.discordapp.net/external/k959bwy3OJz9yurO3mu1OlrY5qykw8GpCNmnMxTGML0/https/mudae.net/uploads/2454642/0tvBgmzlpcRaH1Zm0o0z~F7R5Z0s.png?width=193&height=300, 1
+Chikaru Minamoto, https://images-ext-1.discordapp.net/external/k959bwy3OJz9yurO3mu1OlrY5qykw8GpCNmnMxTGML0/https/mudae.net/uploads/2454642/0tvBgmzlpcRaH1Zm0o0z~F7R5Z0s.png?width=193&height=300, 2
 Minako Kusanagi, https://images-ext-1.discordapp.net/external/rthHkrI9UyIPsBc5I28KHsi3QJuD5i6ca1szpEio-cw/https/mudae.net/uploads/7295221/PWoLntC75InvcERZ3L7F~o3ScKWd.png?width=193&height=300, 1
 Yuka Uchida, https://images-ext-1.discordapp.net/external/v8YPXs3AmZzl3VbBs9ZQkWbAi8WXxWSVOWdpeAI8T0g/https/mudae.net/uploads/9802418/OSpqK7xiKr_Q-qCay_n8~O901cM2.png?width=193&height=300, 1
 Asseylum Vers Allusia, https://images-ext-1.discordapp.net/external/k2ULKW5N_DH0Wx-Dk0GMQFXbqcB7E3DkPPccMFuYMqQ/https/mudae.net/uploads/2354796/XPkSd1nBq9NEoKvOdRkK~8MgWwbH.png?width=193&height=300, 1
@@ -263,7 +263,7 @@ Shion Kujou, https://images-ext-1.discordapp.net/external/5LCWHsJXCpy3kTreFzO4qY
 Qiao Yi Huang, https://images-ext-1.discordapp.net/external/uAXRC3XJ6qQG2avPolpCjK89FbajPv4wEncobiBT7ho/https/mudae.net/uploads/8464235/lNgsf3IPOLRq3o9gywgY~LubK7ej.png?width=193&height=300, 2
 Oito Hui Guo Rou, https://images-ext-1.discordapp.net/external/rNbo4ZbhV7oWlLDpgsBbp_IswS-xqIW9xudE-TZwMEQ/https/mudae.net/uploads/4124476/cBy1A1DRW3UbGTOg5QMn~vszRSpe.png?width=193&height=300, 1
 Riko Ayano, https://images-ext-1.discordapp.net/external/7_H_rJ1Eth72K-TvjLxAJhobOu6m3BOm8PNLXMfk4C0/https/mudae.net/uploads/6180384/1Zw9hQaeooCUVYF1n0Nc~j5Rrm2K.png?width=193&height=300, 1
-Tsukiko Tsutsukakushi, https://images-ext-1.discordapp.net/external/hql6VCWbETCAnr_-jeLL3BTvHRvJEjzhQL8YV9qJcy4/https/mudae.net/uploads/4154493/5oGgwpA_acqtNmAbIX5D~HIGBLQx.png?width=193&height=300, 1
+Tsukiko Tsutsukakushi, https://images-ext-1.discordapp.net/external/hql6VCWbETCAnr_-jeLL3BTvHRvJEjzhQL8YV9qJcy4/https/mudae.net/uploads/4154493/5oGgwpA_acqtNmAbIX5D~HIGBLQx.png?width=193&height=300, 2
 Nomura Tsukiko, https://images-ext-1.discordapp.net/external/ZvUTYZxueSJCt-Qh_y1zu9JSMNpsp2YYXBe8HrqUCF0/https/mudae.net/uploads/2816804/6lD1_iVaJU-9CP-Vf0ZV~6beZCfG.png?width=193&height=300, 1
 Ageha Kurono, https://images-ext-1.discordapp.net/external/f2IPUQDr7lseMqn1K3ihD69NDlQvJs9-szbKJ2l-uls/https/mudae.net/uploads/9386132/vx9_MzFYgetjIslEfMIs~gTlkfBR.png?width=193&height=300, 1
 Koharu Hanamura, https://images-ext-1.discordapp.net/external/Y2znLKOkamX65Z_TICAWR-YMU0X_RIiN_JBFTu9H_70/https/mudae.net/uploads/8530860/pBbfes55Ig89vHdheznZ~Bim3Qpw.png?width=193&height=300, 1
@@ -385,7 +385,7 @@ Alice Maresato, https://images-ext-1.discordapp.net/external/OxNQtx25wkrMWTBQHWk
 Noel (AE), https://images-ext-1.discordapp.net/external/yMgCCg7BaVVZyeelj3RHL9so-tNK1bYb9AIriin6QGM/https/mudae.net/uploads/9346586/5aDYz181sp1tVhqb2zn5~rEhIOWk.png?width=193&height=300, 1
 Vetika, https://images-ext-1.discordapp.net/external/YQJ1m_MPaCemIhZ_9hGFwTK38QrjGiSIhEeOZoY5C6I/https/mudae.net/uploads/4444554/sK9n_2R7i0Sz4eU1Hk4I~olneFZg.png?width=193&height=300, 1
 Merino, https://images-ext-1.discordapp.net/external/ClqKrITY0jSMLZ9ffckpNkmZ8IrlfOiQMn7pMh9p97w/https/mudae.net/uploads/7272147/GFtjrNcFbkKx_wGWJd93~O9Ro38g.png?width=193&height=300, 1
-Mahoro Kano, https://images-ext-1.discordapp.net/external/Hhvu6guFD9P34eBTzKSXl7v-5V8zEheLfq1KLbXL62A/https/mudae.net/uploads/2942703/YNczD73ytoMH9CXpbkru~Z30TzK4.png?width=193&height=300, 1
+Mahoro Kano, https://images-ext-1.discordapp.net/external/Hhvu6guFD9P34eBTzKSXl7v-5V8zEheLfq1KLbXL62A/https/mudae.net/uploads/2942703/YNczD73ytoMH9CXpbkru~Z30TzK4.png?width=193&height=300, 2
 Taira no Tokuko, https://images-ext-1.discordapp.net/external/nhX6uyWgwibIW59HR9j-FLOL0RRrACgk5ZC7XKHi-EM/https/mudae.net/uploads/7828289/Rf06fTFmHVf__Y3hDIcX~AtcrVSd.png?width=193&height=300, 1
 Noir (MwMk), https://images-ext-1.discordapp.net/external/3RGB6C1HOXyqxDaYwmu-Gq5NjBs0P2oN_ELTCGLCOHc/https/mudae.net/uploads/9156551/OAEt2YX49iWzftKVmaRV~QAUZw8q.png?width=193&height=300, 1
 Ahegao W Peace-sensei, https://images-ext-1.discordapp.net/external/GWZ3fN-jWZ9DfRbYza4FmELDEiqPEGg4OtnaPKpr36g/https/mudae.net/uploads/2032212/HPtFlP1PTlpBxgiXG-B1~Qi3QjhX.png?width=193&height=300, 1
@@ -427,7 +427,7 @@ Rayet Areash, https://images-ext-1.discordapp.net/external/kiBssGqUVUQKypsv6WDN3
 Ichigo Hoshimiya, https://images-ext-1.discordapp.net/external/FszzU762h808h4RXqmIgptGJtMD6LgGO5EARNtA6jYg/https/mudae.net/uploads/5382492/bps-mFvg1k7y676i6vyN~3ri5yyG.png?width=193&height=300, 1
 Yozora Kasumi, https://images-ext-1.discordapp.net/external/Tmp6fCjoZoY1mjJNZtqDwPjoxfq9iS0S9PEDSocZ6zs/https/mudae.net/uploads/3583996/QVv2ZpdYHR734ThfVO0E~0WPMV2c.png?width=193&height=300, 1
 Hinata Minami, https://images-ext-1.discordapp.net/external/CVxQfFKhVeyZaLlHufxKyCzbuy3_6z79gy8X8ckyW6w/https/mudae.net/uploads/2716408/AY8vFRCx6PmKfip_FeIl~ctRPJGS.png?width=193&height=300, 2
-Pokémon Breeder, https://images-ext-1.discordapp.net/external/morU4hradok9ADsjjxeqiNUXdGsONHSvgcC7OQPSnwQ/https/mudae.net/uploads/8267715/jhvjzu5YiVCSnrrDnNZ7~lrjTkkz.png?width=193&height=300, 1
+Pokémon Breeder, https://images-ext-1.discordapp.net/external/morU4hradok9ADsjjxeqiNUXdGsONHSvgcC7OQPSnwQ/https/mudae.net/uploads/8267715/jhvjzu5YiVCSnrrDnNZ7~lrjTkkz.png?width=193&height=300, 2
 Brynhildr, https://images-ext-1.discordapp.net/external/Pofnnmd7VHdXiREMdIc_joeAftgA6gPuGSiojxVlTx0/https/mudae.net/uploads/5208485/uJM0Ut90zF_4jRStQYZu~Asmz8ON.png?width=193&height=300, 1
 Margo Hanson, https://images-ext-1.discordapp.net/external/IXSdHKxn_uL0UsgKhY0mDsouIXsQK7yeQylYnDcJE6A/https/mudae.net/uploads/1625204/RHbHSW4qq0xpkjTGxckK~XghS1X8.png?width=193&height=300, 1
 Usada Pekora, https://images-ext-1.discordapp.net/external/BMGsu2aF_urXk5kMb_BhNnyD4xvzqQ2D13s0UK3VM_I/https/mudae.net/uploads/8324705/wXpXxtO-VNwM6T644VCb~wye3caebbo4.png?width=193&height=300, 1
@@ -443,7 +443,7 @@ Spinarak, https://images-ext-1.discordapp.net/external/uFteT12Lxyo3V1kQp0o6J76GU
 Melissa Podebrat, https://images-ext-1.discordapp.net/external/xFBSoNg2-gIB02uTAB51xwies1a2Ka3deFuJpHtE9eQ/https/mudae.net/uploads/7478022/sSPKRlMrBdghB6TXjIBt~CFJwQvK.png?width=193&height=300, 1
 Nemu Hiiragi, https://images-ext-1.discordapp.net/external/kZoP1kR-DIkanMlYpG52mdjFkDkHHhlzUHKFPMXz5eI/https/mudae.net/uploads/2267922/oxd5C16HiopWHgOx8TpS~7WrF1Rb.png?width=193&height=300, 1
 Feldway, https://images-ext-1.discordapp.net/external/cKMY5Ao4T5sGPHC6iA1K78iboXjZcCaKDyF1xb3oOZw/https/mudae.net/uploads/8441968/wrP7eQdX0G-bWzfODzxp~X9XPFVc.png?width=193&height=300, 1
-Rie Nishina, https://images-ext-1.discordapp.net/external/mU2dTqgvqhVehN0QLnh9pSj6WnrPC4VDRr3B0GV5dyc/https/mudae.net/uploads/6770678/gUE4pbxPMTHoKgAP5Fz1~ROJeAmF.png?width=193&height=300, 1
+Rie Nishina, https://images-ext-1.discordapp.net/external/mU2dTqgvqhVehN0QLnh9pSj6WnrPC4VDRr3B0GV5dyc/https/mudae.net/uploads/6770678/gUE4pbxPMTHoKgAP5Fz1~ROJeAmF.png?width=193&height=300, 2
 Nina Hopkins, https://images-ext-1.discordapp.net/external/F5J0bHd2AZjHd4wurqWT9zzH6f1W6eJpukLDaH5yz0E/https/mudae.net/uploads/2177764/kqEDnxrCbnIrrLw6aBVT~CjakNOh.png?width=193&height=300, 3
 Fay (MPM), https://images-ext-1.discordapp.net/external/53MDFnqv5WRQcvvruwcbJCXP2MFMKhmIkVlnGXBTO3s/https/mudae.net/uploads/5510552/DJYLpw68kyzP7rDk4DBf~b49zcw3xggy.png?width=193&height=300, 1
 Luna Wright, https://images-ext-1.discordapp.net/external/o3u-xinQfCqr-EWnF7s6MVKvlXw3stLKHGnRQ1QbFEE/https/mudae.net/uploads/9990877/CxwutSErm2Ux8Bit3FHs~qMsFaK1.png?width=193&height=300, 1
@@ -540,7 +540,7 @@ Eriko Torii, https://images-ext-1.discordapp.net/external/1nIP_b712gn7pXxlyX4K2s
 Fumino Furuhashi, https://images-ext-1.discordapp.net/external/AmTkiDbUhlJsn_OWNz0pCyGDsJclc18JfxrMhiY2Th0/https/mudae.net/uploads/7001301/4AyQ1T2rzxP5BinnWlDa~6Vvpo8x.png?width=193&height=300, 1
 Runru, https://images-ext-1.discordapp.net/external/TPL2fspjvlg9-bTlgfRUDW_daSPzCp3umxe7gtf_mHQ/https/mudae.net/uploads/6150509/QfxSMOEagRRZGxtPi8-l~V7d4Lfc.png?width=193&height=300, 1
 Connie Christensen, https://images-ext-1.discordapp.net/external/b1AVrlig6zSIkvmYEUa05WGrOG1xGcXtUfftrfPgWaA/https/mudae.net/uploads/8398169/vng4npPTHfrVVOe94lB3~tnbKRWM.png?width=193&height=300, 1
-Bili-tan 33, https://images-ext-1.discordapp.net/external/7HdBKTEooW0pRk8v6ecL-iWFWFMNjb-BbwVB1XZM_9Y/https/mudae.net/uploads/2604550/IhRdboPy5l4oqgEwdsaM~ednwJl4.png?width=193&height=300, 1
+Bili-tan 33, https://images-ext-1.discordapp.net/external/7HdBKTEooW0pRk8v6ecL-iWFWFMNjb-BbwVB1XZM_9Y/https/mudae.net/uploads/2604550/IhRdboPy5l4oqgEwdsaM~ednwJl4.png?width=193&height=300, 2
 Sang Hee Kim, https://images-ext-1.discordapp.net/external/RekoAPIeH9aMM49h0FPicdbWfc6ZrOKXb1x5pWi6lZk/https/mudae.net/uploads/5502298/7YVZ3wIucdT1VLeVJRGf~SkDaFNL.png?width=193&height=300, 1
 Marill, https://images-ext-1.discordapp.net/external/ip9ixyBYTY7-yLjDhWNu5mQ4GIjHT91q4je0PnWmx2Q/https/mudae.net/uploads/8890862/8OdZ6yREDkvDKKSKHFyj~bWCXhYt.png?width=193&height=300, 1
 Elizabeth, https://images-ext-1.discordapp.net/external/IizIee6-cNsu4ALT9JZhnjbVc1DS6zeVYlD3vn3kpFM/https/mudae.net/uploads/6931210/tcbQJw0EI9hgsJsHZ4iP~w7pjcxq2eq7.png?width=193&height=300, 1
@@ -556,7 +556,7 @@ Fairy Minamoto, https://images-ext-1.discordapp.net/external/2nSAPZSaEuTpVxFiSWt
 Sayuri Toujou, https://images-ext-1.discordapp.net/external/j8AzJ0BjvjrMIMaq_0EIcHpA03ugYKodv8E4GKzg6pc/https/mudae.net/uploads/9251619/KoFHX0iSA9DLMOig-wOP~ShpAkww.png?width=193&height=300, 1
 Fabiola Iglesias, https://images-ext-1.discordapp.net/external/RJpxbkGY3zlwvjaTmo2_QSRsLiFDoWx1hyS9Zns--0g/https/mudae.net/uploads/3925847/tNMCmEErMUr48AL-Gcxl~iAFVQUT.png?width=193&height=300, 1
 Amami Sayuri, https://images-ext-1.discordapp.net/external/UyJ2zcJcAyTdPIRw0veq2Q5oooLhcAXR91qtyjsKros/https/mudae.net/uploads/9774078/D-EFZqa_Z5G9AnHTMxF9~mBb4bAn.png?width=193&height=300, 1
-Akane Shinjou, https://images-ext-1.discordapp.net/external/UXyif1DWq7D8MiKh3TWm7tNMOsFbEMPF5mx_ZO7N2bw/https/mudae.net/uploads/5374406/VK4aGHTduCal3JEFCrLc~puuBIiw.png?width=193&height=300, 1
+Akane Shinjou, https://images-ext-1.discordapp.net/external/UXyif1DWq7D8MiKh3TWm7tNMOsFbEMPF5mx_ZO7N2bw/https/mudae.net/uploads/5374406/VK4aGHTduCal3JEFCrLc~puuBIiw.png?width=193&height=300, 2
 Yakumo Saotome, https://images-ext-1.discordapp.net/external/s8td4R0NEtryREjQev6m8fF6GL_s516vp3tAIwbplVs/https/mudae.net/uploads/9125675/i0CYxS9l2cB_n7xUKB0x~UyEQGlP.png?width=193&height=300, 2
 Ishigami Nozomi, https://images-ext-1.discordapp.net/external/XH2-0qxtu2-_RCo5M46G1l-GX7OqbAowbtqQfFNzG2I/https/mudae.net/uploads/3740102/mCoa0dqc_1n1UdcMrgU2~XievFad.png?width=193&height=300, 1
 Midoriko Sono, https://images-ext-1.discordapp.net/external/LfbyfJP8hDwU18f_5UMItBH-CF4osY-HFuEbLtA5I_w/https/mudae.net/uploads/5080263/DoxMTrhKVzrrNq0JbX3r~kI611M3.png?width=193&height=300, 1
@@ -589,7 +589,7 @@ Da Ji (LHL), https://images-ext-1.discordapp.net/external/3y01ujwDa-uodoAQfgG-Ng
 Shio Koube, https://images-ext-1.discordapp.net/external/G7AZ5TS3Bp5T5OZUaGn95EIZVuHujDTf3_bOwApa53E/https/mudae.net/uploads/3249873/Pz8-h6mnIt6czmeH2JB6~bp26lQ0.png?width=193&height=300, 1
 Julia Von Rozental, https://images-ext-1.discordapp.net/external/rF2Lv1XnVHb_7z7CNgU2JZZ9TN4FK2Y8rdLqOnpkLUo/https/mudae.net/uploads/3981397/uiayQj6qS13e3YIvxeHB~rgsK3pV.png?width=193&height=300, 1
 Ito Iwanaga, https://images-ext-1.discordapp.net/external/bLFCJBo_GnqZqjN-00nDZDTxTR-92beq-mx0lMfBlW8/https/mudae.net/uploads/3774470/r-VM0sBB5IzIIGEcgxSs~fyEN29I.png?width=193&height=300, 1
-Takuboku Ishikawa (F/SL), https://images-ext-1.discordapp.net/external/rf4b1Fx-k_BtpK5ri9USXYGZiA1lAz82QV6FV6IYFy0/https/mudae.net/uploads/3937645/jwahuD0zZ72Vx024HjP6~aefSnAw.png?width=193&height=300, 1
+Takuboku Ishikawa (F/SL), https://images-ext-1.discordapp.net/external/rf4b1Fx-k_BtpK5ri9USXYGZiA1lAz82QV6FV6IYFy0/https/mudae.net/uploads/3937645/jwahuD0zZ72Vx024HjP6~aefSnAw.png?width=193&height=300, 2
 Nanami Madobe, https://images-ext-1.discordapp.net/external/Q0cX5iTXH3QKG8JEQh1bFRQo4XrWev8ccgBe6sZVEcw/https/mudae.net/uploads/2319699/xN5Gu2kYIH8FMqVT9I5r~1NgpqOB.png?width=193&height=300, 1
 Rize Tedeza, https://images-ext-1.discordapp.net/external/evDF-g089PYGzBufBfHoOJBxZsrLkL-SWuLV7h90fpA/https/mudae.net/uploads/2141707/xrN5pRoFzUodfqMufWqt~YuRbmPz.png?width=193&height=300, 2
 Himespetchi, https://images-ext-1.discordapp.net/external/Lu0wTZViFkE8n1MhQYi6euXBwXvbg4TEUs2LeqUVHZ4/https/mudae.net/uploads/4523074/KGaWwWl_nchUH8i-rX_p~PwR8m2p.png?width=193&height=300, 1
@@ -675,8 +675,8 @@ Haru Edamoto, https://images-ext-1.discordapp.net/external/Z82pPEuNCZgwdwbiQULxT
 Ranunculus Flower Maiden, Ahsha, https://images-ext-1.discordapp.net/external/DdBGtAtHyr_KkMYK8bzBxPrHzj278BX00D-ytdWphtY/https/mudae.net/uploads/4455231/OCnB1vta4d_b5f_oqENj~xwZ8esc.png?width=193&height=300, 1
 Clarissa (OPD), https://images-ext-1.discordapp.net/external/sIAfRKFBKMVb84dUwkkdLRXpFhPH0FznfZPXhNjuB8s/https/mudae.net/uploads/3508035/TstQCi48xf7-bmqa3nRh~dIm3AWI.png?width=193&height=300, 1
 Shizuku Nishimori, https://images-ext-1.discordapp.net/external/jiMWjPdy6PB_M8zIntDuXFqXYfDct4bBt3lm231xuas/https/mudae.net/uploads/2910533/C_UDZya1M4pIgNDPA5Hu~tpjSGj2.png?width=193&height=300, 1
-Roxanne (Claymore), https://images-ext-1.discordapp.net/external/XWPOdsSBNc7phNuI6D6xu36q8UJrNHDRyTMyG6WgqV4/https/mudae.net/uploads/9580359/RfG_cYEkfOC1qx7q6U-X~DrcJNJb.png?width=193&height=300, 1
-Sheila (SMnT), https://images-ext-1.discordapp.net/external/GyNRdWSsDN9uCE6iaLtauht7W6i8DikbDHFmqpC07Dk/https/mudae.net/uploads/2332373/_FoAvdFWvAKZlHgDrdeQ~zzWnuvF.png?width=193&height=300, 1
+Roxanne (Claymore), https://images-ext-1.discordapp.net/external/XWPOdsSBNc7phNuI6D6xu36q8UJrNHDRyTMyG6WgqV4/https/mudae.net/uploads/9580359/RfG_cYEkfOC1qx7q6U-X~DrcJNJb.png?width=193&height=300, 3
+Sheila (SMnT), https://images-ext-1.discordapp.net/external/GyNRdWSsDN9uCE6iaLtauht7W6i8DikbDHFmqpC07Dk/https/mudae.net/uploads/2332373/_FoAvdFWvAKZlHgDrdeQ~zzWnuvF.png?width=193&height=300, 2
 Akane Yamamoto, https://images-ext-1.discordapp.net/external/5TZEs7FoQgGQavgYqnTmeU2V4h2KP5dFUlzeiPQn-Jg/https/mudae.net/uploads/8665738/TINiYoUOD52CiI6yvkkD~60pEXFA.png?width=193&height=300, 1
 Kay (PKMN), https://images-ext-1.discordapp.net/external/btFZSSgI40jFJVzERmOvQ1K-OOi0VG6Ol56ovGEdN14/https/mudae.net/uploads/8434871/MJENwaZS-_HsByOlb19O~GvE5Ul2.png?width=193&height=300, 1
 Fels, https://images-ext-1.discordapp.net/external/zYtqJrvvQd0miqgml6nVzvW4hWOzLBj9_WNKZ_SfCfI/https/mudae.net/uploads/9144264/7XYmxmxocMbDDQuMBiMh~lXoq5Kw.png?width=193&height=300, 1
@@ -704,7 +704,7 @@ Chika Komari, https://images-ext-1.discordapp.net/external/XKkkfNv2bwPam3aMJVLvw
 Mei Tozaki, https://images-ext-1.discordapp.net/external/ZfLVJTChd7qW3Y3CrnCIPgRpgGJfsBRfQ-mV2ILBkuY/https/mudae.net/uploads/5156359/weH_8z2hIARaO5xYGw5Y~l7lxc2xgjz7.png?width=193&height=300, 1
 Lin Xiao, https://images-ext-1.discordapp.net/external/p37yYnYD4tWkE1QYqQzu8IK8WGT8rVcsp5Z7C44Ai94/https/mudae.net/uploads/1224838/u6dBfstdNhFwLKaukKPD~LtKChFB.png?width=193&height=300, 1
 Magali, https://images-ext-1.discordapp.net/external/nJ-7iMnalzli7L6IMNUxp684cD2m2JAZf4SjyKSTkKw/https/mudae.net/uploads/4082298/QsCN312k-m8u94IRHdBw~5xeONWb.png?width=193&height=300, 1
-Tenchi (TUYU), https://images-ext-1.discordapp.net/external/V_wQZz7j9AHWHS2diR-zsZrQqHuloWjJHcKbpWk6N5o/https/mudae.net/uploads/4979679/c90GKVHXbvCty8b-dUDd~ohAace4.png?width=193&height=300, 1
+Tenchi (TUYU), https://images-ext-1.discordapp.net/external/V_wQZz7j9AHWHS2diR-zsZrQqHuloWjJHcKbpWk6N5o/https/mudae.net/uploads/4979679/c90GKVHXbvCty8b-dUDd~ohAace4.png?width=193&height=300, 2
 Noelle Kringle, https://images-ext-1.discordapp.net/external/mVBMXQyzvXLzzK7AsuYN_082LZGJZspNfbrQh-JXT_Q/https/mudae.net/uploads/5925651/G65SJNeuVQPywhqhVXJq~mPgt0bb.png?width=193&height=300, 1
 Pantera Ruiva, https://images-ext-1.discordapp.net/external/7iHQM8eW2mEPs-yGEgFJ8EitcoddItpul4w9-68z_84/https/mudae.net/uploads/1438674/T1CxysZpviyC5_vZqY4Q~aPr9rqI.png?width=193&height=300, 1
 Kotone Kanzaki, https://images-ext-1.discordapp.net/external/HL0lyJOVjWznX5gG9IXrI4JojUGyLVVe-byc7ZzAf3k/https/mudae.net/uploads/3856186/jdMXt2-_DnbMxdq9y4SI~sJcgJIm.png?width=193&height=300, 1
@@ -720,7 +720,7 @@ Yuu Miyama, https://images-ext-1.discordapp.net/external/kWWbI3yyu94MJU9z3IpmgJy
 Phoena, https://images-ext-1.discordapp.net/external/yeyQ7oi-s7s4Nhm_6uefAwj-QHGsOr32ZSNdHhefMnQ/https/mudae.net/uploads/8811784/8KG9h1pB8seh30vt6OhL~lf5NT2J.png?width=193&height=300, 1
 Kristina Kuroda, https://images-ext-1.discordapp.net/external/vIOgQ4irKS9M1cVFrOkmSgQgWbHR-WPdAnlc2sYWdwQ/https/mudae.net/uploads/6505071/VxvoAsUIVcgDgPZggyAm~cWaP3Bh.png?width=193&height=300, 1
 Rosemary (MnT), https://images-ext-1.discordapp.net/external/nMrw6hEWsFQHvZKRrPbxqaQSGhtO5_DUEIZSjuFvllU/https/mudae.net/uploads/6513439/N7X9ox4KRZG6HN6awNf7~pyq9cbpzpl4.png?width=193&height=300, 1
-Taura Twister, https://images-ext-1.discordapp.net/external/puSP3p_RELwWA8qRl0SqpT-en_qaKiqcL82gGuy467Q/https/mudae.net/uploads/1982482/Bx1iytAe0LEu_ejAHlYJ~OpfZJFa.png?width=193&height=300, 2
+Taura Twister, https://images-ext-1.discordapp.net/external/puSP3p_RELwWA8qRl0SqpT-en_qaKiqcL82gGuy467Q/https/mudae.net/uploads/1982482/Bx1iytAe0LEu_ejAHlYJ~OpfZJFa.png?width=193&height=300, 4
 Onpu Segawa, https://images-ext-1.discordapp.net/external/VDqreMh4Ot58XZWwRgOcyDXtF4O475hbKPP-wPoOMSY/https/mudae.net/uploads/6620182/u8ad_zDVUiFTFtUdxm1T~x0ISWxz.png?width=193&height=300, 1
 Gloriosa, https://images-ext-1.discordapp.net/external/e-qXvicR5bWaqtjW2A5OC0IGifsn3JvG1S4azf6vmPM/https/mudae.net/uploads/8855088/z5RkO9N9-AnSiO5Hbwzk~njfyU7a.png?width=193&height=300, 1
 Amanti Patel, https://images-ext-1.discordapp.net/external/Bh1A2z8WVYqCCBC-UU7fSXplUydKZqNrAEN3cnkKRfk/https/mudae.net/uploads/8315713/RlzPlcdynq3nJSUNEZRz~i5DVcKw.png?width=193&height=300, 1
@@ -786,19 +786,19 @@ Ryoko (KHM), https://images-ext-1.discordapp.net/external/RcD2BB86yD7vGGW5T5xNoZ
 Zhu Li Moon, https://images-ext-1.discordapp.net/external/yc-2BWAhRSDTU2djITTRjbH-S9xvqHwr8g-CnmbSR-E/https/mudae.net/uploads/4367428/jO0XGemi1JyThtHSmxb5~agMqOrP.png?width=193&height=300, 1
 Stormy (Pusheen), https://images-ext-1.discordapp.net/external/urm0aFyqiJEXJzZsBmTs3NYa8vQSVtocVYpQpvsLtd8/https/mudae.net/uploads/3036648/NnycfaHTRYFqAd-EAuJi~M8DcmhO.png?width=193&height=300, 1
 Naomi (KnKH), https://images-ext-1.discordapp.net/external/kUtMto3WU02bNtDp1Ag9Zo-4L4pFgEao8yKNrhotnyg/https/mudae.net/uploads/1543837/C5dXxMwBFJ6fhO83IGca~pp90C7o.png?width=193&height=300, 1
-Iori Tanaka, https://images-ext-1.discordapp.net/external/qR4avV6UznpbxhJoM2GKwYSxMr-0pUPGv7rahb9xjgY/https/mudae.net/uploads/9074947/fnwxqCm7uniIV5WKbEKT~dQJyoPp.png?width=193&height=300, 1
+Iori Tanaka, https://images-ext-1.discordapp.net/external/qR4avV6UznpbxhJoM2GKwYSxMr-0pUPGv7rahb9xjgY/https/mudae.net/uploads/9074947/fnwxqCm7uniIV5WKbEKT~dQJyoPp.png?width=193&height=300, 2
 Grea, https://images-ext-1.discordapp.net/external/f_MFDHqg_mZ475Nxqh6MaTwR99I5-vv084Ga9ZeEUgY/https/mudae.net/uploads/4423313/Ce-lzQqGeuoyLEHmvkZs~OFrld3E.png?width=193&height=300, 1
 Saturn-chan, https://images-ext-1.discordapp.net/external/ltNpYt9a0MQzmhKRUnSgU0cbYWAOWLVWvNnUeOmWUGI/https/mudae.net/uploads/5789237/7TJy5dq5i5sGEGLnunq1~hJZoUHH.png?width=193&height=300, 1
 Axel (TD), https://images-ext-1.discordapp.net/external/JFAw3Aog0Tv_dsBa59fFBaIK2-YjkcH9-1ZSyDtQg64/https/mudae.net/uploads/7327815/dBi8ZXt6HvxJVF_qEJ8h~lkRVhhL.png?width=193&height=300, 1
 Therese Sigrid von Philip, https://images-ext-1.discordapp.net/external/79pd2BqSGeOW1lIWBg8582TbWB1WM70RbuChHX9wNvc/https/mudae.net/uploads/2389952/1H00ZxAifPSQcnLzJq45~XRTqC64.png?width=193&height=300, 1
 Angol Fear, https://images-ext-1.discordapp.net/external/0zy5WiDeuGOE5iOtgGbxL4okdBJuo2CsgecKzrdPNVI/https/mudae.net/uploads/3006090/08FpQgdBGpkGhAkDHkmF~IN4Xh7D.png?width=193&height=300, 2
 Elizabeth Von Habsburg, https://images-ext-1.discordapp.net/external/kYGQnVoU6YjGSMz-GroWCJEwbI3ZcidBUC6my4WznrA/https/mudae.net/uploads/5540090/eCW0Sq3g839nj_pLfVFx~3djeec9.png?width=193&height=300, 1
-Crimson Drive, Aphrodite, https://images-ext-1.discordapp.net/external/LmepDSZihPNTfqIwLmgIZC3Hbci6ldEaorN_yo-D1bg/https/mudae.net/uploads/4455732/aDNG_mKKnRyCe4l2HJBz~ECVvFge.png?width=193&height=300, 1
+Crimson Drive, Aphrodite, https://images-ext-1.discordapp.net/external/LmepDSZihPNTfqIwLmgIZC3Hbci6ldEaorN_yo-D1bg/https/mudae.net/uploads/4455732/aDNG_mKKnRyCe4l2HJBz~ECVvFge.png?width=193&height=300, 2
 Jodie Starling, https://images-ext-1.discordapp.net/external/JJ2ZDrWWiye6CUxvdQcpM8EFS_c_iKeBMc5XMSlfiec/https/mudae.net/uploads/6052203/5xivgoSQW2qkAwV__rZf~idkaudO.png?width=193&height=300, 1
 Youna Aragaki, https://images-ext-1.discordapp.net/external/z0mAg1PYYtGktC6nCBEboNr9dTd8fLLnT4F4U5RGSu8/https/mudae.net/uploads/6442976/jmuyUGnfez0c9lndvFj0~5LUXsFb.png?width=193&height=300, 1
 Nadia Wong, https://images-ext-1.discordapp.net/external/RcwXvAhxGxGLoOnW2T0HJfnehofrY9sKJzCEgJY-8a0/https/mudae.net/uploads/9595993/gHPkCkQvjHE0bP7xsjWo~6W1AzGn.png?width=193&height=300, 1
 Rolonia Manchetta, https://images-ext-1.discordapp.net/external/eLf0zCI-SCYjH6xe8omcsYkvXvMN5krV3b9YfxR3wyc/https/mudae.net/uploads/8307718/Tvwz1jqO6tKQnpQVy_Ug~m453ROG.png?width=193&height=300, 1
-Matilda (AB), https://images-ext-1.discordapp.net/external/F-72iNxFZHm5Tc5VNHWUqj4ecYb4MXTtMlggMkCu6Qk/https/mudae.net/uploads/5769610/WdeuL_JXNYnmIvmqjwJK~QRdmcc9.png?width=193&height=300, 1
+Matilda (AB), https://images-ext-1.discordapp.net/external/F-72iNxFZHm5Tc5VNHWUqj4ecYb4MXTtMlggMkCu6Qk/https/mudae.net/uploads/5769610/WdeuL_JXNYnmIvmqjwJK~QRdmcc9.png?width=193&height=300, 2
 Cordelia Chase, https://images-ext-1.discordapp.net/external/JSJ1FwZ-XyBTaZ73_oFGLTgCD5C5UY_8hOYHGadU6bg/https/mudae.net/uploads/7593483/3RazmYbo931gn9dT3gpp~BvdPyiZ.png?width=193&height=300, 1
 Kumiko Oumae, https://images-ext-1.discordapp.net/external/aevivMUrzmoKnuEUGfKXcagIhi4KP-R8VNn_hxE-dXQ/https/mudae.net/uploads/3185506/0Y35ekk4AE9SDtbkBb__~TUa9ORM.png?width=193&height=300, 1
 Christina Morgan, https://images-ext-1.discordapp.net/external/tDihaS2yzsa6YOLOKdcCGvAO63v3FmpCYnEqgOPQH6Q/https/mudae.net/uploads/5251003/7Vxdsas6FHZTjW1BtdrA~RIWNhmq.png?width=193&height=300, 1
@@ -816,7 +816,7 @@ Eleonora Miranda Kuschpercha, https://images-ext-1.discordapp.net/external/p5rtb
 Tessiana Del Rowell, https://images-ext-1.discordapp.net/external/XdtK2BBgom3agCaXGJZ7G8GB1MpUwl80KvUPmIBVfr4/https/mudae.net/uploads/3486951/j0DceMlKzG-ATcZrFsth~hXXl4yz.png?width=193&height=300, 1
 Marie Lily Antoinette, https://images-ext-1.discordapp.net/external/ObdhhEg1gNxJi-CTNrdMIaVF6EYcFPBFFAOHGfIMeFA/https/mudae.net/uploads/9783598/45cLLXk1uCMbADdWK5nA~hHv9XHa.png?width=193&height=300, 1
 Eve (BMZ), https://images-ext-1.discordapp.net/external/dSBl8H3-KAKP0HBKNoEkMXx3i7u__u4iQn3KsLCSM-k/https/mudae.net/uploads/6999110/IbNY4W2BxVpqYuVwiAAq~BM62UJq.png?width=193&height=300, 2
-Cecaelian Steela, https://images-ext-1.discordapp.net/external/VjYiHwgQ02N6GPMidh77dRzQ_0a3reHBVyvwmbsxICA/https/mudae.net/uploads/9768505/zHEqQMu4U30vPZULOQcZ~rM4BGHP.png?width=193&height=300, 1
+Cecaelian Steela, https://images-ext-1.discordapp.net/external/VjYiHwgQ02N6GPMidh77dRzQ_0a3reHBVyvwmbsxICA/https/mudae.net/uploads/9768505/zHEqQMu4U30vPZULOQcZ~rM4BGHP.png?width=193&height=300, 2
 Samanan Anantrakul, https://images-ext-1.discordapp.net/external/9rK05ycM2jHCeN9RGO9IORF-jgkt5TS6EQoPNSEbuOw/https/mudae.net/uploads/6175867/UI33u1_c53QWyxZK6uKn~seMDl1r.png?width=193&height=300, 1
 Mollie, https://images-ext-1.discordapp.net/external/IdUhQHVpqHjrAxQJkZYnRKCuR5CNkjx9ry57vOeB6so/https/mudae.net/uploads/5499841/l6eaA-qNM1A2OsqcZYKq~qBtzMry.png?width=193&height=300, 1
 Mitsuki Shijou, https://images-ext-1.discordapp.net/external/4joqv_Zge7vUkvDmkT1oAx_Cums7jBxTzHJRDXEgNCQ/https/mudae.net/uploads/6215386/S5-qCCfu3bWetwdiAqop~J9srZIo.png?width=193&height=300, 1
@@ -835,18 +835,18 @@ Shizuma Hanazono, https://images-ext-1.discordapp.net/external/8hDNk_QnYWGBIgaWG
 Cagalli Yula Athha, https://images-ext-1.discordapp.net/external/tSkE-X_DUpn-Zv-JH21TS7Nke2r_g1OPG61BS4mxT2M/https/mudae.net/uploads/5931292/zwa-wc0qq4BCYIwiNp7c~2s6qRgv.png?width=193&height=300, 1
 Belial (TK), https://images-ext-1.discordapp.net/external/oktjeskh-jZLsDJvXQx9sdJ5pliUEEIavgyag-vcglQ/https/mudae.net/uploads/5216239/10sIOnanV0mnGsaRmgUw~dX1LjBl.png?width=193&height=300, 1
 Emma Verde, https://images-ext-1.discordapp.net/external/AbeJ04GQCDMVsg7DiH-xW64eyAehjB329GjKYAatp3o/https/mudae.net/uploads/9976110/MH577xt58i2rdhJb5IlC~e9LxSkI.png?width=193&height=300, 1
-Noin Teta, https://images-ext-1.discordapp.net/external/9qkMuvnVkjs2EaadNc0QuYPT9bL6oy_Vbfnrv1rwh48/https/mudae.net/uploads/2431827/oJuijk6U29id0BZYcK6R~TbO3yaf.png?width=193&height=300, 1
+Noin Teta, https://images-ext-1.discordapp.net/external/9qkMuvnVkjs2EaadNc0QuYPT9bL6oy_Vbfnrv1rwh48/https/mudae.net/uploads/2431827/oJuijk6U29id0BZYcK6R~TbO3yaf.png?width=193&height=300, 2
 Curse of Dragon, https://images-ext-1.discordapp.net/external/hMdhrINXhBDjbdBpg3pUcJfGzobGO-6YTxrpUqYwO9c/https/mudae.net/uploads/9162148/yxtId1f9c7QVV39sw6ir~fi8PmuM.png?width=193&height=300, 1
 Red Diamond, https://images-ext-1.discordapp.net/external/nq8gMCoaC3It5xsvFFxwMC0wfycl7ZXGJRVyxw5ecPI/https/mudae.net/uploads/9526198/0nkRZraFmxt41MUD8SaC~zGV1Eah.png?width=193&height=300, 1
 Kuramochi Meruto, https://images-ext-1.discordapp.net/external/aN42uPPI6Nus-feuNI_zrPn0SRyVVn54f4E8GI4cOVA/https/mudae.net/uploads/5568234/s97ofOrQXJRii67rOYQw~84apcgxe3j4.png?width=193&height=300, 1
 Kyouko Kirisaki (BC), https://images-ext-1.discordapp.net/external/bRrzk4ePstqPZHJPnXpb9yrJUycWtO3tIzt0PwsgJXU/https/mudae.net/uploads/6713327/c3DHSnLtXMt1EG0XHcFu~7R54fmK.png?width=193&height=300, 2
 Sawako Kuronuma, https://images-ext-1.discordapp.net/external/bNxHQpvbWkRxHBGU3iGDwLjuHCp29dRzOcT9MhEJ3Ck/https/mudae.net/uploads/1297756/qHc3E0Gy_9bv9t4BlXaf~gnXoh2F.png?width=193&height=300, 1
 Lilu Finnian, https://images-ext-1.discordapp.net/external/o_Lv9BnCNFxokJsrRNsVVIWHyp_9rDj6RkfDFCw3trM/https/mudae.net/uploads/2423711/56lj1Zg-ll7ZtM4CYyso~gdy9aMw.png?width=193&height=300, 1
-Natsuhi Hinode, https://images-ext-1.discordapp.net/external/9KryD6H0vVk3L0LRezAtwpMtSC3qfjM50wlJs8HTozs/https/mudae.net/uploads/6361568/-CzWbkArV0lGbAOfBE5U~K3861VT.png?width=193&height=300, 1
+Natsuhi Hinode, https://images-ext-1.discordapp.net/external/9KryD6H0vVk3L0LRezAtwpMtSC3qfjM50wlJs8HTozs/https/mudae.net/uploads/6361568/-CzWbkArV0lGbAOfBE5U~K3861VT.png?width=193&height=300, 2
 Noelle (KnA), https://images-ext-1.discordapp.net/external/-BTLJ_Xy0-1NNrdh4jduOs_lpzM_pgphBv2QTOcaaaE/https/mudae.net/uploads/7184594/hUf7kbnkH8n8qvvXsjiS~vF9KV3E.png?width=193&height=300, 1
 Shiemi Moriyama, https://images-ext-1.discordapp.net/external/3k4RchLauSUtZeZPKFedR3D86YiBF0Cgen9esNOLr8c/https/mudae.net/uploads/4202120/K2cNV_BIRIVjBfASegXW~y5zUGlq.png?width=193&height=300, 1
 Chinatsu Morikawa, https://images-ext-1.discordapp.net/external/vNpOPd0aaqaAEoz0k6ajXsNOoaivkmsODW1aWKitMds/https/mudae.net/uploads/8968280/ArqmdQy1YPoQHIHWfK0H~ZxpieGI.png?width=193&height=300, 1
-C-MOON, https://images-ext-1.discordapp.net/external/ZhpiVainvxAZvO2ovZgWahRzvXGRDMMeDqHY4ow-1fQ/https/mudae.net/uploads/6984276/IpA5-umeLJQ7_5oNAL4Q~OLlkStZ.png?width=193&height=300, 1
+C-MOON, https://images-ext-1.discordapp.net/external/ZhpiVainvxAZvO2ovZgWahRzvXGRDMMeDqHY4ow-1fQ/https/mudae.net/uploads/6984276/IpA5-umeLJQ7_5oNAL4Q~OLlkStZ.png?width=193&height=300, 2
 Gyokuro Shuzen, https://images-ext-1.discordapp.net/external/t44xNeXzwyKugHYNk6ewNDDdFCFbFITFJfd75y8_p0I/https/mudae.net/uploads/3573131/t79VhePXlYf-VdHWEsyj~2kg8wZ1.png?width=193&height=300, 1
 X (GC), https://images-ext-1.discordapp.net/external/TdGHBWa8gjuTrJ2rgBTNf_rHm4kuGZrvRD9QwVVkTGY/https/mudae.net/uploads/7630117/wMJ-2TFuIBuIJlg-B1Dj~ZfbDauu.png?width=193&height=300, 1
 Kamyu, https://images-ext-1.discordapp.net/external/j0sH78njui9KR7fn6pQFqVjoiSLB5VJsZf48L5p9kdg/https/mudae.net/uploads/2254277/uCKXqDBjB7fr_dirIajk~PUUST6D.png?width=193&height=300, 1
@@ -857,7 +857,7 @@ Mejiro Dober, https://images-ext-1.discordapp.net/external/FenNlPI-vc_vG_D91MgJH
 Tsubasa Shibahime, https://images-ext-1.discordapp.net/external/rDv416kTdjmRgAX33nqhHIRVET5c0Tka2UARc1cBU2w/https/mudae.net/uploads/4165800/RBFCrV1HcJ9VCNlD9b4p~jkYH5Fn.png?width=193&height=300, 1
 Suyeon So, https://images-ext-1.discordapp.net/external/-NVLHk9ySe_AJSnjX2x4790I8zxYaGzZTUMSv4fkzJU/https/mudae.net/uploads/7018148/VyQvTSjCofs0_A7TXA7f~lp3woXq.png?width=193&height=300, 1
 Asahi Shonan, https://images-ext-1.discordapp.net/external/zSILN5nb7Bw3dfqD9wwTyG4hxyP6SL9z0PA8Eo0Ldd4/https/mudae.net/uploads/3645435/gwTFVXryI6YdPREv22eH~tT99fiH.png?width=193&height=300, 1
-Yumimi, https://images-ext-1.discordapp.net/external/x4AiXyp6A1x7l_IjkrhS4-WjsHhrAQpAS7KACDYTbZk/https/mudae.net/uploads/1448364/DZdmI35xCwN0F1d-RbN3~yGwcKDR.png?width=193&height=300, 1
+Yumimi, https://images-ext-1.discordapp.net/external/x4AiXyp6A1x7l_IjkrhS4-WjsHhrAQpAS7KACDYTbZk/https/mudae.net/uploads/1448364/DZdmI35xCwN0F1d-RbN3~yGwcKDR.png?width=193&height=300, 2
 Cha Seim, https://images-ext-1.discordapp.net/external/6F2GmZcVUFOIIVpleXYaFFwdzbrjdJtKshJzTZg0A1E/https/mudae.net/uploads/6582265/7XRs732Z9KKlkUTQcMiy~yNbXL8U.png?width=193&height=300, 1
 Touka Nishikujou, https://images-ext-1.discordapp.net/external/N-Lc8CDipWfpFyH8rIxWi-ZN2Vxt-CAcuDLiL6FsaCM/https/mudae.net/uploads/3635183/7sCnOSW63t1jhqPKjnM-~2IpAIt2.png?width=193&height=300, 1
 Satoka Sagawa, https://images-ext-1.discordapp.net/external/JCWrYS4HysADmaQ5BaxpEf_vJpHhqwtVvv-ksgvPMI8/https/mudae.net/uploads/5982230/u6D7bDAE4yTjp39ceKEB~QS58Cwm.png?width=193&height=300, 1
@@ -866,7 +866,7 @@ Sakura (SnS), https://images-ext-1.discordapp.net/external/SPGK-0MXMdZtWVH8U3pFA
 Sumiko Hirao, https://images-ext-1.discordapp.net/external/uzAk8ZaWuUGm7_w7Sr07sqiX3VHl-3IXQpt00DHHAmY/https/mudae.net/uploads/3239885/Maohq7RaLnXBONxh6M0C~Uug35tH.png?width=193&height=300, 1
 Lugia, https://images-ext-1.discordapp.net/external/RJh2q3OEQKT4iuKgCNKeiw11oYXq7IfwGh-tkkHODgc/https/mudae.net/uploads/6654676/WGB_Sz3dQnYdUyPz0Hmg~4HL0UTr.png?width=193&height=300, 1
 Park Hee-Jin, https://images-ext-1.discordapp.net/external/xdug1ENNdtUze0WG9z0CJDFNwyqCoh2AR7rKXMYHrxQ/https/mudae.net/uploads/6157589/0rB0bYgrROjQNSm2FRPA~V2hgpZk.png?width=193&height=300, 1
-Chishibuki, https://images-ext-1.discordapp.net/external/Iv0zBrgQkKkLzhoGrO8UQQeJqfAy5wxUw9l3uEjFJuc/https/mudae.net/uploads/1919912/zf5g1kEq4xpo5HZugyYm~ayStnvB.png?width=193&height=300, 1
+Chishibuki, https://images-ext-1.discordapp.net/external/Iv0zBrgQkKkLzhoGrO8UQQeJqfAy5wxUw9l3uEjFJuc/https/mudae.net/uploads/1919912/zf5g1kEq4xpo5HZugyYm~ayStnvB.png?width=193&height=300, 2
 Na Juyeon, https://images-ext-1.discordapp.net/external/EPPfeFxrF2rNOKisUiWzvA8HrEqgPHT5xWl3tvr3iQw/https/mudae.net/uploads/6540890/yKZmcUoFApNG_3Mijl2D~RDB9taR.png?width=193&height=300, 1
 Ulla Eulesse Hecmatika, https://images-ext-1.discordapp.net/external/4rZfhtUxbCtARo9eae4z1hAiU2WMEHMjUWgOh9SP55Q/https/mudae.net/uploads/7956070/UdYIOC1d0F4sOWCK-owV~RmbmAUF.png?width=193&height=300, 1
 Hinaki Ubuyashiki, https://images-ext-1.discordapp.net/external/PBVQDJ5PK6J2EmyeGw15AINefQezZ76t3mpzRLvHcpU/https/mudae.net/uploads/3756855/I0KKprNM2-hMuLN__EUl~3zNnpOQ.png?width=193&height=300, 1
@@ -1011,7 +1011,7 @@ Miu Ashihara, https://images-ext-1.discordapp.net/external/vm9w37lj7htpaTUHbDSEB
 Lapis Lazuli (MSN), https://images-ext-1.discordapp.net/external/mHYfqh01GA6Eiw2mHsj4fojHLeSgeQdlANSJZjmJbmI/https/mudae.net/uploads/6535765/C7rva44FrxoZ76rKU9Vi~fQLowWV.png?width=193&height=300, 1
 Baek Hayeon, https://images-ext-1.discordapp.net/external/4TGtqG7KFLgI_o8ALctXDSFoS7Ckb3KjFse4DNm7U7Q/https/mudae.net/uploads/4561431/jsvlexrI0hG85DV--OoP~cxiFtQg.png?width=193&height=300, 1
 Kaoru Usami, https://images-ext-1.discordapp.net/external/MRlEnbg2QgKjntC2A8AYnSO_HSdrKvGnt2U9qlFi0RM/https/mudae.net/uploads/5705873/szcHYF_sP41UdJary5-V~5RUf5Dd.png?width=193&height=300, 1
-Daryl Cavendish, https://images-ext-1.discordapp.net/external/WV1WNH4jbCTvGIitzZyyFfKbgbnya50BY0uQpds-6sI/https/mudae.net/uploads/3849989/MXyJKVjx1IvgriS6SVKu~BV0AfBS.png?width=193&height=300, 1
+Daryl Cavendish, https://images-ext-1.discordapp.net/external/WV1WNH4jbCTvGIitzZyyFfKbgbnya50BY0uQpds-6sI/https/mudae.net/uploads/3849989/MXyJKVjx1IvgriS6SVKu~BV0AfBS.png?width=193&height=300, 2
 Theresa Rapual, https://images-ext-1.discordapp.net/external/qecHcWLCmJOD1ke7GG6RZPoXNhNkQuniRLp7Rq690zs/https/mudae.net/uploads/1706564/b7tSYmaJjlCyobeRMdwY~v8qOMxD.png?width=193&height=300, 1
 Romy, https://images-ext-1.discordapp.net/external/jBAliZlGZN6-fOxW3CwTECDYD5AOk1dSw8KsuPzFV-o/https/mudae.net/uploads/5452621/SgMyelmVzSKZHkUW0bL2~T5wANbb.png?width=193&height=300, 1
 Udin, https://images-ext-1.discordapp.net/external/5E_5McJR6-zLXFvlm9j5SwpwsNSV5ys-bkHxE-pA6DQ/https/mudae.net/uploads/6356600/4EMvsrggwurCr-dNejjp~VbXn1Ue.png?width=193&height=300, 1
@@ -1074,7 +1074,7 @@ Clip-ons, https://images-ext-1.discordapp.net/external/yZLzJBjhAVIZk48HEMwBL0UAF
 Grell Sutcliff, https://images-ext-1.discordapp.net/external/REWAigsL3yI_qKOCfd4iXvvcVHBwS2bscAYwFMbHFBs/https/mudae.net/uploads/4751793/xHe8AbAyQng4_9BkueeO~NnmwG5V.png?width=193&height=300, 1
 Himemiya Sakurako, https://images-ext-1.discordapp.net/external/JncsFY3hns1Hd82iy8fxr9_O4G7F354cHnfyWDZxoNY/https/mudae.net/uploads/1185752/vobUvY7rd7xnUyzJ9YGu~4e1ONFM.png?width=193&height=300, 1
 Yuuko Nishigori, https://images-ext-1.discordapp.net/external/ML3lidNof21vyVMLGZazCtEXoufOVLWDa1-AX4Zpepw/https/mudae.net/uploads/9816850/f63PUXQmG2fmyfW7Zcau~1678wbw.png?width=193&height=300, 1
-Almaria Duffner, https://images-ext-1.discordapp.net/external/_vi8t-bk6ya93p3eHe94Cpb7gRg5bT1yZzFjErodZOU/https/mudae.net/uploads/2493709/OD8nj3SR-Lzn0kOa5xlw~IUhyRvQ.png?width=193&height=300, 1
+Almaria Duffner, https://images-ext-1.discordapp.net/external/_vi8t-bk6ya93p3eHe94Cpb7gRg5bT1yZzFjErodZOU/https/mudae.net/uploads/2493709/OD8nj3SR-Lzn0kOa5xlw~IUhyRvQ.png?width=193&height=300, 3
 Sen Inuhara, https://images-ext-1.discordapp.net/external/8N3A7KxMaOeUhH20IYqUj2q7pfzh9uxgafXPWsa19q8/https/mudae.net/uploads/9621823/ypFHCwpys6y348Jh-YWz~azYCFSI.png?width=193&height=300, 1
 Azusa Miura, https://images-ext-1.discordapp.net/external/w-zWdFF_zB9IUtqMCwaZJfnPbJPRlrPF21W08M4dCIU/https/mudae.net/uploads/7698513/7WIUR401TvBcF9njW_J4~VvLMUAQ.png?width=193&height=300, 1
 Saki Midou, https://images-ext-1.discordapp.net/external/WpXdome3cxo8kjeuDUpWKuT00ueqpOEcvc99Y4Q8QqE/https/mudae.net/uploads/6990436/auXGaFIKgK4CT_Ahb2_B~BflhVd6.png?width=193&height=300, 1
@@ -1155,7 +1155,7 @@ Giant, https://images-ext-1.discordapp.net/external/KIatKhe0dV8v3W9d9Z6k0-qtikZK
 Doobie Wah!, https://images-ext-1.discordapp.net/external/-Vs91ZoVbetbD1eZFCAIXSfAGQXccGg-MxdAX9NJOXM/https/mudae.net/uploads/1349323/aHT77Quk0trn3lqydsmw~yn1eERi.png?width=193&height=300, 1
 Setsuko, https://images-ext-1.discordapp.net/external/Asd3Z3spFURr8s2EB6H4cXoOppBWOsnK1olzl2YD6xc/https/mudae.net/uploads/2968473/8c0tiN3zOXN-22s78j19~Mnub3Cm.png?width=193&height=300, 2
 Maria Arden, https://images-ext-1.discordapp.net/external/APRi81wlcvgpmhkurwNyauoyPdwRAO1DIoiNETdxmIw/https/mudae.net/uploads/1633541/sMTByt50HVMj5VSgSGXh~ZmOSFN2.png?width=193&height=300, 1
-Dark Trooper, https://images-ext-1.discordapp.net/external/1iEs29upRrE91GSaRnKpwWKzfCQ58DooeYJPO7gp19k/https/mudae.net/uploads/6334926/1fkLa8ltfDLxubh1ciXy~PTBnxsJ.png?width=193&height=300, 1
+Dark Trooper, https://images-ext-1.discordapp.net/external/1iEs29upRrE91GSaRnKpwWKzfCQ58DooeYJPO7gp19k/https/mudae.net/uploads/6334926/1fkLa8ltfDLxubh1ciXy~PTBnxsJ.png?width=193&height=300, 2
 CHU², https://images-ext-1.discordapp.net/external/zScbumD3_9bfGzATPPY-yJ1_yu2fpELWwHS3umaY14E/https/mudae.net/uploads/9415582/ITj7wcDj9vIjD-8J46Dk~r1UvPBA.png?width=193&height=300, 1
 Mii-chan (SS), https://images-ext-1.discordapp.net/external/534VWQlDepUlk7kgbdmce6bVySL0sTmwMBz_miMv12s/https/mudae.net/uploads/7335789/_hMauHZZ384CMHpdx346~eOIjxs2.png?width=193&height=300, 1
 Avu-chan, https://images-ext-1.discordapp.net/external/oR-9aVqnGqfdbESnmezPOWXKhGHdcI0CUO5btA0re0w/https/mudae.net/uploads/5189987/4OKBMSoT7D_XfFeF9Y54~myd5czrk654.png?width=193&height=300, 1
@@ -1185,7 +1185,7 @@ Deunan Knute, https://images-ext-1.discordapp.net/external/Bu8aFTbPTnZOikCeljZh7
 Kanae Hayashizaki, https://images-ext-1.discordapp.net/external/v2efd2fw86vDqEFIZsn7_wPg5S3b1Q9SOlKBcPUb3Oc/https/mudae.net/uploads/3332180/JfTaSrqfxxhnC0b-SOqw~q7BL5j2.png?width=193&height=300, 1
 Xia Zitong, https://images-ext-1.discordapp.net/external/W_GRWHECwVueGn7z78nnDuqTXc-UHwXg6vWimni4KSw/https/mudae.net/uploads/2291139/_mlTDElpgNu8i2oDGpff~o21XzGA.png?width=193&height=300, 1
 Lime (SN), https://images-ext-1.discordapp.net/external/9Zurzuvr-FwQgQ6DmTnNEalG-MprddNkHurYwWcZYBQ/https/mudae.net/uploads/6763182/RdqzLTSGNzenFTJst9jp~T9m5ZHn.png?width=193&height=300, 1
-Shitai Kubinashi, https://images-ext-1.discordapp.net/external/4RWjGjJoIX_B3Fz23Ag8wz6mSbTsW7-4khc9_E4pJls/https/mudae.net/uploads/7282378/OUuKqyuFjmnxMyyKxqJi~TkJY1Ht.png?width=193&height=300, 1
+Shitai Kubinashi, https://images-ext-1.discordapp.net/external/4RWjGjJoIX_B3Fz23Ag8wz6mSbTsW7-4khc9_E4pJls/https/mudae.net/uploads/7282378/OUuKqyuFjmnxMyyKxqJi~TkJY1Ht.png?width=193&height=300, 2
 Ria Arisu, https://images-ext-1.discordapp.net/external/pz_KXd21tFq3eMoAJxKGx4jXG9FgDXVXr8TwmPy6x0Q/https/mudae.net/uploads/1048127/3OmBobhqK_rIeAZRku5e~8VrrBby.png?width=193&height=300, 1
 Setsuko Nagura, https://images-ext-1.discordapp.net/external/V-yYz1hiG5F4QKbtAlg_Sp_SYnGlrI2wF4C72gt6g-M/https/mudae.net/uploads/1607387/9wMGMCGEOavCpvbjtFGI~QlmyHiF.png?width=193&height=300, 1
 Neri, https://images-ext-1.discordapp.net/external/Hp8WKn27KUh4ym3cTC3_HAvy6hVHDkfc7vJXnxT6Imc/https/mudae.net/uploads/1180052/Rlu76IaqUj4K4nX2ch4H~8rQaKIC.png?width=193&height=300, 1
@@ -1268,7 +1268,7 @@ Shirara Tsubaki, https://images-ext-1.discordapp.net/external/rCrZe2kXjJPNv8yCnF
 Chaeyoung (fromis), https://images-ext-1.discordapp.net/external/A77jlFuBPcMJZNbvgTf7fpuJDiD5MqDdQgECxfxngjM/https/mudae.net/uploads/3250905/snBcX6_dfdrbvxEPaB9m~BWHBT1O.png?width=193&height=300, 1
 Shino Inuzuka (NK), https://images-ext-1.discordapp.net/external/YvAhH9N2f--fQeninCx0nzBiFBFm-sn7sXGhzAJth18/https/mudae.net/uploads/6720117/yOLWdxi7cu0OSwHshYFc~0dPmPbn.png?width=193&height=300, 1
 Serena's Braixen, https://images-ext-1.discordapp.net/external/ftnq4FvxumX3V0SlPBmmsZF-ff7MF_11G2-WtmoppPQ/https/mudae.net/uploads/1456331/a584Bd8ecBWCoINkB-Lo~qa5DBmv.png?width=193&height=300, 1
-Okto (TS), https://images-ext-1.discordapp.net/external/Sf3cXiOPB1QWXW0XKNUAi8zlP_8S5grsAoQtL-jRG_g/https/mudae.net/uploads/8293692/neWDzjTFoyU9TTDNCrKb~iULbpth.png?width=193&height=300, 1
+Okto (TS), https://images-ext-1.discordapp.net/external/Sf3cXiOPB1QWXW0XKNUAi8zlP_8S5grsAoQtL-jRG_g/https/mudae.net/uploads/8293692/neWDzjTFoyU9TTDNCrKb~iULbpth.png?width=193&height=300, 2
 Aidy, https://images-ext-1.discordapp.net/external/pnIb41m3LzocQQ--VrEMaW0oewaNvFbfdtjd2fN3AtA/https/mudae.net/uploads/3721741/LAFdDfny8rPvo47ZaiDE~qjtrHUF.png?width=193&height=300, 1
 Shear, https://images-ext-1.discordapp.net/external/sQFqofC467yg1rYDlwEKOGNvKHA8SHZ0Aqi7tD1vd5Y/https/mudae.net/uploads/6318902/60qMx6Me_tZIHS4d285K~OMVPthC.png?width=193&height=300, 2
 Kaguya Houraisan, https://images-ext-1.discordapp.net/external/cdT3QHu8QfwmS1mH6tisLmINLcprrmY7ikd-n9n89bo/https/mudae.net/uploads/4346148/CFl3iHcvWKmQF56QXdlJ~k6PWXux.png?width=193&height=300, 1
@@ -1294,7 +1294,7 @@ Lilas Ikuta, https://images-ext-1.discordapp.net/external/MSjn9TTH9c_4Cd_Bmv6HIG
 Aoi Mashiro, https://images-ext-1.discordapp.net/external/9RkseZA_pAmruWyHFGtLM2oiSui3nd8gv_3JSuMQtW0/https/mudae.net/uploads/4959169/uamjjr8CmgStETUBOn6K~6BKDPi0.png?width=193&height=300, 1
 Chiyoko Kamiya, https://images-ext-1.discordapp.net/external/IV6BCDxF3iwmXu3e1H6fAeRlzh1FtFdRb28OBpkq8Dg/https/mudae.net/uploads/1579245/oEnw-CZmulF_HcA6_4mZ~T5KJcpy.png?width=193&height=300, 2
 Amnero, https://images-ext-1.discordapp.net/external/5R6hgSHAEiCHfckrU_l0cI1_F8YWahOIPMywOXfnxaI/https/mudae.net/uploads/5136837/YGXODZ89hRrRPVs7Djnr~iz4O6IX.png?width=193&height=300, 1
-Risa Shirakaba, https://images-ext-1.discordapp.net/external/xda9Idv4RqNTnpWX-EyxFqoSxO9k_Y8K2E0CTgEMVHM/https/mudae.net/uploads/4094547/SecvjbZJ8bZ7x94z0grt~t6BqmtU.png?width=193&height=300, 1
+Risa Shirakaba, https://images-ext-1.discordapp.net/external/xda9Idv4RqNTnpWX-EyxFqoSxO9k_Y8K2E0CTgEMVHM/https/mudae.net/uploads/4094547/SecvjbZJ8bZ7x94z0grt~t6BqmtU.png?width=193&height=300, 2
 Jeanne Euphoria, https://images-ext-1.discordapp.net/external/Ji8SCVRTB2Mylu2h3Z9Foa3z86EzqStFclne57ZRSng/https/mudae.net/uploads/2935421/lelHyPWAueafelsTjJPR~1WSL76o.png?width=193&height=300, 1
 Coco (Kuro), https://images-ext-1.discordapp.net/external/NC9Sa-6SDG7JXIeIhW3Dz7v8YdXebDRWbEQF7kHgWmg/https/mudae.net/uploads/7573411/Kn8_csXUk-Qnj665GAAM~St1DjqX.png?width=193&height=300, 1
 Rinkou Ashelia, https://images-ext-1.discordapp.net/external/Dty_bLD2PFZU31BeMyrd3YhLZi3uBLWuNOsI-8BgFPM/https/mudae.net/uploads/5726408/GjyspFSIRKmGwNST5uub~j7kzc55wnd7.png?width=193&height=300, 1
@@ -1307,7 +1307,7 @@ Caroline (PKMN), https://images-ext-1.discordapp.net/external/6gkzFmUfyKccoEi4fm
 Di Gi Charat, https://images-ext-1.discordapp.net/external/Tq7_bdAFtalaQLmKS3WJm_Dm-OVsm_NTMDJwlew_l80/https/mudae.net/uploads/1959933/EvXc_Uvf0M7RIJD79Z_Y~aHvCU6R.png?width=193&height=300, 1
 Carmilla (NS), https://images-ext-1.discordapp.net/external/5mNYHHTBbKs8I4VTso8Spw1FBBwg75R2abRRczb-YZ0/https/mudae.net/uploads/7562376/5s4cUX4NttVcdbhkSkHM~ORffpf9.png?width=193&height=300, 1
 Miyuki (YYH), https://images-ext-1.discordapp.net/external/5Gx4JxvwdLWa0RoiUaGld4dhrZAm_XTwJvJOh2VzJlg/https/mudae.net/uploads/5505624/EGXeG5BxSGjCrU0R-yEY~jGisLOL.png?width=193&height=300, 1
-Kanna Temari, https://images-ext-1.discordapp.net/external/LFVVHsuaI5iJyjtdNGVpLbAgQCJW63tyOYQPEuoq3_4/https/mudae.net/uploads/1048561/RBiJsffvqWHG1RjkGjBq~hkgX8QA.png?width=193&height=300, 1
+Kanna Temari, https://images-ext-1.discordapp.net/external/LFVVHsuaI5iJyjtdNGVpLbAgQCJW63tyOYQPEuoq3_4/https/mudae.net/uploads/1048561/RBiJsffvqWHG1RjkGjBq~hkgX8QA.png?width=193&height=300, 2
 Jane Marple, https://images-ext-1.discordapp.net/external/LGgaFxM27giefLW05LsALEN3KlChp85BkPunT2xyBe4/https/mudae.net/uploads/5924628/706p4LqQUQQEfMh3bzpT~IJr8Uai.png?width=193&height=300, 1
 Raven (HI3), https://images-ext-1.discordapp.net/external/c-jVZICtrtQAVOJ8JTNkhrUSljIZZs3HDZYK7hHhmvs/https/mudae.net/uploads/8589558/lf6JN1-ozlK9zWsr9XAN~AxKv6A4.png?width=193&height=300, 1
 Mireille Bouquet, https://images-ext-1.discordapp.net/external/4jHmQyKRNQQbvE7-_QZD5-d5MffDiJNn6t6Yu-FHe4I/https/mudae.net/uploads/6274228/-kttd6HlejDFztFEy6rv~upNcafZ.png?width=193&height=300, 1
@@ -1373,3 +1373,567 @@ Pandora, https://images-ext-1.discordapp.net/external/sE_5uVUuOrrygdJoYrlNASQ84b
 Kitakami, https://images-ext-1.discordapp.net/external/ogeaDMf0nO6X5sFHYPKX3N14Dobklf0vw6Q5_GwLQ0g/https/mudae.net/uploads/8792066/_QArgN1B9Kt8_5cVBHG6~j2vi6Iy.png?width=193&height=300, 1
 Psycho Jenny, https://images-ext-1.discordapp.net/external/Ax1V7G12JV7IylHPhRurYboySLl6OcCmkAYlrk2vFiM/https/mudae.net/uploads/1540505/r6sum_9cvwxDbvIAoJjM~9PGepDZ.png?width=193&height=300, 1
 Mina Yayoi, https://images-ext-1.discordapp.net/external/LTqXOyufsKNkrX6JkB6rcuNcXEFBC6bP3dx1PGW1NN4/https/mudae.net/uploads/3979605/gbIaxiu95niBbBg58iGc~wO63a4M.png?width=193&height=300, 2
+Chihiro (AD), https://images-ext-1.discordapp.net/external/UyPUMQGvGvXHKmndc6o3zCjgo6eWtZ_gPg1qlwEm6AE/https/mudae.net/uploads/8590414/u-6ElT1M4fEEBag9_V_o~KXekY33.png?width=193&height=300, 1
+Rin Penrose, , 1
+Reira, https://images-ext-1.discordapp.net/external/VaX5yMUEa_UCfxbR-v5_eHlZBS_xsWHCvaxObiFUwbA/https/mudae.net/uploads/3223501/mMOtXDaSWHYjwFynCkpx~Sgiftaq.png?width=193&height=300, 1
+Lizzie Hearts, https://images-ext-1.discordapp.net/external/X4NsaSiFblA_joNhQ_rNXKj7bvAh4WsIIb49369rOsw/https/mudae.net/uploads/3475555/FfvOoozdwqQw5AYNmEqT~DrVT1n2.png?width=193&height=300, 1
+Aoi Torino, https://images-ext-1.discordapp.net/external/O0ECqk_wcP10frvA6k4gNY645_FTFpgEzB3OWSsusr0/https/mudae.net/uploads/1183627/_ulnxg2xJv-lfTeZewpj~QHGICNV.png?width=193&height=300, 1
+Queen (MGSOA), https://images-ext-1.discordapp.net/external/p4YhMCQVxpLFbzQXBNxtFQ9zZTIQjAi9QzxTduQYia0/https/mudae.net/uploads/6359991/RskglIqr4MU4u4A_QDPM~xUGJIfO.png?width=193&height=300, 1
+Kyou Yoitsuki, https://images-ext-1.discordapp.net/external/3RjOv7u8QhFsX1D6KjeaYQBfoXsoL8mpL-zfUgOH9Sg/https/mudae.net/uploads/7134212/gmYDxqv7JWq6OeVF_EgY~MRmnfgd.png?width=193&height=300, 1
+SCP-035, https://images-ext-1.discordapp.net/external/fO9mLwTl1KnN-DsW9cT_dRPX1pURnHGJk2covRcaGSY/https/mudae.net/uploads/3580862/Rl6p-MO1Ix_uDuo49qf1~bVNmkXL.png?width=193&height=300, 1
+Lust, https://images-ext-1.discordapp.net/external/-z2w8kmf62AEHHHhfMPnd5VQ9_3JV-JGHpXW_MxGuPk/https/mudae.net/uploads/1074288/mXTLAj66VmfH3tXMP0UE~gJOtsXP.png?width=193&height=300, 1
+Riamu Yumemi, https://images-ext-1.discordapp.net/external/jIVA90v52yWli4-Hk6z1gmsxqt2w3FwTsyHF_U7706A/https/mudae.net/uploads/2434486/KgtZfu0rgp7F54sUCANg~dZBbeIa.png?width=193&height=300, 1
+Cecilia (ANZ), https://images-ext-1.discordapp.net/external/jKSv2NCPOMOTKDRv-6RD_JDWmxI8hCga2KC7MDwBdmI/https/mudae.net/uploads/7477010/72x4SloGG7b5nNbsDx2W~VGE7Kqe.png?width=193&height=300, 1
+Marzipan, https://images-ext-1.discordapp.net/external/wmMtW8RFaWhEHa53whyRtw0Dl37XTEw_85Kbv0Rv_OE/https/mudae.net/uploads/8693063/EeYEQnA-ewZPZ3ew0Q7H~XdzP3bb.png?width=193&height=300, 2
+Kamioren, https://images-ext-1.discordapp.net/external/8rXKpe8PEJx0cQ4DdaKkf_wdKjpxf6Ifx0ncFcyDSdA/https/mudae.net/uploads/9953754/R7OWNEu0d-Vh5xPUxdaG~OGe9Ciw.png?width=193&height=300, 1
+Ai Tanahara, https://images-ext-1.discordapp.net/external/MKeQDPNKBRxdPervilg_LipKtc7gqN-ZC2W81pifC68/https/mudae.net/uploads/8973094/-nFXlMnZzDkVaMl-EGdA~xHWgfvZ.png?width=193&height=300, 1
+Touka Yada, https://images-ext-1.discordapp.net/external/OH3VlnUUwHjxCpoxarEvxeVJknBO4by2Onf9cyMXIJ8/https/mudae.net/uploads/9255685/88gnYUqno93I3fK3r1--~FAOnVg8.png?width=193&height=300, 1
+Midori (.h), https://images-ext-1.discordapp.net/external/n1YMYiKUvnhT6BMC5e14xjyogAe_zGxm_U72ijOx4PU/https/mudae.net/uploads/1908441/-3GKzdJ2K8JpTGPC93y_~128xDb0.png?width=193&height=300, 1
+Lightspeed (Linda Park), https://images-ext-1.discordapp.net/external/1HWB4HvWC3hYrtUVabq-R8FDOaS4Rsv9CjaMlotieOw/https/mudae.net/uploads/9988713/0YLwbzEGexaj18mgUf2n~Bo1rkAK.png?width=193&height=300, 1
+Chardonnay Fancyway, https://images-ext-1.discordapp.net/external/GLO1W57U_7GrHJ0ZLisNQqmcRM7SXmaCF-s-ScJ1bjk/https/mudae.net/uploads/8188581/OeJLsRLAb_1rg5y6gjWi~LVL6GtX.png?width=193&height=300, 1
+White Haired Tamer Girl, https://images-ext-1.discordapp.net/external/xXTK-M22_oEoJ0QcuJKGqPSpEn0OjatpPhVfZfLqxM0/https/mudae.net/uploads/1410607/gl7rR0HOxIxo5iqDCKUm~C8nk3qr.png?width=193&height=300, 1
+Qliphah Puzzle 545, https://images-ext-1.discordapp.net/external/7ifGX8FVZpMbCYsF2T8cjMAQDeo-2rokatEz0rQKGqE/https/mudae.net/uploads/9661908/5bCKBzUfZEX952x5JWSE~M5FGKIe.png?width=193&height=300, 1
+Laufen, https://images-ext-1.discordapp.net/external/gzpYeVwFgbB2redjrUrLLG-wqgV2v5ZuJoODZDKiXiM/https/mudae.net/uploads/3433423/ul3hXM2UuUa6h1Ck1peZ~aNhhCWQ.png?width=193&height=300, 1
+Saya Otonashi, https://images-ext-1.discordapp.net/external/pJ1R9HNLRrRqD2xoSdEFf1RUwPIEr-5KXP0DEDByTBo/https/mudae.net/uploads/3307845/MmBrRMQv9eWsEbd6acAo~JxyOJ1i.png?width=193&height=300, 1
+Aphrodite (LO), https://images-ext-1.discordapp.net/external/5V_vs7N8_jA0pNd3a6RfyC9-B732uHCGQf9N-ZMdxIw/https/mudae.net/uploads/1397475/29EuA5n7OVi_7YFl_WIg~Dq5v2P8.png?width=193&height=300, 2
+Cerise Hood, https://images-ext-1.discordapp.net/external/xsCw09qjEgWDfD6e65r1l6dO6jrPfbQSkqlPmYv4J9o/https/mudae.net/uploads/3152767/pnpSsfR-n16YDFGLBT0d~Vqtg1Hw.png?width=193&height=300, 1
+Ham Dan-I, https://images-ext-1.discordapp.net/external/V0FIoBqoa8bUiLEMil7EEXjOIC_FAltIDTssqQBgnII/https/mudae.net/uploads/2776087/2Aa_mF4F_grgTxHeC2vJ~5MViP70.png?width=193&height=300, 2
+Ichijou, https://images-ext-1.discordapp.net/external/7o_qIZPX6qKiT2UEeltU_hexD47oufn9n0f0G1M8X1o/https/mudae.net/uploads/5340221/5UQ_oWZamB-QGJNI9sef~zASXAWC.png?width=193&height=300, 1
+Emily Dawn, https://images-ext-1.discordapp.net/external/ou0XQzE3XfvAGNlB90tjM8rAkBHxb3coJrBEmKCgnig/https/mudae.net/uploads/3556686/Co7ziTsV0fHc6X6-CLh6~cO9rJQs.png?width=193&height=300, 1
+Nagisa Mikagami, https://images-ext-1.discordapp.net/external/ZvvCgUis3nqDoqV9LONyuXTrkMn_KII-X3U-wg2XIiY/https/mudae.net/uploads/8685456/m8t8Q3Lo4LBr3IhYeifA~tAbODDZ.png?width=193&height=300, 1
+Otomi Tachibana, https://images-ext-1.discordapp.net/external/5VwNqfsfuul0WbffG_HFbbBBtVF2kZZF4jjxM6NtKPA/https/mudae.net/uploads/1952163/t5JbIRVlW0061jjM4cVD~kKSFUjA.png?width=193&height=300, 1
+Hanabi Ayase, https://images-ext-1.discordapp.net/external/aBwQsDVBKEaYxHryrHE9qOsUitPCCcRzqyXHTecicoU/https/mudae.net/uploads/3442440/W_75q6vBjPA7bIvU_RPj~BHoSFsQ.png?width=193&height=300, 1
+Cassidy (SD), https://images-ext-1.discordapp.net/external/g36wykFF9asU_s8U8gePZyhHQELELpyZmr6nUF_y6-U/https/mudae.net/uploads/3040431/F3l3cmqWthrbmxW4YU1D~qFQYiPx.png?width=193&height=300, 1
+Mirko, https://images-ext-1.discordapp.net/external/wOvI4QC2yn9P0fm1b0MtFucUXfRhq2hQtitHnZzNAtA/https/mudae.net/uploads/5132555/BqcVnuRPMyfe-wLBJwEo~l2ockFX.png?width=193&height=300, 1
+Mokuzu Umino, https://images-ext-1.discordapp.net/external/CmdWGeoS-lhMnFCaWCXcsAFc9-8W-7ut1v6waHMpeX4/https/mudae.net/uploads/8887998/S-eacCHKN9-xYv3yuv5m~nezcN36.png?width=193&height=300, 1
+Sailor Galaxia, https://images-ext-1.discordapp.net/external/1cs5b25SB7qOfRUHoTnhTSLLRGB6AoRbE6IhfMJS6fk/https/mudae.net/uploads/6904391/nQZhjnfxDbB5sw2UcOuA~rifyB8S.png?width=193&height=300, 1
+Göll, https://images-ext-1.discordapp.net/external/mMksbmltV1RvbhipxmWxN6Ijb-KWOkrI6eNZBOdsiuQ/https/mudae.net/uploads/7194028/k_65hBGxn-7ASqpO_-o4~sPfv4Rs.png?width=193&height=300, 2
+Maya Tendou, https://images-ext-1.discordapp.net/external/_rKVh10P0ThFyPBLLL90J3EX75CguvuWbCgkjiUu7fo/https/mudae.net/uploads/9683902/SI4UBNc01w5VdJvEEIEp~fsZURQe.png?width=193&height=300, 1
+Zenia, https://images-ext-1.discordapp.net/external/gGTfwDAcz1lPBUWadJWH2EvQIzOipJIYvBWZtR0Jvts/https/mudae.net/uploads/7161218/K2GnCgPN0812dFI7laDG~VPJ14EJ.png?width=193&height=300, 1
+Daphne Lauros, https://images-ext-1.discordapp.net/external/YJy_jNfps08rg84uqJcGdShvvkgIoJ6WhuYH20txyMY/https/mudae.net/uploads/4100597/kn284SElBIErZYbnIdgb~azh9uRx.png?width=193&height=300, 1
+Saeko Arisugawa, https://images-ext-1.discordapp.net/external/BBIrtmDLhaW22Sg0c6HpYICDNkJj6MKQogbiSD8nbD0/https/mudae.net/uploads/8942254/oZ6pnFkoeidjK7C3U2eC~vq4tFCj.png?width=193&height=300, 1
+Namie Amuro, https://images-ext-1.discordapp.net/external/LM1RUlfqDlr0vmFtZfEXjLS-9kyn37zq00NVJ-PXPq0/https/mudae.net/uploads/3726188/KdnwOC6Dy1tTjCq0F5qa~ncTa1fo.png?width=193&height=300, 1
+ANON, https://images-ext-1.discordapp.net/external/pcOWh6G6Wme6XgHCO7EP2Jj_VaYEg-lARekWoA6uVZc/https/mudae.net/uploads/3962295/0cntkAcLLMjIlNyP7uyX~h3C67e5.png?width=193&height=300, 1
+Valese, https://images-ext-1.discordapp.net/external/C2XM36nIvp7WBeDXnXXJlOl58LnjRXzjZypzixfxuW0/https/mudae.net/uploads/1193207/HGuuM5UNWU3ztnk_Iuux~sovhunL.png?width=193&height=300, 1
+Hekate (HK), https://images-ext-1.discordapp.net/external/WcFc-pPVZNr1qnQULoWdJr7LxbY329wi7JVWNPRVQZM/https/mudae.net/uploads/9079417/tqu_Fe5cWnE9tlnDvl78~uk02aQN.png?width=193&height=300, 1
+Jelly Woods, https://images-ext-1.discordapp.net/external/-712iJy4kfkxT1Jc5c_GDskbAFBZy2nXXxqFGVWkofU/https/mudae.net/uploads/4230511/-AvwiBNmmYmCwT_qtW05~VBIlb9x.png?width=193&height=300, 1
+Mina (CL), https://images-ext-1.discordapp.net/external/WeH1hUgIuXwF3-72V4cSccBC38_MlsQO2qkuPgs-p7A/https/mudae.net/uploads/1889379/q1F_2yKbSCAKxfQzDGOX~xANL3H2.png?width=193&height=300, 1
+San Otonashi, https://images-ext-1.discordapp.net/external/AojWqnIzsjFCBCzym6qe04NjGlVzh2V4QeniIdCs4e8/https/mudae.net/uploads/4358303/L1cb8hXEcLWU-kl2lbmq~JBDqYV5.png?width=193&height=300, 2
+Purin Esaki, https://images-ext-1.discordapp.net/external/SKxP3jae55R6TxYj32VWFl_iR0vblx48ChoOBWotTfo/https/mudae.net/uploads/9344063/m-nJNQz-UAZMbUiPkZOH~vQKXnGF.png?width=193&height=300, 1
+Dajeong Yeom, https://images-ext-1.discordapp.net/external/cTSaMPIP9PG4-dIt0CsXS5vD6X08pGjtkecxrK3CGCo/https/mudae.net/uploads/3506373/G-JteuZMq0ZRiQZ911VU~oLQS25n.png?width=193&height=300, 1
+Shi Ka, https://images-ext-1.discordapp.net/external/tAiIcf1hoqjdlBdxMXNlqir4iXXz1m7uNxoMBpGG6kE/https/mudae.net/uploads/5568130/GIXrj5BKPdXgtHcV5ISR~COw6RFJ.png?width=193&height=300, 1
+Midori Sakurazawa, https://images-ext-1.discordapp.net/external/2-VBiOIM97yQNpiNQCG3_CvM7j4g2zL1q3JwJgeUu0o/https/mudae.net/uploads/5838169/I3JWNEF1hCp7o1AR_cbi~s7kIwPe.png?width=193&height=300, 1
+Lune, https://images-ext-1.discordapp.net/external/eSM1d3WGsH-Bnzfwi8FANQO_h-x2xQ9M5k0gWLpJuFM/https/mudae.net/uploads/7849882/y-56TMVIm8h_HIAJnzjO~uF1eA01.png?width=193&height=300, 1
+Mayrana Blossom, https://images-ext-1.discordapp.net/external/HZSU1MyFjfuLC8KGATalSx4Xt3TpSQ5c-Nu-Utd3HRQ/https/mudae.net/uploads/2804164/puQGQdB2tqu0D7iVm5Q5~T3Of2WY.png?width=193&height=300, 1
+Little Human, https://images-ext-1.discordapp.net/external/SaOl9dNp8e5F7GP2eobfPVsGMuJiDRPjOMLBkjkX040/https/mudae.net/uploads/4135159/R8zWbsb4VTBvFxlLyTO6~knI941s.png?width=193&height=300, 1
+Roskva, https://images-ext-1.discordapp.net/external/glHjbGxhLI3wKs9WxP7vS2dcnN_r3REJmTeARJD_9_k/https/mudae.net/uploads/2741157/Tsg88F0EkHWkq7Xf4Vx_~9dcPy0r.png?width=193&height=300, 1
+Nora Floriann Leoria, https://images-ext-1.discordapp.net/external/vmuIDRdoeBrVk88MqggZLBAVwxiwQ7Ifm5U-YUeLtSM/https/mudae.net/uploads/9666625/fcUeqaGBOwHr071awcYv~n63woXV.png?width=193&height=300, 1
+Lacey, https://images-ext-1.discordapp.net/external/KfxQcISK-Fwf8Jfx7-nqIXd2hDgfYtCji3Y6vOkZpA8/https/mudae.net/uploads/5359287/nJvZblap2y0ClrP-F5FW~13KmvlR.png?width=193&height=300, 1
+Sunstone, https://images-ext-1.discordapp.net/external/sd-R1oGLt3a7CjFjqlrXghdGor7AQbNJwFn-3zInEdo/https/mudae.net/uploads/3240711/naKX_3rcqeEmtYjiSDRn~iCpzfci.png?width=193&height=300, 1
+Shakugan, https://images-ext-1.discordapp.net/external/wHSuj9JgnhMgjK5P6tgrLVS9W_a80GjVE_gdqndnvfQ/https/mudae.net/uploads/5639307/7wTAlTCBP21iBXLABUcA~2EVCzTy.png?width=193&height=300, 2
+Xing Wu, https://images-ext-1.discordapp.net/external/bbC71F2IpwNrfjizL03HSER3pd5o9MWAq_WJmmXC01w/https/mudae.net/uploads/7266744/QqOArqJ0b9hDeRACBA8K~sSd8xiu.png?width=193&height=300, 1
+Emile Crossfode, https://images-ext-1.discordapp.net/external/ECKNDjxs42r9I9QfNjA2oBYqi1hjllw4tX7dprZPtcU/https/mudae.net/uploads/6859525/_RkZpZc4kOyvucXdDThl~KzBoP1F.png?width=193&height=300, 1
+Orochi (RGS), https://images-ext-1.discordapp.net/external/rihn1TNrm78xxY_BHYFlv61pAIwit9Onm-f5k1wQbVg/https/mudae.net/uploads/7977009/55kOu4-6urAQYn7k1apv~breZ1aF.png?width=193&height=300, 1
+Sumika Izumino, https://images-ext-1.discordapp.net/external/My8EDRMWYo-1DUdNo3yGAZ-IgDvaisGAwK2Rzltn6is/https/mudae.net/uploads/6316514/Ks2JKPhMJs1Vpe7J_ZCS~7xidIzK.png?width=193&height=300, 1
+Kaoru (TodoIto), https://images-ext-1.discordapp.net/external/B1furKtYwpR17-NKzgXnsMwT2jw9hsw8XnDAndl85Hw/https/mudae.net/uploads/9408753/J7Nl9ggK8TEKuWHgFleW~kAvsjVD.png?width=193&height=300, 1
+Cian, https://images-ext-1.discordapp.net/external/SEArAu0eIEC4qqt5_CxMQdQ8y73GmIQ-sKPjOKV49Zg/https/mudae.net/uploads/8899262/nmZnZsHZQfmv-BCGx3Gx~vkJMVMG.png?width=193&height=300, 1
+Seren Bordeaux, https://images-ext-1.discordapp.net/external/PtqtPQeCt6a6xScJmpTNvNkNglAkZH6T1TXJAvf4ma4/https/mudae.net/uploads/9401264/AGcpdcg3WdUqkm7Lrfh6~GHRs0CF.png?width=193&height=300, 1
+Itami Koga, https://images-ext-1.discordapp.net/external/OJW2eH8Wxnf9AUenDXfI6bXmu5LfQdvPZQ-YS5JI2QI/https/mudae.net/uploads/5105657/5b55ZvfpMn6A33YGaZGq~TtnHopU.png?width=193&height=300, 2
+Alexandrite, https://images-ext-1.discordapp.net/external/PROdZhxsaYl-lcloE5iOi8sEApv_6pYoQS4OnhU3qK8/https/mudae.net/uploads/6950494/lrht_D21iOSZN-YCBXVD~3lXEQrL.png?width=193&height=300, 1
+Shinobu (NA), https://images-ext-1.discordapp.net/external/VJ_-xSoBJ5Op4F8lnauKCbjz-HIxTRWv3ai1uTnR2TY/https/mudae.net/uploads/9763765/YtlNX38c1aKadYAeSkGc~ltK28ze.png?width=193&height=300, 1
+Koralenteprix Khusuuszun Caonthioxxaa, https://images-ext-1.discordapp.net/external/zIdIxWwLzpF_gZxV7giAb6997Beb80KlxsciBIifwb8/https/mudae.net/uploads/2441493/KWkCtlw_JybQ32yDKWxj~a09Saxw.png?width=193&height=300, 1
+Numa no Himemiko, https://images-ext-1.discordapp.net/external/Dr2nRdaEmmdSCKGz-UPhl97vHvu4mvlG4z0Q6IgnJoM/https/mudae.net/uploads/1531046/wTkZVnpPMVWCfiy1jwtt~b3p01T7.png?width=193&height=300, 3
+Mitsuki (PC), https://images-ext-1.discordapp.net/external/wQPTtQlsZzYozQChkddoB5T6b6HXudh6FhrPjM9aCWc/https/mudae.net/uploads/9895232/FsLULtscftcudWtpKaAd~zM02xT0.png?width=193&height=300, 1
+Nina Farion, https://images-ext-1.discordapp.net/external/EU_uH-EIkcLh9Mv1xG3d81mvI8yF6mo_Bs5w2Hb8wlA/https/mudae.net/uploads/4011847/JLCK5AcRd8PljExqStJl~pnR5JG3.png?width=193&height=300, 1
+Gedoumaru, https://images-ext-1.discordapp.net/external/XHpyjZR_rWmBsuOJ9AcuzBh4LOD1crtr7h7VlJn3VI8/https/mudae.net/uploads/6529112/8csKyEDloHQoOhI_ezB9~MoKj2yZ.png?width=193&height=300, 1
+Yukie, https://images-ext-1.discordapp.net/external/UqE_sT8rwN9FfkXcHHc0nb9DpTKp--raVx506vjbcGM/https/mudae.net/uploads/8451641/3UA7AzASIYikBFVwBfUh~LW5jHYB.png?width=193&height=300, 1
+Berkanan, https://images-ext-1.discordapp.net/external/WRQ2QrSmF-Bb9iCFkBgGAveRbCO8xXrDctX-gbSKBLM/https/mudae.net/uploads/3430516/mPJni-r5pQfh0fI_EGT6~my8xc9e2lv4.png?width=193&height=300, 1
+Seoyoon, https://images-ext-1.discordapp.net/external/iAIDqXJKPPkbwQmNJv08ezMzfdRSKozcaUQdRNzSBeo/https/mudae.net/uploads/6439246/B2ZIiiuu-gygQtAodWqo~Nxppmjr.png?width=193&height=300, 1
+Kon Tatsumi, https://images-ext-1.discordapp.net/external/VKT-8PxjWFZySkFT6wrh1JR-6lwcSSWsBjmJkARPFzM/https/mudae.net/uploads/3352227/HxDb_6nhzKRWkyBXzv_4~YjTmUXj.png?width=193&height=300, 1
+Aradia (Marvel), https://images-ext-1.discordapp.net/external/ei47SnmNMdRmEUJaGgNBIq5zaaABKE0AhnmTN7qO4as/https/mudae.net/uploads/7479222/wVOVaXRZ1ZdMXQDOLFRk~obd3LrB.png?width=193&height=300, 1
+Sakura Inami, https://images-ext-1.discordapp.net/external/MjygDghkivX-PYbeeTCi_5tgZnJVEkeTq1LEwU7JDkY/https/mudae.net/uploads/2961570/2YAHYKpl-ymYFNz4A1N3~dcmA79Z.png?width=193&height=300, 1
+Pepa Madrigal, https://images-ext-1.discordapp.net/external/HLiRojK2pnCjNE0v2rAeO9FImDkjqQVU3ylqmlgKr4M/https/mudae.net/uploads/4900768/qq74jxc9WCEbffl2-f0N~CNwMJUv.png?width=193&height=300, 2
+Benio Hanamura, https://images-ext-1.discordapp.net/external/LZHLo8qIMvmEgNy7jZ5w3Bn68wI1oxXFtijVVPu_h4A/https/mudae.net/uploads/8035721/iq4Q-4mE4gwbp5gt3KrO~RVfq8BL.png?width=193&height=300, 1
+Christiane Friedrich, https://images-ext-1.discordapp.net/external/VCKfD3sq7QjygSEN8VXBdcwlLxTj5ZodhRutx22My8Y/https/mudae.net/uploads/5283132/Cv9VwUgGbZPfQVM2Qvsv~v1niRDs.png?width=193&height=300, 1
+Nero Claudius, https://images-ext-1.discordapp.net/external/7a24WL1g18k7otmk4jYVXtg-8stxN3HGUSaIkSXZs2A/https/mudae.net/uploads/8238452/zCMZpYmOJ5-MWqxyhjBI~uZJ5qda.png?width=193&height=300, 1
+C.C. Babcock, https://images-ext-1.discordapp.net/external/5UIXTmDv7y2W6i5FyWRw2NLHJQ3PqVHX4EQNfEaPUoQ/https/mudae.net/uploads/8852465/-sBdBc-FHXCBK7ru12mV~w5mbhiu.png?width=193&height=300, 1
+Empress Tianzi, https://images-ext-1.discordapp.net/external/QVjVNTj0CzwGgVRAJJrmJ1PKC1hw6kcuf1Wxn4gTnrQ/https/mudae.net/uploads/9336469/WaHF9MrbEGa2ibFKlBOy~pzGWSmh.png?width=193&height=300, 1
+Hiasa Sekuro, https://images-ext-1.discordapp.net/external/dxMT22VpS5wPqXASccxHnnhCgA0FeGkpaLBut9zLqN4/https/mudae.net/uploads/9014438/U8ufMO_QOl6b_8HUo_Yn~iVMDTSh.png?width=193&height=300, 1
+Midori (UPL), https://images-ext-1.discordapp.net/external/9i4RzopgOCqH-RtrUlUD4dpSW3D8l5gtvPUUOXyLtV8/https/mudae.net/uploads/5676138/FAiRrlEhLPcvr8B7LlPM~NFOKKTK.png?width=193&height=300, 1
+Eliza (TECH), https://images-ext-1.discordapp.net/external/SHvcfjIGUjLyg1jcNp-DO6UzKb40up1RGvu_UsLpQXo/https/mudae.net/uploads/8708250/SEXxmbdjcrK8Abymos1O~nWfq9Qs.png?width=193&height=300, 1
+Mother Legion, https://images-ext-1.discordapp.net/external/OPPTuD0lMyQHuiVPzVyaJ3ImX-Q0nmL25X587Offn4s/https/mudae.net/uploads/1303562/cFTkNEZwzTtxiNQPQP6B~LYStq2r.png?width=193&height=300, 1
+Tenin-san, https://images-ext-1.discordapp.net/external/fFJqegeTlsESPneQiMCsP7scUO7ueELA-iia0XiCag0/https/mudae.net/uploads/6217750/O5QbmpCuuFoomiVQ44VN~drcqRGJ.png?width=193&height=300, 1
+Dahye Yang, https://images-ext-1.discordapp.net/external/-5e7QhozBsLpsO7FvOJDqaYpS-5BLoKxSxqSuu0J9Ec/https/mudae.net/uploads/6797125/78FcdsRFOr_aY1HGBnrO~R7u5qKT.png?width=193&height=300, 2
+Classical Lillian, https://images-ext-1.discordapp.net/external/QNShsaYdk6VenP7PpTV4Lfp3-En1vsOUa2EtMa9dCMM/https/mudae.net/uploads/4801393/SUqOVHRQft7r6bI_Iv_G~AgVxwXH.png?width=193&height=300, 1
+Hinata Sakaguchi, https://images-ext-1.discordapp.net/external/BBUmwdwVswjHnp01DR8OmR_uqaU1fRtyGyk29-94z70/https/mudae.net/uploads/7933127/_fHDlUBqB3MJolSBsm1W~ncs0M6z.png?width=193&height=300, 1
+Vivi Yukino, https://images-ext-1.discordapp.net/external/lf3eG8xDJwOwwdLYZJLGyktjNmQjRcb2mycMB0QXVR8/https/mudae.net/uploads/4740706/m_3FCaXZA9-NX4Tr2ND3~0i3Zmkk.png?width=193&height=300, 1
+Rei Asagiri, https://images-ext-1.discordapp.net/external/z8u3ex9cXJJyxEzXHsSuiyjC_g1mf2l8j4edYg06bwY/https/mudae.net/uploads/4153142/cS_X3glVaVTkAK7hke84~zjRxPHO.png?width=193&height=300, 1
+Ai Narata, https://images-ext-1.discordapp.net/external/DjS_YqbVMBZCHLcgGhXbKHxcSeZAQwbohPjog0rmLUo/https/mudae.net/uploads/1991423/dOvbce-A6qmNE_vaY_a9~DtGXXnv.png?width=193&height=300, 1
+Victoria (FKSY), https://images-ext-1.discordapp.net/external/A869-zvnPe7uaOdO5BcdN7X_fwYwoPoQUS8VQZjdMe0/https/mudae.net/uploads/1768407/d34KHdGzmXgOz7eGLSfw~W5XI7nD.png?width=193&height=300, 1
+Mouar Pharaoh, https://images-ext-1.discordapp.net/external/xWNiS3wVnXIcG0g0tzhlnhM3MYf9krYp3LveoVhZxlU/https/mudae.net/uploads/9786176/sE72878P5Qa4fNM-QZnE~bFsECBw.png?width=193&height=300, 1
+Power Girl (Tanya Spears), https://images-ext-1.discordapp.net/external/_BiidC9iGlngiKZKOtiW3dTR084lzwRs0B07CeVGdlo/https/mudae.net/uploads/7876374/FIugTL_YijFpmdDMjYMB~EegOwFV.png?width=193&height=300, 1
+Ichigo-chan, https://images-ext-1.discordapp.net/external/B3Qsz4dP4pScJjXpCqBR7RUAWzJ2YLs0yIRXs4fuemU/https/mudae.net/uploads/3299932/0BZXmhvt_D_hJ_vH3_rp~2F1km2u.png?width=193&height=300, 1
+Wink Beat, https://images-ext-1.discordapp.net/external/vDat2Z553vdoAqPjiUQWpeRlpivNxaj1_90w9apIqz0/https/mudae.net/uploads/5436894/oOyCIYSJ4eolX_-AfXjK~S70fGJA.png?width=193&height=300, 1
+Beatrix Brehme, https://images-ext-1.discordapp.net/external/g6K2HFpDVrt-xPkkfEgVgO_KOmmhI1eK_VnHJK_7zYk/https/mudae.net/uploads/9100164/f10VdmdFSg8I7mpAA1_J~zXAnSLt.png?width=193&height=300, 2
+Lily Blind, https://images-ext-1.discordapp.net/external/2wOy5uivVkTU1A69gWnAD3Onb_32H4SZSuEqxNsXW44/https/mudae.net/uploads/7448446/LmaWqxAJSslzYECT2Sew~ofdTbpn.png?width=193&height=300, 1
+XJ-8, https://images-ext-1.discordapp.net/external/Bh0ccR_O8HZ90osYFR_BJF2OszX5ZxAZEZY8WP5Mwlg/https/mudae.net/uploads/2962239/K5uknpKsJsZCWutH4z7x~79OARt7.png?width=193&height=300, 1
+Archer (LMwM!), https://images-ext-1.discordapp.net/external/KIQZtXj_vyY3xXdXSY0MikZegLeRBpZ1VgzHbcDSJWs/https/mudae.net/uploads/7315467/TajmtU8FQeDfd1Ws7_ZB~f410BEX.png?width=193&height=300, 1
+Kako Takafuji, https://images-ext-1.discordapp.net/external/YeiPghgmtCZsUnOuCpSmqUb3OCSFBZbKQQrpKW3lOsc/https/mudae.net/uploads/8414999/n2bmXXs7Gk50vn_a1eZT~xXTRfz3.png?width=193&height=300, 1
+Kraunessa Kuroyodo, https://images-ext-1.discordapp.net/external/gGGlqDYuy0BQIO5fLz4Hg_7pmtkJJCg26_bxvAsZB2U/https/mudae.net/uploads/9077016/4wnkIqsyX4JItkDJFYzt~A7bIKLQ.png?width=193&height=300, 1
+Kiki Seiran, https://images-ext-1.discordapp.net/external/AKcF5AVxtOny585R1BGyxvrw-PLoOHeqq0FOHbvxxT4/https/mudae.net/uploads/3044391/MjsyGL0Pn6fe6gPBPzek~2DTsUTW.png?width=193&height=300, 1
+Hirono Hirose, https://images-ext-1.discordapp.net/external/n__mXFJ-CPIHSCP3m8BncgaYaEA_ZDMo3wEMbEcnSUA/https/mudae.net/uploads/9754650/dHo2cXYHPHmoCvmJ4QOB~15u4dmr.png?width=193&height=300, 1
+Saty, https://images-ext-1.discordapp.net/external/SwkwahXXfWEMXxBsD0oi61sLFP4Yv-kTngM2auV3WCo/https/mudae.net/uploads/7019992/z0Q3X5VUNgXwheQLA2yu~ENNZo1q.png?width=193&height=300, 1
+Lien-Da, https://images-ext-1.discordapp.net/external/PcDWWWQgru_2TLzNZkGJWMG9sC_RTCdAfeWJbzA22e8/https/mudae.net/uploads/1239484/yyzYKsgn8J1bkWqdZHTW~pPyNWbU.png?width=193&height=300, 1
+Laura De Farnese, https://images-ext-1.discordapp.net/external/-v-i1i3MbxSiZq2YncW7J9fq7MfGy1LzmZ_p0GPwI30/https/mudae.net/uploads/9138409/dQbJJqcC3I0_1_R8C_XF~jJOCR6n.png?width=193&height=300, 1
+Staryu, https://images-ext-1.discordapp.net/external/lmybujIx3CAJRewXKnYYRgTVmTm5UOteelGve0zqASY/https/mudae.net/uploads/8935296/bWel5x1Soq39ahPe4zlS~ApG4fZc.png?width=193&height=300, 1
+Iko, https://images-ext-1.discordapp.net/external/uIlr-7Hx8zWd7WPY2szNPo_Z9l2iWFYnyab0lKDyaOg/https/mudae.net/uploads/5234935/yjVrNwuV0ApalgjDh0jM~p7bwcb63rg7.png?width=193&height=300, 2
+E (R:M), https://images-ext-1.discordapp.net/external/Icfl2RctkpOXTzrbMBAvagYE5mZ5BFquo94v89FO5aQ/https/mudae.net/uploads/7716025/H-Ovkt9aInEvkeTiB0MP~vZV10Q7.png?width=193&height=300, 1
+Hakata Kanamori, https://images-ext-1.discordapp.net/external/UAGKiDrBF53cPlJISVpInoZIhP6aQDgqgZiMYxNxsgU/https/mudae.net/uploads/3495085/3nia5cslbLkgMeAa1pb7~XZfvon7.png?width=193&height=300, 1
+Ermenhilde, https://images-ext-1.discordapp.net/external/2QZEP4uiQc5S-2TwcWq9yy01vqiC4mDtdZkTlLfcglA/https/mudae.net/uploads/3706086/7cuuLeq9UXKt1cO-TJFa~CX3QaJG.png?width=193&height=300, 1
+Nekko, https://images-ext-1.discordapp.net/external/1i0fAJkWEjQedLbeuH9htsqVkqLaoXza3zACdsSKOxE/https/mudae.net/uploads/9587963/8vK8WUmlwJiJ3y5UF2rL~eZSnfTr.png?width=193&height=300, 1
+Mikage, https://images-ext-1.discordapp.net/external/gMTDGcoW2mpriuvoQwgZmWl-PmHu7QeT-wT4zx6A1qY/https/mudae.net/uploads/7270409/JDxUfkpLRsizT8dx0yXU~1IGdkvK.png?width=193&height=300, 1
+Chocolat, https://images-ext-1.discordapp.net/external/3XR0JC97KKQ-khOmN6NfsQzNB4alEH2ddykkQmFS4I0/https/mudae.net/uploads/8091593/H2LrOeP3ow-iiHX67WLY~AFDT3Fz.png?width=193&height=300, 1
+Yuna (ITZY), https://images-ext-1.discordapp.net/external/PEu6wQQ75kSGrximSxYmCs7gZYYnhHJCeXNe6uMUw0g/https/mudae.net/uploads/1113556/U4wfMrzRwCxD8NdB1uuK~dzEyJQ8.png?width=193&height=300, 1
+Susan Strong, https://images-ext-1.discordapp.net/external/NE7yR4IVya6MMHKib5XPrCQlBTr67P4Jac72tUTUG5A/https/mudae.net/uploads/3560001/7HEvGq3P-lw2AdCyqOPG~spQjHTz.png?width=193&height=300, 1
+Ritsuka Hara, https://images-ext-1.discordapp.net/external/FelWvZcb2_zEfJTZ6eNA52PezMa6dGlVj4AvuT1mR5s/https/mudae.net/uploads/6467997/zqeb938wpR6wnSHzK1sA~BksvvKW.png?width=193&height=300, 1
+Velvet (WE), https://images-ext-1.discordapp.net/external/Oa5j5z13A4LhX4Chr20Nx9FuGZAsq4RQkonw-3GdWX8/https/mudae.net/uploads/8170518/D8jQYJQ_9pEqwgOIDMbG~94KgE3M.png?width=193&height=300, 1
+Pabllo Vittar, https://images-ext-1.discordapp.net/external/vlkBhnDKX4T-PQXiyaL6MmnA-MzhGzltLRZpvjipqQI/https/mudae.net/uploads/6967743/rJZyv6S5vVqx5Qfqc_RR~m8ZodEj.png?width=193&height=300, 1
+Nami Kusunoki, https://images-ext-1.discordapp.net/external/SyX7WqMryo3SQAq1Z4ksNIIfEvOSqgkuUiekBq78Nzg/https/mudae.net/uploads/4706897/JCJCjuEyo5N4qLSrACDW~LhjFndn.png?width=193&height=300, 2
+Kobeni Higashiyama, https://images-ext-1.discordapp.net/external/niV6avGH1tCQV83I57jhBcyH1OvWPzdiNsOLzTdV9uQ/https/mudae.net/uploads/2099750/olVOXefEsXEunTSLwJSv~J1n38Wg.png?width=193&height=300, 1
+Keen Kiss, https://images-ext-1.discordapp.net/external/vmp6ZjinfnO4ed8zOboTvKxDefGDpZ8QlZruEbLInFA/https/mudae.net/uploads/4129291/Yl2aG4WomYEFYeCJdu40~ARHLn3s.png?width=193&height=300, 1
+Spearow, https://images-ext-1.discordapp.net/external/HzlPxrNb80NL9KHUGGfEsYOJ_xPmUf_FCOvlavOjPVM/https/mudae.net/uploads/1951923/KqfgiOH_GWDu_-S8DJDM~hoMEtpb.png?width=193&height=300, 1
+Maruga, https://images-ext-1.discordapp.net/external/2MXJfg1_9agqAwK21NNTEhuOWDR34mHNDyjNVQClohY/https/mudae.net/uploads/7986049/uZVhcJ8KK3oEYeR16QLE~AnsCbQa.png?width=191&height=300, 1
+Libby Starling, https://images-ext-1.discordapp.net/external/7AfDAJnj-4GnUT-1_EGEfhS9iy8XANRhJKO6vBNtMq4/https/mudae.net/uploads/6882268/RN47AI01mKHdjZrzMi4s~JbSDIhk.png?width=193&height=300, 1
+Kotoha Hieda, https://images-ext-1.discordapp.net/external/MCbEh_YPgvRe7sVeNikpynolMSMmNHaHY3L3LcO3Qjk/https/mudae.net/uploads/2679878/i0qqfHu6WBUp-Xbf-AbB~x1aNoUk.png?width=193&height=300, 1
+Chiharu Kise, https://images-ext-1.discordapp.net/external/vepaUdUMzPydTwweHsV3iW7FwpCH26JV3Ns3t7rHpI4/https/mudae.net/uploads/2546180/TQJbiDrDw5RbcVXBWpzL~XDaqwjn.png?width=193&height=300, 1
+Jun (Nb), https://images-ext-1.discordapp.net/external/Zq_DhOdCEdgWfaU76TZ4mzEn4LRpUFkZx-qdtZ7MmIo/https/mudae.net/uploads/9651413/z6zl6juAcEFFJCal2TRz~l7lxc2lmrk7.png?width=193&height=300, 1
+Asmodeus of Lust, https://images-ext-1.discordapp.net/external/r_KpwRlem7vGeTkaXV0n9jtxzEupjiWnp7gaCg0XF98/https/mudae.net/uploads/9096872/CZrkb7bgvFjknxouEAYi~0jaSzxD.png?width=193&height=300, 1
+Chito, https://images-ext-1.discordapp.net/external/Qa0yv757Pd758nb1O1br6lmfNECzqe_WlG7F7M0m-no/https/mudae.net/uploads/6339145/ob9NaFyNTWCe-_tD1mwY~3dz0dGr.png?width=193&height=300, 1
+Fenlys, https://images-ext-1.discordapp.net/external/q8KrlqoVBkB26-m-j9qrI6qYZBhD4EufyMPUNJ8x0tk/https/mudae.net/uploads/4682733/QDEGn3I2tHN6ls2yiexh~KAJVMU4.png?width=193&height=300, 2
+Harukasan, https://images-ext-1.discordapp.net/external/02ZHJ-91asrU7MCCjyAicQj4PDtbtb8vhA8NQLM9s6M/https/mudae.net/uploads/4587420/_n6nh_rx0p92HgFve_BC~W8388Jl.png?width=193&height=300, 1
+Iyone Hadekawa, https://images-ext-1.discordapp.net/external/TBDBmcPnVrwlyzRDtEyCpKOIujIvnr3YbVlhB6ShoE0/https/mudae.net/uploads/4101991/yCLbKsc4kzMX61fsOv6E~b49zce629ry.png?width=193&height=300, 1
+Nono Daichi, https://images-ext-1.discordapp.net/external/sE3TeeDN4-nH2lJmR5UucQ97YRn_oYAlyrVslsPSMe0/https/mudae.net/uploads/5484745/pw_-xGDc1soU88Imnt0v~W8trDu0.png?width=193&height=300, 1
+Sasha Fulger, https://images-ext-1.discordapp.net/external/VQUn03_nOotrtjYzheN_Q4NCHLiOaxzyBSVyh-8KXoE/https/mudae.net/uploads/4924450/28uEjIO0I887Wgosmdf9~KB7eBJG.png?width=193&height=300, 1
+Alala, https://images-ext-1.discordapp.net/external/GzWWItIj0V03oo96OXKxPPXd2ykvBPvYBpKelyTV6ow/https/mudae.net/uploads/8021255/ubSEhQg5fJ2HOag5tntJ~l7lxcdxlpq7.png?width=193&height=300, 1
+Tamayo, https://images-ext-1.discordapp.net/external/QpYzMdjcpkk88TQGj_Qf9sqKNopFVhCO2vt4RXe0JeM/https/mudae.net/uploads/5585745/FwIEeGRaeyamXhUxZ73B~5kGfDoS.png?width=193&height=300, 1
+Eli Darren Sperado, https://images-ext-1.discordapp.net/external/LSt_R7glhuaNZat9DR-bTAipbldelKyQWrN_5NG7AP8/https/mudae.net/uploads/6016894/LMB7M7bHV0Z92jm8G93-~uuHAxNr.png?width=193&height=300, 1
+Chloe Lemaire, https://images-ext-1.discordapp.net/external/gPLfL8A2MGGbJ8WpVPFIdRP_-Cd7Z-s-FTGDXtpgd9k/https/mudae.net/uploads/4275152/xct58JaPeafepETEofQX~A8mtyTU.png?width=193&height=300, 1
+Hatenna, https://images-ext-1.discordapp.net/external/atF1J4etp-ZIjoR5o6DSlg7pPjnKBMxd38-rTfBWNkk/https/mudae.net/uploads/9501922/OXbiIY9pqB0iAvTSobRL~FxR8tgI.png?width=193&height=300, 1
+Flora, https://images-ext-1.discordapp.net/external/caYcKIr6DaJ4930Uv0H2qW0rhotFG4pUJr4i3cMvu4w/https/mudae.net/uploads/8260631/g2B1stnGIUUjmUw-NBUc~7xlBOjb.png?width=193&height=300, 1
+Lady Ciel Bishenna, https://images-ext-1.discordapp.net/external/YzShfdKT-PGRi2eReq-S4InB_15bVAMhVxbnhDx4MIk/https/mudae.net/uploads/9694168/xgGOwyurJzcFcyASPk69~agiyAFk.png?width=193&height=300, 2
+Miluse, https://images-ext-1.discordapp.net/external/DM3zmrJm1DTq00cOnepZyElb4G3K_2gr8JOaXinPGV4/https/mudae.net/uploads/8809601/-qqRGq_lf4cJ1KV3xRGl~0LFfQso.png?width=193&height=300, 1
+Jenny (SK), https://images-ext-1.discordapp.net/external/E6V_dUYD7K4AAmRhSHMV0UzFi5UjQcgTNg5mwGYuOjQ/https/mudae.net/uploads/6940414/3qOaS06OJVk7F9wEuvZX~0lBiUmo.png?width=193&height=300, 1
+Yuuhi Hanabashira, https://images-ext-1.discordapp.net/external/diPzGNCQhjW1XkEjIT84LAY-TzTddsvOK_Vvx3s0xWY/https/mudae.net/uploads/1994792/oLR3oOwf3WwDTYGoT8KU~s872KGw.png?width=193&height=300, 1
+Gurin, https://images-ext-1.discordapp.net/external/0kTINWLJNIBuIiRhvenJgekL6QVMqTbt6-zVnhTSg78/https/mudae.net/uploads/7095797/d0a0o1G5UvgEiRv-MvjU~ANbY0A0.png?width=193&height=300, 1
+Mikoto Ochiai, https://images-ext-1.discordapp.net/external/FNaKTlLFlGjgO2gI0OQCZsbewTET1eSm_FjKe6d002g/https/mudae.net/uploads/9618754/ZMUCjVLYKufqUxY6iHiY~OhPYHve.png?width=193&height=300, 1
+Annett, https://images-ext-1.discordapp.net/external/XHnO-62zhgFcRAW7ZiavgOsXoYheV6JzjDgd45caQxM/https/mudae.net/uploads/7434628/-o3pAyAQWF4aFFIlVLnw~yNalqFX.png?width=193&height=300, 1
+Anna Maria Marconi, https://images-ext-1.discordapp.net/external/KeZy5L8PYy_Hw_BMQTP6bqn0Xr28L6IihloApOv-ol4/https/mudae.net/uploads/2413868/DmOGdTDJvDbjTEPQFd8O~dqy9d6G.png?width=193&height=300, 1
+Ms. O, https://images-ext-1.discordapp.net/external/lCRmfmXLWxBws07DIKDFthwBjo6anHJ3vvEtyis8oH4/https/mudae.net/uploads/2878951/IBtaK_NhwLMOhYMfx9bS~A8e4EoV.png?width=193&height=300, 1
+Strelka, https://images-ext-1.discordapp.net/external/W2jJNzZXafP1CY37gsCoR-WAgp8J3wAkZfRv96Zmdos/https/mudae.net/uploads/9428854/tpyfyDpR0kEWA__hEk9y~wvVpIi0.png?width=193&height=300, 1
+Vyrde, https://images-ext-1.discordapp.net/external/Tr4AtIAUdtBWFnnNuX8tMpP27tgX3EEOPDbDKiKGTJg/https/mudae.net/uploads/4179103/QUj4Z2p9xmKaOdtCC9Z1~GshHVWK.png?width=193&height=300, 1
+Sarah G. Lato, https://images-ext-1.discordapp.net/external/iduLngv6pVbhoTE1GtzkpnCDnrRkQGZXecc2ZDqPVZc/https/mudae.net/uploads/4488153/WlkpN6WVGI6xNNHS6OjA~QjLdzYa.png?width=193&height=300, 1
+Rikka Akigase, https://images-ext-1.discordapp.net/external/RPm4ydMPDOpL0cU2g4AT2rMtwzw-SdFUhfx-eJ8uJMs/https/mudae.net/uploads/7163288/zfk6BXHVYMZeJXUps2N0~YBzYm1c.png?width=193&height=300, 2
+Jelly, https://images-ext-1.discordapp.net/external/-sO3GsI_oUmMWS4E6Gjtqc4CQckeFDhIG_Ss1agVe88/https/mudae.net/uploads/1818857/7bi-LSJAcK-KRYDuCWuV~2dLJWrl.png?width=193&height=300, 1
+Raphael (07G), https://images-ext-1.discordapp.net/external/mj_FVH_Igtk3PuyQIQqeybnto75lm-XQ1xaqkaUufNk/https/mudae.net/uploads/3930056/nJ14pQZGWHFCqsKnKJX5~JV1zX4R.png?width=193&height=300, 1
+Miya Koshiro, https://images-ext-1.discordapp.net/external/tSxVJ5dhe9lE2ghZMSkyepGRd4gIX6R0Pe3Vk8MJhj8/https/mudae.net/uploads/6922537/k9XzKTw1oHkN01cOC7EU~D4xBY6N.png?width=193&height=300, 1
+Lightning (Fabiniku), https://images-ext-1.discordapp.net/external/l5AAej0qUUF2Qf_ERAFzR9WJ2elx8SxLCu6R3n3_U4E/https/mudae.net/uploads/4851392/VQPU0I8tlRX9itNcw4Ks~Mlza41f.png?width=193&height=300, 1
+Komachi Kiyomasa, https://images-ext-1.discordapp.net/external/ijEOneoEYyase1CbbenjyjCXYJNzrl9x_uCnGOjRJhg/https/mudae.net/uploads/7243013/m-Q_MQBLmRwxE87XDe5E~6K70si5.png?width=193&height=300, 1
+Majiri Agakura, https://images-ext-1.discordapp.net/external/DmB6v-y9AdfQuWKGlmbdLryNRWbF1T2VMEKF3eL1dfE/https/mudae.net/uploads/6093715/l04x6RyDCrLwyBk4E1UN~HJPSWlr.png?width=193&height=300, 1
+Norika Mizuyama, https://images-ext-1.discordapp.net/external/KJCEZFQoAcrA3HIvhfLYKjOAoIpmy9FdGgHBBqonObU/https/mudae.net/uploads/3440683/vxgEXsjZrnACSw6ZT5gc~84apclpgjj4.png?width=193&height=300, 1
+Ironmouse, https://images-ext-1.discordapp.net/external/O4c2entlJSEojVq_pP6zO5pB4OM8Di6EjHZi-WSlD34/https/mudae.net/uploads/5527983/BUZvrh0jHVWPFEmRYfQB~1zfnuNn.png?width=193&height=300, 1
+The Buried, https://images-ext-1.discordapp.net/external/DlcV6ZqFuj7FNlcJL8ZM3mxgp5I-Yq83Xo8gXD5ByXU/https/mudae.net/uploads/8743211/PGyhThZbd0ykX87Xey25~PvQHU4A.png?width=193&height=300, 1
+Aki Shino, https://images-ext-1.discordapp.net/external/9yLXUkDLzoHNFOye-qY2t6CMVmeIf2ZAD7rZJzvZe1Y/https/mudae.net/uploads/3270283/Aa91cHkylU3QXml8EKit~ysK8FrA.png?width=193&height=300, 1
+Oronella, https://images-ext-1.discordapp.net/external/DXyyao8WaPRPxHeYOFgiAaLobtFwtoNigd6_DUepoXs/https/mudae.net/uploads/5309980/Ts82Y5IwRH54B-Z4xrLD~GI11ZYd.png?width=193&height=300, 2
+Nijuku, https://images-ext-1.discordapp.net/external/9ZoDddn_-idaUue-Z3LG4tfUbl-5l_aRAKEVUgrEqMY/https/mudae.net/uploads/1958036/bpsxWUR3NGsS-Mgk2yQj~KRevOGv.png?width=193&height=300, 1
+Mizyu, https://images-ext-1.discordapp.net/external/hKWMCpJKj3c3k15EVIHYhYFDfhv9w0wMqvEFw2HWANc/https/mudae.net/uploads/4156844/WdzdeqVpF-9pWxBPsjZh~FhbfgCp.png?width=193&height=300, 1
+Pony Goodlight, https://images-ext-1.discordapp.net/external/0LqSgicEb8vWQjLIk8JzJ-r7lEMw6KKCmYWOm0HbJRI/https/mudae.net/uploads/2702344/xOymwQiGF3iT9kXCG6PN~NcmiWa9.png?width=193&height=300, 1
+Banji Geum, https://images-ext-1.discordapp.net/external/syFY8G0DD9E_xq5ygEVoNmeoa9Mzm_u0hdUkbygrVdo/https/mudae.net/uploads/3461743/VbN4utLS4v2lIKVmO8eK~odcJ5ou.png?width=193&height=300, 1
+Hyouka Kazakiri, https://images-ext-1.discordapp.net/external/qYLwUhjJuZvr3Q54Fj3s16rAQP4MfKLoiesTKYAdm4o/https/mudae.net/uploads/3855040/9t_HA5E5bySe5daVFM33~mSJuCP8.png?width=193&height=300, 1
+Haruka Minazuki, https://images-ext-1.discordapp.net/external/zDVtfWQfASlJeZYwKOavUWHQSJbSf7NAWgEkJFHjpJk/https/mudae.net/uploads/8806493/-62r1mxl-cnrFpgVY0tL~qt3ArQE.png?width=193&height=300, 1
+Dot Tattler, https://images-ext-1.discordapp.net/external/Juh39b3i-wulk3yVu5Bi3Y6LxzYOVJXvXf_XX0Q3U7o/https/mudae.net/uploads/7507176/Q4VRA0LlJ2CD9po6x7cl~P5cmmbl.png?width=193&height=300, 1
+The Fun Twins, https://images-ext-1.discordapp.net/external/zuFxjuwG2ipFYoAraphEuWCP1NdBe5ZA9bMfjajd70g/https/mudae.net/uploads/1479544/i5gIEfKr_Ir1CuJ9TVHL~kj5r1Xo.png?width=193&height=300, 1
+Larvesta, https://images-ext-1.discordapp.net/external/4pHYkZNHl0vc22Xdtov0iZIVQuYsPjn22jlE-JZ8Yw4/https/mudae.net/uploads/5931862/e8Hx-wJC0kVy-XQ2ZEIt~cnnqRF8.png?width=193&height=300, 1
+Brooklynn, https://images-ext-1.discordapp.net/external/ixNNe5Pynox8I7kUV4Mfs0p51lQ7gYPR1O6ZWtGEfn0/https/mudae.net/uploads/7664970/Yn_g1f_5xK1WGbiNAEM3~X7RircE.png?width=193&height=300, 1
+Therese Latreia, https://images-ext-1.discordapp.net/external/12oxUKolklJwFbHvsDLD8Pu_8yX4dklK7UR-ytX_VCo/https/mudae.net/uploads/5556206/KgkKBYBjby-xSUcxzPc9~FnV70T4.png?width=193&height=300, 1
+Ayame Fusou, https://images-ext-1.discordapp.net/external/4-kdt5PyFQoaJRsoTnb09QND45tka838Np__xmY3PFc/https/mudae.net/uploads/4584280/3CYp3WqQrO6rNx3doQI5~6ITk7S0.png?width=193&height=300, 2
+Eleanor Leywin, https://images-ext-1.discordapp.net/external/5EVsLNcWo3iEs7HlYyfmfC1rFLd-p6YmtuLB91ddVPY/https/mudae.net/uploads/7656276/xZmwFFACvy1OWJf7tViG~lGr0usy.png?width=193&height=300, 1
+Ellen Arimura, https://images-ext-1.discordapp.net/external/46WC6VIc01R04T2xJmOxgIkQ9ryJOZoiBUBScYUE4w0/https/mudae.net/uploads/9138356/hbj6DMrrf5AGccu-TChl~eGmOBej.png?width=193&height=300, 1
+Tierra Azur, https://images-ext-1.discordapp.net/external/Mrq5Zw9j7oLSX0RdJd89F-Z06_7ihiptWrWqOT9HUSk/https/mudae.net/uploads/2489386/qN6di4s2KJquhjvgnEtN~9p5z3LV.png?width=193&height=300, 1
+Inari Okami, https://images-ext-1.discordapp.net/external/fahSRKMkfIuN5c7NogTUvpw3tSJAFGUa5rvUEauEbgk/https/mudae.net/uploads/5885943/xkB20S2p-R2wWOXsMZ5V~NBDHuzD.png?width=193&height=300, 1
+Romelle, https://images-ext-1.discordapp.net/external/wXSBH6T6OxFFr5mRAeGYiQ-dyp6QyWQkgYdaDXVgo88/https/mudae.net/uploads/3270035/GMQIG24wCYlo8Jw4UBXx~CEOLcpc.png?width=193&height=300, 1
+Yuna Miyatsuki, https://images-ext-1.discordapp.net/external/xTDj-lZklkGTnz8zNJwvJAINNC-A8QQq6_4Xc-c1olc/https/mudae.net/uploads/4197355/IM65CrOoOl5TABFLOtlt~4UHKPRQ.png?width=193&height=300, 1
+Doris (Caillou), https://images-ext-1.discordapp.net/external/HEWf2PcCq6oJchGnCVug1KH7HD_Mo2Zfuo98WB4A5NA/https/mudae.net/uploads/6466939/mUKH80L5urXlV6jhDgGz~YZwzOF2.png?width=193&height=300, 1
+Chidori Yoshino, https://images-ext-1.discordapp.net/external/uvgBqTp5rF5iXIiSPvhayE8bzyVEO64Gmh3dD9znaEI/https/mudae.net/uploads/6030714/ZFr-f1ZcM9qVWA-PaVqh~p7bwcgkpr67.png?width=193&height=300, 1
+Shizuku Minase, https://images-ext-1.discordapp.net/external/vkE1v8Sfo-bwCFbhHYXUToUCPeWThQ3GopGiWRP9VRs/https/mudae.net/uploads/1012364/Pkwd5Y1x4ucjGkskFD5h~84jdc22r6k4.png?width=193&height=300, 1
+Nagisa Ansect, https://images-ext-1.discordapp.net/external/VLz9o7PEf92p6S2c9WFwpK2uhDEbGV9PfleVKCqPPnU/https/mudae.net/uploads/4522384/jDWa2YuJb-JkNs5DzW1D~Y1hlMx3.png?width=193&height=300, 1
+Negative Flash (Meena Dhawan), https://images-ext-1.discordapp.net/external/G8O7aS9eEcHxKs9qElxyYMKGhH2UExOgkr5QO8AiHZc/https/mudae.net/uploads/5907591/RyZqhG81g9lTzrqaoJIJ~65m8eOp.png?width=193&height=300, 1
+Nelvana, https://images-ext-1.discordapp.net/external/A8dpa_QjBH1CtQRVHV_zENu3Oo8qLSZZdRFagiFL6Bw/https/mudae.net/uploads/4980873/BKt_zrWSrb2FeYwPeXcd~La3lijL.png?width=193&height=300, 1
+Sally Acorn, https://images-ext-1.discordapp.net/external/pQmzeiYIZJF3nf9FU3lnB7rKq91Q2KbAuTMo1XTDpx4/https/mudae.net/uploads/9542024/P_OJEkGRwwKv1VddTXbW~jtLpWPu.png?width=193&height=300, 1
+Fumiko, https://images-ext-1.discordapp.net/external/2x6hNTKo81uWwP4WgMNn_g5axXhNmqBJczUPBpEXsvI/https/mudae.net/uploads/1595057/132_BTzW0LA6h1j92B87~52eRtVq.png?width=193&height=300, 1
+Suzuko Mimori, https://images-ext-1.discordapp.net/external/KCCAkH5x_PPqdRFAquYfzSILjmm01u_CD09VuDPMFOo/https/mudae.net/uploads/9005696/PTTRVbTRvlspschcqlSW~b49zco8z85y.png?width=193&height=300, 1
+Sana Inoue, https://images-ext-1.discordapp.net/external/fY0U17BdHjYT0E6PWE04jqa4kB5wVDfOTZqyNGBPDJw/https/mudae.net/uploads/5473043/CyTh0nH_wseRqEQnuGMC~UPlO9Fo.png?width=193&height=300, 1
+Krulcifer Einfolk, https://images-ext-1.discordapp.net/external/fdz4DjWiHUOVW1YXKj_vT6bqKudch-fD4-VDvfYYMi0/https/mudae.net/uploads/8451267/Qcu3kMCm16LkWYsKFMN0~iWs1nJ8.png?width=193&height=300, 1
+Selena Lee, https://images-ext-1.discordapp.net/external/dHDbnYgNKuHF_GybqLG6Q3-yYlizHW5TFPeWXCU8ta8/https/mudae.net/uploads/9696876/ygpj8rJAhY1JYGPC-ppq~HoGhu4A.png?width=193&height=300, 1
+Dahyeon Kim, https://images-ext-1.discordapp.net/external/KEkgiwt5i-9e4kDAUVwvsZDfAQ0sKpUr5IvnkOrWjTs/https/mudae.net/uploads/6833912/4XuXYGOuH11L18oIQfiV~e4gdclqqjo4.png?width=193&height=300, 1
+Mahiru Konatsuki, https://images-ext-1.discordapp.net/external/LQhPrjVrIHPfecY2-jKIbJSC4LGRp53ZfJiE1_IFAQc/https/mudae.net/uploads/3193437/lmenEgwPF1BW9azRAX8-~ufcP7ON.png?width=193&height=300, 1
+Korosuzu, https://images-ext-1.discordapp.net/external/m9HNV2jK8ZbNyz9XkRpEuX4QI3flN-eO1ZOyihftRIs/https/mudae.net/uploads/2468976/6Pf6Esg16HZ0DVNCjFNo~QQcJ9xl.png?width=193&height=300, 1
+Bessie Busybody, https://images-ext-1.discordapp.net/external/rBujvIFUrbTsRLU9qd9ISLxatWig6VO5R6ZQgLJA8vc/https/mudae.net/uploads/9119645/_LIpRoITNbFYr1YKTGnf~CgsdDAT.png?width=193&height=300, 2
+Nanaya Asuka, https://images-ext-1.discordapp.net/external/YMl-CU7HHc6Prx3v6nHko6ESwA0auO2jlMuZFzv7gSI/https/mudae.net/uploads/3154028/cbmuUEh9MU_jNFDAOThU~pw1ATZo.png?width=193&height=300, 1
+Kalifa, https://images-ext-1.discordapp.net/external/U1OYQj7LtXnZCqXYnvWf5ZxIYDN0tNEEbjfx7UiyBbs/https/mudae.net/uploads/6110233/qE9sMp9V5uvpaECnR3so~kbXQnUR.png?width=193&height=300, 1
+Isis (SMT), , 2
+Maki Oze, https://images-ext-1.discordapp.net/external/LOoQDe58BXG2r_5XDDfj6WYAVaOXtc967DqHhpB8zcg/https/mudae.net/uploads/7257160/Gr3uNkeN74Dhr4jY-y_c~YJ0Tb1b.png?width=193&height=300, 1
+Mil, https://images-ext-1.discordapp.net/external/Dj-XcrvFnVJgz7qJyBX4R5B_YUfI3BetXJrdPzxwUIY/https/mudae.net/uploads/1164059/wjZlCQ3oluif0SDYo_-Y~dbv90NG.png?width=193&height=300, 1
+Minako Okukawa, https://images-ext-1.discordapp.net/external/1f2Ft2yIn-rAD1QblrHWBcb82nRVVbVfuLMMDHUs090/https/mudae.net/uploads/2770822/FhuqO2bxh4NM7qZ2OJCA~JkPQNWx.png?width=193&height=300, 1
+Engi Threepiece, https://images-ext-1.discordapp.net/external/rMvLAr-BqRQE4ussHthyD-TG9-qTLXsT_sqC0xrcC5g/https/mudae.net/uploads/5945923/CmW1UIhk-JrM8LLNLSS9~P7bTT0N.png?width=193&height=300, 1
+Shima Tateishi, https://images-ext-1.discordapp.net/external/csMwD-t5BXJhsptP5nBai4aQs8vJkV_Trm-m6-3_Th4/https/mudae.net/uploads/7216890/ZB_VpeM-Ax86wazeg0Wq~5zvXzgR.png?width=193&height=300, 1
+Towa Akagi, https://images-ext-1.discordapp.net/external/k2N9bYrzMEet_faMI57TlESSg2280LjfGhqlDF8f0UM/https/mudae.net/uploads/5213435/FgjIS9IQisFApsgwN4AJ~anqghRm.png?width=193&height=300, 1
+Franca Angela, https://images-ext-1.discordapp.net/external/dsAqUK7y_8tArLYmpVtb453tv4VW-7oAgAm04pqrvZc/https/mudae.net/uploads/8362811/edf8Esx_VSggo1J8uMEe~iUmoyUM.png?width=193&height=300, 1
+Ageha Kuki, https://images-ext-1.discordapp.net/external/8yRiD-SVXgu3TfdBJcV-ZoRdlGIYMLaG1Wg3b5oxISQ/https/mudae.net/uploads/7928828/FFfY1L9K4MEEj8byjMUw~5bDPryo.png?width=193&height=300, 2
+Lavenza, https://images-ext-1.discordapp.net/external/Vif3hmUCXd0F25gR7ooiUNnLp_yq8ls1AQa2qyG1n6c/https/mudae.net/uploads/9689704/Ia5Bcj_WX-lo96xLi7XX~NGNVMMs.png?width=193&height=300, 1
+Alicia (YnN), https://images-ext-1.discordapp.net/external/B8iG57rDe-CO-fDccq7FDGfpq-5KwqsHBlP_BzC-ipQ/https/mudae.net/uploads/8306138/aKAKgrXEbrjjljeQbFNy~84apcbg8av4.png?width=193&height=300, 1
+Kobayashi, https://images-ext-1.discordapp.net/external/9JO98ItHwjkmQN--me1leq1vgPiDOsjRnfv6MmJf63A/https/mudae.net/uploads/2062278/uKfK63Hbq1nQVFLUIy-k~Xxm07kR.png?width=193&height=300, 1
+Uchino, https://images-ext-1.discordapp.net/external/Ud8nhondoT4hIbQYf-60tkrkGTV-Ll5yBdqP6Vv2Hv4/https/mudae.net/uploads/5886184/lbq07p356bgVUS67i0J5~OIV5SkM.png?width=193&height=300, 1
+Miran Himemiya, https://images-ext-1.discordapp.net/external/19ieeBKxr7iAyJ8y2hNtJkrkqPZl4F66uwCjic9ewRA/https/mudae.net/uploads/7289109/EUcpZm6D6AwggBDE0ETB~JlKmpPK.png?width=193&height=300, 1
+Riette Luire, https://images-ext-1.discordapp.net/external/zkFenFUdqCHeuNITk6diMQ2FENed-uYjKf9YcR-0VXg/https/mudae.net/uploads/8172994/Y5xVySc3zRNnppL3bHgn~U4EIROA.png?width=193&height=300, 1
+Kotono Kashiwaba, https://images-ext-1.discordapp.net/external/4R9bUq_Eg1bN16XToM8McLJtB-Z0CwxotleeJaUaMmQ/https/mudae.net/uploads/2615583/X6lLIz3emljFHlR3pzC2~9hykg95.png?width=193&height=300, 1
+Ansley, https://images-ext-1.discordapp.net/external/vdY01rjRcy1Z54WmCvT4UIE-ltU1wwEIpFP9-QVfmsY/https/mudae.net/uploads/9484057/6uzQN3Rj72ygn3IIzaNk~dD8hdwk.png?width=193&height=300, 1
+Regieleki, https://images-ext-1.discordapp.net/external/GbmNqDZl-j5TcQlEIl_MhtmhA42pZ_78JVbX-4VfZco/https/mudae.net/uploads/1636959/sy7s8WT45ZgAz7OhdWsy~lHwjzV5.png?width=193&height=300, 1
+Orihime Soletta, https://images-ext-1.discordapp.net/external/j2dvjXU28eTO1qij4R_0VlzAy0xtLgGDhLhL5f14kDI/https/mudae.net/uploads/3770290/S96EoAMvxjhZcmUe7WTm~KWEWXZ7.png?width=193&height=300, 1
+Yui Ikari, https://images-ext-1.discordapp.net/external/9wLjlTnYiRxtAK-KgpVPQrer-KKRYzmoPhoI1DDNNRc/https/mudae.net/uploads/6097010/lOe9cJzYX3njSvBcEpS0~Nxw8kIj.png?width=193&height=300, 1
+Misora Hina, https://images-ext-1.discordapp.net/external/TX5JyaxHe-85oarfIL5fIpKaHfDHvsEatQJSdjPiBTA/https/mudae.net/uploads/8967032/U5XRrIUqrOFYgoCfJPuH~TZL5UKy.png?width=193&height=300, 2
+Nano (GaMERCaT), https://images-ext-1.discordapp.net/external/-W2HgLypQrcbyGTIt91I1qb_zHwyp7oYxBWD3PT3TyE/https/mudae.net/uploads/7930077/fp8pxpTXLUsB2grf253a~KoG6juV.png?width=193&height=300, 1
+Yowane Haku, https://images-ext-1.discordapp.net/external/o5tRz4-st_GXpk0yniShVXowMcNgGD2gR87HQ70ejL8/https/mudae.net/uploads/6348260/maZY51OTMMBMUofU3jQX~wbgtOua.png?width=193&height=300, 1
+May Oak, https://images-ext-1.discordapp.net/external/Q45N_McbMSFZGAxCB2x8wZ21HaQ7EScKkfANHNZRIXo/https/mudae.net/uploads/7811756/c5CGux9pGthCWolGFFW7~xbT7dDL.png?width=193&height=300, 1
+Chisa Taiami, https://images-ext-1.discordapp.net/external/v-cqRTg4mcRyRvUWEu-9kZ_veEjQIX8XN6XEKUdefM4/https/mudae.net/uploads/1777973/xc-IODbUv0wpaYCbwki5~3yrgcbgne54.png?width=193&height=300, 1
+Cow Lady, https://images-ext-1.discordapp.net/external/6S_lBgQqkWezTGD39SBP7JYGTVEz_UKMPmE-zfsTHEs/https/mudae.net/uploads/2685432/M2lZSKZ1ocgAx8HKi8cJ~jxDnc68.png?width=193&height=300, 1
+Roxy Lalonde, https://images-ext-1.discordapp.net/external/67JHvnQjp4V6bgKouo_vYdGaHzONf4or4UoZ4ax7sy8/https/mudae.net/uploads/9371296/cXunbLozG_Tn95KTeY5w~FDKR5P5.png?width=193&height=300, 1
+Alexa, https://images-ext-1.discordapp.net/external/RR7dxtq-6KpUh7T2XegI-nxftejE-k0sG-qE44hiGFs/https/mudae.net/uploads/4648854/VYQ0gJABdyC7v03P35MY~IUCRtxz.png?width=193&height=300, 1
+Nanami Yasuri, https://images-ext-1.discordapp.net/external/2b-MJGXp8AIet75_4FX7dK2LpYi0FsZ6ck2MkZPV9sY/https/mudae.net/uploads/8762309/rK2zVkN4ZMhIARPOum4Z~TGhGFeR.png?width=193&height=300, 1
+Clamperl, https://images-ext-1.discordapp.net/external/Fpa23o-83XjcVqRoOPnoHkVGvktdqgkqv4NHzOoCWog/https/mudae.net/uploads/8766426/EnAdmYTo55U_SHbRpe-n~lThIqfe.png?width=193&height=300, 2
+Moon Butterfly, https://images-ext-1.discordapp.net/external/qiMNn2zvxQ_y1utgNWoD5KNYAUsagB0NtjNLbQ1M3Z0/https/mudae.net/uploads/6441747/_22X137Wd_nHbUchgh4L~eTim88d.png?width=193&height=300, 1
+Digit (WC), https://images-ext-1.discordapp.net/external/wS8kbSo3Pq3LQSRr25B4JbHHG-Wq_a9P96QA4hGqow8/https/mudae.net/uploads/9724443/Xq9eBOZRg2j_Cdr2U5j8~srYMEpF.png?width=193&height=300, 1
+Nagatoro-san, https://images-ext-1.discordapp.net/external/XabG5z-rvdvsEX5T_53cKWjir16sfiPT6u5vcaGj0Dc/https/mudae.net/uploads/7783021/VIbb_ibZMm940nG8BGEW~NzGcyPF.png?width=193&height=300, 2
+Urara Nanami, https://images-ext-1.discordapp.net/external/Q_YvBGO0kdc8Cqwxv1cEMi6o-urWiGIyaQ3GMXL8P7E/https/mudae.net/uploads/4688063/4QednxFIl8MY9JsmLElw~4n9U9Rx.png?width=193&height=300, 1
+Lady (TKoH), https://images-ext-1.discordapp.net/external/KXbpXpHlG0_a0-pxcWUnfXVc1jKf3OPChgwDC95XeXM/https/mudae.net/uploads/5368157/HzXMwljee89rR14b9Dxt~WeK3BhW.png?width=193&height=300, 1
+Sienna Merdein, https://images-ext-1.discordapp.net/external/vLUy6fN9ZL4crZZmNwZ4BibFgUokA_uvZC326ilm7M8/https/mudae.net/uploads/4996077/2OHygqthSnAc4geRaFeZ~XnTCWGl.png?width=193&height=300, 1
+Uta, https://images-ext-1.discordapp.net/external/9ZHUPIldNdSKL-Ssy7ycqGzy7Q6aT1z_VJVYXkmKCE4/https/mudae.net/uploads/7793654/qcbPV_x9IYreUTNb5HbZ~sM2tAiA.png?width=193&height=300, 1
+Dahlia (C&T), https://images-ext-1.discordapp.net/external/iB4Afn6ogwJdcZPPa8zd7wJ1pJjzOQ2nLCmq6ffKaAc/https/mudae.net/uploads/7451194/PwFBfc7yaGNFt-I8xfpY~c3RPidE.png?width=193&height=300, 1
+Macy (PKMN), https://images-ext-1.discordapp.net/external/J9TL5rHB3gm1Gfy1mPUzSTi0Yjh6l2Fy_QSgyfPqyT0/https/mudae.net/uploads/8228832/M-LTuasOUI75xRWlHUaS~ZdylxVd.png?width=193&height=300, 1
+Hoho Kajino, https://images-ext-1.discordapp.net/external/aWt9rkflhe9uD27cJypcowSAherTAsNUyzU056tSvK4/https/mudae.net/uploads/2532900/xZ_Ygd4Xgmn6ci2Opx6W~ro7ET2o.png?width=193&height=300, 1
+Chuu, https://images-ext-1.discordapp.net/external/78M68iLCYwJdHGkmeVVdnHfcpneS3wpJd-aLzHBv30g/https/mudae.net/uploads/9303923/mIN0IslBA1la2BXctGw3~nfxZgtT.png?width=193&height=300, 1
+Kurau Amami, https://images-ext-1.discordapp.net/external/gMWxNiAJEd72BfukYe28T42ZDsTFwAQcAc-UDUMKH6w/https/mudae.net/uploads/2433334/XXPrZB_fK_FO7qjL95xX~e6lkeLy.png?width=193&height=300, 1
+Chihiro Kobayashi, https://images-ext-1.discordapp.net/external/HXgWWf-Jj27Lf_Y-YdMsHySfm1tLdAnMetF-oEN90PM/https/mudae.net/uploads/7998250/Mw4YpMwTAaMEKEoCGo3q~0xcK8W2.png?width=193&height=300, 1
+Suzume (SG), https://images-ext-1.discordapp.net/external/oQ22QHRoK6mycfEPH8DaLSUz1YhoGgInZd_-KZoJip0/https/mudae.net/uploads/8161357/07Qza7aKQP8_OClp5qdg~ufvllek.png?width=193&height=300, 1
+Gudrid, https://images-ext-1.discordapp.net/external/YLTjI1vTk-J24RFMCSxN6nFtrriWFAWwXC8k9f7E58c/https/mudae.net/uploads/3918788/_WWiLAG-mL5ivL4Qf6EX~4enTkLM.png?width=193&height=300, 2
+Saurophaganax, https://images-ext-1.discordapp.net/external/F6PJMDca8VAOqeCPreZ-Mhs4IAsNyRcE6f8sm2g46-M/https/mudae.net/uploads/2712261/7_0TssJGGjhIt-I_O9b1~dHVuFB4.png?width=193&height=300, 1
+Polina Livinskaya, https://images-ext-1.discordapp.net/external/4zNP0X1_O5iOAzxbZ6Xzrnl6AkyQvBGihubbRFFnGMM/https/mudae.net/uploads/5759545/dUVmQv7ev5cMsnEdyoa4~43R77gc.png?width=193&height=300, 1
+Kaori Tanaka, https://images-ext-1.discordapp.net/external/Qs_rdhjb01pJTjasnehxHBq1UtjzPHWa99IpYTve-hA/https/mudae.net/uploads/7695651/mML9gyOC7kHXj1QxbsV1~aDZpM3r.png?width=193&height=300, 1
+Elel, https://images-ext-1.discordapp.net/external/Wgy5rxZu2qYitdtJc9ETPL2fIQyW-fi2Vke83Uqg8xI/https/mudae.net/uploads/7959159/Pw-4F6vvB93Cz7P3OO7_~iIV6ftw.png?width=193&height=300, 1
+Chaeyoung, https://images-ext-1.discordapp.net/external/fiBKLUwZMEQApqwujVCO3sYDUFEnrQ23iP_05MugkR0/https/mudae.net/uploads/8864467/bgFBemHYqQt-7nECIltP~bNZ5sTP.png?width=193&height=300, 1
+Michiru (AIR), https://images-ext-1.discordapp.net/external/SED4-lJLBI2jOW9KHt0ZyqWDM9zTppnP85jBw1EgSWQ/https/mudae.net/uploads/9977859/idn6P9ZA8KKPadPQ6639~bAzeV95.png?width=193&height=300, 1
+Elena (IYK), https://images-ext-1.discordapp.net/external/nU4s6Cb6PHU3jALQ32IPmaDtYIQjSecXfLGXYz05yWc/https/mudae.net/uploads/9574389/y4uFyyOqsWuAVuxXa0MW~WIyTN1x.png?width=193&height=300, 1
+Kirika Uno, https://images-ext-1.discordapp.net/external/LuPyhoBkovxJg8mi5895IQIIXn9hgbit7r4JtXXlplY/https/mudae.net/uploads/6871335/qfcR3aD_2uNrmDr4-5cN~0ztIAFd.png?width=193&height=300, 1
+Myucel Foaran, https://images-ext-1.discordapp.net/external/Te96RF12eXN2xFNB6z2G3upa0ObhGUTBmm57WHKHDuY/https/mudae.net/uploads/6400939/6G6RwyY0TCw8B0B7uIvR~TnB2iFv.png?width=193&height=300, 2
+Altena Edgardo Latis, https://images-ext-1.discordapp.net/external/r0hVvKeOjzOKV6g4Eu48L0fXL3Ad60vhsyq38vGjMsc/https/mudae.net/uploads/4891784/3hU6H6uXGacZ8wHzxLAz~mqh6vIk.png?width=193&height=300, 1
+Wicke, https://images-ext-1.discordapp.net/external/n7oy-K3LuVArf7tP3hwy-VBv0dcTpVIZh-d5EOKprfM/https/mudae.net/uploads/8809165/_UR9IhuNina0z9uOi-RO~XCeoDCl.png?width=193&height=300, 1
+Hitsugi Kirigaya, https://images-ext-1.discordapp.net/external/kRVusUen526h9l4dnkn97sgTluaMLlChr1uaHdBBedM/https/mudae.net/uploads/5715106/D-eOMPJY3Tgy98Z_tXak~ojuOBj3.png?width=193&height=300, 2
+Noelle Armos, https://images-ext-1.discordapp.net/external/xAwcJBF_F6t0faLSnVc0YEtpEY5aZcG9D_nhMtd-MmU/https/mudae.net/uploads/3965094/Dmbg7FkmteQ5qXSTzbd4~qxMRDGY.png?width=193&height=300, 1
+Inna Seo, https://images-ext-1.discordapp.net/external/F9v1WvdVQmE_E23uDTAYRApFdqHuMR8qzMT10vbwigQ/https/mudae.net/uploads/8030197/q9Ge99QDRdz4cDneN0tL~hPsbO4W.png?width=193&height=300, 1
+Ray Akaba, https://images-ext-1.discordapp.net/external/gd1siu-7hODFOaIBCDFCYVD6pn1T7d6npZ__UlZCHwc/https/mudae.net/uploads/9548382/1j6GmrMXrvLR8bX8-N9N~gDCX47D.png?width=193&height=300, 1
+Sakura Izumi, https://images-ext-1.discordapp.net/external/V04Xg4EdM5D2uGRmAGPdL8SaXf7JegQLaJUrPmATF-E/https/mudae.net/uploads/1149182/N32HpUR_zzPJBT1IlUmC~iI3ZJKM.png?width=193&height=300, 1
+Itsuwa, https://images-ext-1.discordapp.net/external/EnI-EiQeTKDYS1hC6c8Wh0pbsaZ_YaWjTQKx4quHCcE/https/mudae.net/uploads/3304640/_nA2RpZeirl7xAIoU2qm~ngRR78x.png?width=193&height=300, 2
+Orna Garof, https://images-ext-1.discordapp.net/external/FPbP2s5uok9GgAyQgBSEAk7MgrjYDxVoZWyQkaJz6wQ/https/mudae.net/uploads/3360781/V9HVI4nq00-jiypN8NWo~rv6arA6.png?width=193&height=300, 1
+Haaton, https://images-ext-1.discordapp.net/external/LQngijMaIufnwyYQ-SQoz7hS8rTK_H8xApfPA8G_OuU/https/mudae.net/uploads/2691700/8g0l3BP4d92MqAVAxhJM~ItftM9Z.png?width=193&height=300, 1
+Ataru's Mom, https://images-ext-1.discordapp.net/external/a5AyuhzryHH5vweLY5Q_a29GwUK2M4JbRDR9CABE9Sc/https/mudae.net/uploads/9188906/3i6Ull5fFGOAXzUviLhp~btdHb2N.png?width=193&height=300, 1
+Reika Kobato, https://images-ext-1.discordapp.net/external/pbgca_3_k3KdLfxdj0oVwyaFIndn855JcOu09wGEP1w/https/mudae.net/uploads/7242120/rYh6y0XHo-21chM8CEFH~mF52I9B.png?width=193&height=300, 1
+Yuliana, https://images-ext-1.discordapp.net/external/HMPDbXe-STeHtNkDx4p0Xx7Fgp0zU4bbxpBkurAUU6Y/https/mudae.net/uploads/6860643/M5_EFV55_bfshJrGS8Ig~owKY67z.png?width=193&height=300, 1
+Mizi, https://images-ext-1.discordapp.net/external/s1KqgxWzrQECYEhnublHYffSp1xGKFNCX30cvS9njM0/https/mudae.net/uploads/2962067/ibn5X6Juz5XqcMULUIrG~84jdcmbxzg4.png?width=193&height=300, 2
+Maria Kurenai, https://images-ext-1.discordapp.net/external/9mNZqNz3h6XXjfINSdQdPdtniuvsdRAxNeE6cIFnsGQ/https/mudae.net/uploads/4545315/9IZm4XFl2pBQjosGSISl~ZIUI9BZ.png?width=193&height=300, 1
+Limalisha, https://images-ext-1.discordapp.net/external/MksF0t5IZ2jcPYvIEQZjK-tmQ8nNQ7BkE6kemxS7hTU/https/mudae.net/uploads/2222595/8aSZTVlek05A-JyXcoZT~awoL00P.png?width=193&height=300, 1
+Rida Razarasare, https://images-ext-1.discordapp.net/external/BZ2g0L7OQp0TL5M6MHiQ9MxidWlU6aP0YgRnuA_GSGg/https/mudae.net/uploads/7434475/8Wpq0WVL7Bqgk2fq2-Dj~WGexSAD.png?width=193&height=300, 1
+Orichalcumtyranno, https://images-ext-1.discordapp.net/external/7HS-0RNCn5Zxqdg09YRwAAihPVASQzxbDK4TFPUttS8/https/mudae.net/uploads/2218106/fszCY-9-q3phMZbtq68m~g9Nlk1l.png?width=193&height=300, 1
+Satomi Satomura, https://images-ext-1.discordapp.net/external/pkA2pfRwP1u46NDurcD74-cUjOSOh09dEsAfqdyzDds/https/mudae.net/uploads/4484525/QPDJib-HuDGXV3vxICgH~ALGvUCe.png?width=193&height=300, 1
+Sayuri Ichinose, https://images-ext-1.discordapp.net/external/Q4bfZGfauy0GSg4nQWCKHSqcyDMIcG1UYHhFYz1UpXs/https/mudae.net/uploads/3024657/iytUyuJsGBUF_KUMHY2A~QjJ0Xhp.png?width=193&height=300, 1
+Anzu Taneno, https://images-ext-1.discordapp.net/external/dxiBBRwWViUpUJpUNSqnrr0GafmcUdIprrpcSQsHUiw/https/mudae.net/uploads/6472704/HQyosp2LQB0cqu6eInwm~E6FyP4X.png?width=193&height=300, 1
+Shinobu Yuuki, https://images-ext-1.discordapp.net/external/j-eypbwUxbEU8KvPKIxY10Mi6ZHWcwtJAs4rLyTd-ro/https/mudae.net/uploads/3767783/_EIIubR7KdjUg5iTQ6qs~Lxl7x7W.png?width=193&height=300, 1
+Shu Kexin, https://images-ext-1.discordapp.net/external/IkpaZCgdUHC4KK7fkQ9k4fOYfS1LuDSzFqbl0Eyq_FI/https/mudae.net/uploads/1207986/V2eP90VXUCYH8B0RmQo-~lsZF2nA.png?width=193&height=300, 1
+Aya Oono, https://images-ext-1.discordapp.net/external/Euqa37xrQmw2E1sPRD6xvBz0RhpX2HiPPtAgt2ZZ8AI/https/mudae.net/uploads/2840309/APOoTYHfTDTL17U6_pZG~cdoM53H.png?width=193&height=300, 1
+Kotoko Ayame, https://images-ext-1.discordapp.net/external/YJdy6lnLrwiHRix4rEE-D3AWzxKWbW1Y8QGmmoBZQmc/https/mudae.net/uploads/3105859/fEWGhvFnGMasGf_Bsa4-~m0ojPyr.png?width=193&height=300, 1
+Minamo Kurosawa, https://images-ext-1.discordapp.net/external/hvAQekqjaGsSn_5ngUCFYc6e3l8kPPDGx-JKu4eWbn0/https/mudae.net/uploads/3639079/f2ce1RNKklOwnkr3C10o~B7PhvlL.png?width=193&height=300, 2
+Nobara Kitajima, https://images-ext-1.discordapp.net/external/PyFo_8yCht8zOcU3l98tSZ73_7zYUJm1qL1qaQs2Ajs/https/mudae.net/uploads/1558893/JNCasf_Xi265FJieAhXR~74VvGpJ.png?width=193&height=300, 1
+Rose Choi, https://images-ext-1.discordapp.net/external/39fRznNNrw_HliykQZzzaLiki69TGWZKSUO5k6-oTPM/https/mudae.net/uploads/7224956/HBDN-mmh7anwevy3cIAf~Uc0IVt4.png?width=193&height=300, 1
+Hachiko Touna, https://images-ext-1.discordapp.net/external/Yf9WohKrBWQrHcGm-UsxPbh05bGDMZmQYx8Ms02p8l8/https/mudae.net/uploads/7552615/oC4rn-l0Sisn434ZuZ_4~FhLK97O.png?width=193&height=300, 1
+God (OPM), https://images-ext-1.discordapp.net/external/0LCeaCu3LMCRM1htbowyWzde1_QkxYCQ8vXMag4aNqE/https/mudae.net/uploads/6088389/aJdRJpS-nhJidDzxrQus~xrPZc2d.png?width=193&height=300, 1
+Hinako Saijou, https://images-ext-1.discordapp.net/external/-HAWT8BOgkaNy3ldpGWlu3nB1a-JWqwt4RC31w9BX7Y/https/mudae.net/uploads/4608292/fj5Nbt41i2lwqPudGiA3~eT9fhv3.png?width=193&height=300, 1
+Sayo Hitsugi, https://images-ext-1.discordapp.net/external/LmlNJJtsKHpo2NUKqrLyQEyqmP9lxWt_bgHhgM7FZZU/https/mudae.net/uploads/2226052/KK_9l1h2M-CoaobI_ELv~m9bZQU1.png?width=193&height=300, 1
+Ai Hinatsuru, https://images-ext-1.discordapp.net/external/Ed97QvtEPijIFj9UQoZEzRTaYQAvudgwx-jOONQldog/https/mudae.net/uploads/2171523/VtnBEdApGouVWrm2J9jI~yYT1ryt.png?width=193&height=300, 1
+Minami Sendou, https://images-ext-1.discordapp.net/external/ZbzJ9aUPu-RwdDLJzrnJtY1eomjJyJu1xs_sKCSEWj4/https/mudae.net/uploads/1865997/wDBOFr6v-C7Qg0qwT89u~gQX7CYy.png?width=193&height=300, 1
+Black Sabbath, https://images-ext-1.discordapp.net/external/K-AqG32AdoBrswzFBGzEc8BwndtOoZBXGNuEU9Vu68Y/https/mudae.net/uploads/4002344/d2rdDnyNp1GqWLybQVFq~25oXXjh.png?width=193&height=300, 1
+Lady Armaroid, https://images-ext-1.discordapp.net/external/fHtTNwyXfUK9AXcG5vMAAYRQgI5zP7ycCQ--UNQA5-c/https/mudae.net/uploads/2298268/GsXN5HMWylP9K7myOnh3~4HcJ1GK.png?width=193&height=300, 1
+Kiyomi Kujo, https://images-ext-1.discordapp.net/external/AZODjnNOrh3n3iGffoIIXr7KdEDqpGbiOK7_6w_T6hY/https/mudae.net/uploads/6321420/VNLHa0yNbSvjk6OX1hza~Y1K5p9n.png?width=193&height=300, 2
+Han Da-Jeong, https://images-ext-1.discordapp.net/external/LUGAyoRwVrlXuJwATDAV197YzV8kov7kI_d6qvBC5ng/https/mudae.net/uploads/4923751/B7ogd3pQwRvRpQB2tpem~W34YO2v.png?width=193&height=300, 1
+Suzuka (AgK), https://images-ext-1.discordapp.net/external/QkYw_i1WdgAtV19WDjYV9S6eiH3fU_s1D2Yu6SKkvPk/https/mudae.net/uploads/2329453/_oEYDMTXDhEX-GD4_xIs~IR7GbZk.png?width=193&height=300, 1
+Enma-chan, https://images-ext-1.discordapp.net/external/_79k_4vsVYdTX4Xk7UL4NFZ0Akz18fjjy3c2CWY-eM8/https/mudae.net/uploads/9437742/-I-WsalXXFcMdga0d0Uc~o3NEnL3.png?width=193&height=300, 1
+Miraschon, https://images-ext-1.discordapp.net/external/eT-gIjfx61g9DlU73BMAbrP61nAFY2lLeFZLs6HK2Lo/https/mudae.net/uploads/8290497/jKc3vvnFavOsF3vrd0Uk~bTFGg4Q.png?width=193&height=300, 1
+Lie Mei, https://images-ext-1.discordapp.net/external/SAjhdR1XPCIJVLy9fT5jW6a7LoC1awLKUr8KbQNOm74/https/mudae.net/uploads/8528875/-r4gQB-8SVhcjJsgVeNq~Woqqh3s.png?width=193&height=300, 1
+Reiko Arisugawa, https://images-ext-1.discordapp.net/external/R6k1Boq7mTgIbOEhxkHMQdh99I2W7uEmZlLM_18IFvE/https/mudae.net/uploads/8116037/VfjEmJ9EmE4QIFt4f3Y5~udBrKEw.png?width=193&height=300, 1
+Lan Ling (SPSF), https://images-ext-1.discordapp.net/external/TAQZw9-DJMr_vs4Pcund79xaq3RVOWowS1wv-ofz-C8/https/mudae.net/uploads/4117979/LAS8ptUWJeL1lmJSyGjA~PbUZd0S.png?width=193&height=300, 1
+Hikari Kohinata, https://images-ext-1.discordapp.net/external/TaFYiaaK2zLUVxSmuIoRHmklLEhjs6Ku7VaWba-bEgo/https/mudae.net/uploads/6195631/nLUBf-yiFTnN99utO0c2~qXSiydy.png?width=193&height=300, 1
+Lieselotte Sherlock, https://images-ext-1.discordapp.net/external/58qWY2UHmyk0-FfX5BpXfM4LPoIo4dMrTSGxxy9M1e0/https/mudae.net/uploads/2636261/WuS3jx8XQcUgv8nEnUFM~Np7xNpl.png?width=193&height=300, 1
+Aoi Ogiyama, https://images-ext-1.discordapp.net/external/1eJVBG9MiMts1EWOWTqKccL8YMtH1Kj6XjoHDt51zmY/https/mudae.net/uploads/5323345/hGBHB7gG_pzS1s6RLAVj~N3qiDqv.png?width=193&height=300, 1
+Rose Fannett, https://images-ext-1.discordapp.net/external/RTD85lmBbJGTO8kzafxh0pkImyaiYOlVnS3_Ie1RcFo/https/mudae.net/uploads/6099124/5IOvLyhFwOyfQ-u5ZFaY~TbBBfX6.png?width=193&height=300, 2
+Sybel, https://images-ext-1.discordapp.net/external/XDPYUFsp1DaSrpr8x_0QU28uH2DbC3UGp4LgoGj8PJg/https/mudae.net/uploads/1495063/K-XeoTzpp8vW3rXGTUD2~qKXnF2y.png?width=193&height=300, 1
+Suzu Sakuma, https://images-ext-1.discordapp.net/external/CQHhDCDdoKQXDRBu9OgFPif6YMNzAuoFNtsut_viJEw/https/mudae.net/uploads/1155191/SPDLr5n9vlf9u0ZGQMhL~wDWzihw.png?width=193&height=300, 1
+Komekko, https://images-ext-1.discordapp.net/external/qyFjh814b0vmSsDU1iXagYmp_wYE44TASR3HTh74v5k/https/mudae.net/uploads/4268333/lyUgg5-fDhuHaFvGgtAF~tjP9jQM.png?width=193&height=300, 1
+Nitori Kawashiro, https://images-ext-1.discordapp.net/external/RN9PWKT6q-GV1Xy9VIXpZDnTKaZozidf0CkCMlrGYeA/https/mudae.net/uploads/3135626/MPa4D2t9vKPhXKq92oCa~jXRb5Ds.png?width=193&height=300, 1
+Uneras, https://images-ext-1.discordapp.net/external/UfLjkhV0tFdGvu5EcsdE4EIKSZCn4jMeWoDd3gVVqC4/https/mudae.net/uploads/9975797/TPYYB4QdA7nuMZme9coP~FkDPJsY.png?width=193&height=300, 1
+Sylphiel Nels Laada, https://images-ext-1.discordapp.net/external/PmqgPOh5K-GV0UBdvIjlILFOuKNi4F2X2Amn_ahKsd0/https/mudae.net/uploads/2068857/V98PsPJGa-3iGLJZ5O0b~QMPzMJC.png?width=193&height=300, 1
+Karura, https://images-ext-1.discordapp.net/external/au5dPoniYOVx-VadjIKiklYEY1WTPFaRssBOV24o5zs/https/mudae.net/uploads/7738651/-vuDXQxP5BBvTSrQb4lI~bToE2pv.png?width=193&height=300, 1
+Raviel, Lord of Phantasms, https://images-ext-1.discordapp.net/external/j5rYTwbGy1va-p0NcUDUSgFDiUgrJVTUc1b4D95Md1c/https/mudae.net/uploads/2358809/YsmQNfkzwV58JaZnyQiL~tGFjjuy.png?width=193&height=300, 1
+Himiko (TnS), https://images-ext-1.discordapp.net/external/dLVB9uFyr9gbK3j64QtI2KpEGl6XPlGYVyAEzUAWWUI/https/mudae.net/uploads/9116955/38f7y4ue7qkwK10qBPbm~BML8wGc.png?width=193&height=300, 1
+Noa Saotome, https://images-ext-1.discordapp.net/external/gWDgfIPQNulZzUKWMWBRh833ZoKrtNQpACegg3_s-o4/https/mudae.net/uploads/7286121/jduO9VwUMJA-5ctn6s3W~mbZZayq.png?width=193&height=300, 1
+Velvet Crowe, https://images-ext-1.discordapp.net/external/sqANiJlkRoS5MxPeObAJJdMRralPbHd1T1M1-QahglY/https/mudae.net/uploads/8958312/EfKAb_b2E_UUmauBGGPS~hAedYvZ.png?width=193&height=300, 2
+Midori Shida, https://images-ext-1.discordapp.net/external/CkK_kDmyZB0aX53gXX4yoU5Q0yJsLBeL9X_fzHF-59c/https/mudae.net/uploads/5637917/SCSZBW7uFSaxB3XTTPqD~i10ILQ5.png?width=193&height=300, 1
+Ekitoku Chouhi, https://images-ext-1.discordapp.net/external/rpoWRMv6Y0vhNSdtp_TcjvyVGNx5Sh3wI0OWxva0Tvk/https/mudae.net/uploads/2990055/PCTfn08QFzsqcf-GlrNv~nMCoYFE.png?width=193&height=300, 1
+Chiyo Koduka, https://images-ext-1.discordapp.net/external/ZAm0cEmQqRVq4dp2ciQHEk2NHjeZKnw2GiWamrYWvno/https/mudae.net/uploads/6415698/JBqLWlbjIj35D7IlHKq8~vJvZHWC.png?width=193&height=300, 1
+Kusanagi (Doron), https://images-ext-1.discordapp.net/external/4XRgz3arVmddUvT4tvLEO8W7nWPcG70WCXLlZqnalYM/https/mudae.net/uploads/6896178/HSsDuNLBayjn-PocGaB6~UDXUH1u.png?width=193&height=300, 1
+Noa Fukushima, https://images-ext-1.discordapp.net/external/oppfPs7jomzmRtJDGwHcOkxqKgzZCWDGJqPAVSxpNHc/https/mudae.net/uploads/9296275/KEUO2t6uKB94zBdJ4aBx~eho0TJ6.png?width=193&height=300, 1
+Rinka Kagurazaka, https://images-ext-1.discordapp.net/external/uCg92rPsPtzCbkXk8LxvUX5tSNKIbP1Et7iTt8gD3Tc/https/mudae.net/uploads/3735726/NYwfMmN5teQ9WZovp940~66vYP1w.png?width=193&height=300, 1
+Lawry, https://images-ext-1.discordapp.net/external/05kkx4rrTPcDLqOsGlymo3zYOUACr5uXtRKka2HWhSM/https/mudae.net/uploads/4675056/Fr82JSbCIH23wyOkP_HE~d6TNUHV.png?width=193&height=300, 1
+Misaki Ogura, https://images-ext-1.discordapp.net/external/e2eIOnmO_DtC4orBB2nfp6hhioJjDktb5RvjXo3bG-M/https/mudae.net/uploads/5196183/PKjX0WIKUAkHo3dLQX3Z~OggB3Az.png?width=193&height=300, 1
+Sae Nakata, https://images-ext-1.discordapp.net/external/GqU4xDdJwecfOCxkZbhvWwKR1avIHwX8AI2G-dd1uQE/https/mudae.net/uploads/1626685/5kQJtW7bYD3t_xX2foaf~L0MLbXM.png?width=193&height=300, 1
+Sejeong, https://images-ext-1.discordapp.net/external/OVHnR_mhepvPQdJIf-zrkaolElCH1k-niQOGzRIW8Hw/https/mudae.net/uploads/1200930/QKPqkWRDYHiYUMMPkaMq~CSsPXCr.png?width=193&height=300, 1
+Lukshana, https://images-ext-1.discordapp.net/external/_bzk6nlF6UmBmD2BzydkuQpRnei9JB75MO9Pv5giJuw/https/mudae.net/uploads/1745273/3veZsjrphLHFBoIxJTaP~w7pjcb5bob7.png?width=193&height=300, 1
+Itsuki Aino, https://images-ext-1.discordapp.net/external/24JggydgNegRBZ34KbcKRFHeecCDWp3PDPO-svBsR6c/https/mudae.net/uploads/2954432/-eQjXBKEesWJeC1oBGqT~dwnUH1B.png?width=193&height=300, 1
+Haruno Sora, https://images-ext-1.discordapp.net/external/WCYyFe9LV13hCQbDHZpa4V6JKGsLdD44u8zBdBvD7CY/https/mudae.net/uploads/7784368/KyN-Y5oXItBNKvLQhujU~SJ4srdn.png?width=193&height=300, 1
+Marika Katou, https://images-ext-1.discordapp.net/external/Awc5iFbZGgN9Pbui1YHP7KJRthrX0xAVkbKpxljpae0/https/mudae.net/uploads/9004972/EvsXfYAYThdkokFY2Uqy~MBjt17X.png?width=193&height=300, 1
+Kasuka Sekigahara, https://images-ext-1.discordapp.net/external/AZFZmPzag3liQt3CBWSZKa3yupB49ymQ7voLZmGyoB4/https/mudae.net/uploads/6003293/QjGVvI-e0t3eZJgqJtac~RO3C2iN.png?width=193&height=300, 1
+Marry Kozakura, https://images-ext-1.discordapp.net/external/3KzvkCV4_WSIZfOW68LHWIBXjxBzsTEPW-7f67wcf9s/https/mudae.net/uploads/1321283/CTVlF7lj_P9RZdBNL7Jw~hbKbbxs.png?width=193&height=300, 1
+Salome (Toaru), https://images-ext-1.discordapp.net/external/eecg_Bv3lG8Gg2JVl9d5_RPCiH91XaEutRcy6fzGUR0/https/mudae.net/uploads/2259884/1Bw9DOopjAy6i6yqCMo1~LOo33p9.png?width=193&height=300, 1
+Aoi Yusa, https://images-ext-1.discordapp.net/external/a-T3Cp3O3MwKO48Qy_0iaAaI1FeGSsocylQ9q-SOisE/https/mudae.net/uploads/9839729/A49299sqXFxaacUpk9tb~gsnnWkg.png?width=193&height=300, 1
+Kajika (KnK), https://images-ext-1.discordapp.net/external/SbXwenVeZJ8wh1GBGD03UPIArr8q-EXBuJJyz0bPMqw/https/mudae.net/uploads/3888065/nhpds7JeSSbD7erZvrKy~lZ84elK.png?width=193&height=300, 1
+Rinko Ozaki, https://images-ext-1.discordapp.net/external/eMSkPY8HfZFEnaS7xaerQS2_Ex_uvOpVIh3UHmrwfC0/https/mudae.net/uploads/3452179/qCgH6z9iDnHV0H87tQTN~CTZ9gFd.png?width=193&height=300, 2
+Sylvia Goldberg, https://images-ext-1.discordapp.net/external/mF2pp7NknTPIJ3c7HhsoRK6jWvNeKfDl0q76r5D0aic/https/mudae.net/uploads/7063358/M4Z3_10mD-hdAxqTeWyj~BtEarGX.png?width=193&height=300, 1
+Nara Haramaung, https://images-ext-1.discordapp.net/external/Ric6jLgBR0B_1Tjf3IaRAYXgJf1dSXW71Ey_8GxTbL8/https/mudae.net/uploads/7958346/fpzvIGvci9Iv7uIAjq-t~ynfjgyh.png?width=193&height=300, 1
+Mitsuki Hisame, https://images-ext-1.discordapp.net/external/tE69LOhJGg4WAPCvoZUR-ba-7ik8wNuJ_4Ev3uAyvT8/https/mudae.net/uploads/1703293/gazxrIe3ybPJi0q6HNVd~kvxDcEd.png?width=193&height=300, 1
+Nao Kadena, https://images-ext-1.discordapp.net/external/lf3BzTDxkLTpHOUllfwXIXwJ-NJuKhHdGeY6KAttTSs/https/mudae.net/uploads/2307480/28e0fdC5V4FDmAoBD9aN~Hy7NdPe.png?width=193&height=300, 1
+Hitei, https://images-ext-1.discordapp.net/external/AO9aHypGLUgSGcmvFYbK1KDEKRZ74-_avVRbQdJWY5g/https/mudae.net/uploads/2224509/I3qTU17VzOtrjx3TW3OS~fc1Wh5P.png?width=193&height=300, 1
+Juri Katou, https://images-ext-1.discordapp.net/external/C3B6hop0HYnHpxXy-ZooN4OnYklfqqQf4vQf6IX-tCM/https/mudae.net/uploads/5235063/ZsMCQZWl6aUSsCTFbbbT~aQirFK6.png?width=193&height=300, 1
+Mofu Usaki, https://images-ext-1.discordapp.net/external/qoj3W4I0ImxlMpNCxwizCdy9CXOSnDvxBlVEaUqZyRw/https/mudae.net/uploads/6767563/pqVEmyHev4od1X0_Vc25~tHM0kzL.png?width=193&height=300, 1
+Green, Green Grass of Home, https://images-ext-1.discordapp.net/external/aFQhUByIEDgIdRp7k_9GICvhDKeXTW0tMAv5FnShYBw/https/mudae.net/uploads/7470258/IG0yDuul-mbZVQnF12p5~rAFbpHJ.png?width=193&height=300, 1
+Mimi Kawana, https://images-ext-1.discordapp.net/external/47lFFKNjSuEVUmVEzw5js_snKwpap1F90elFanIfaeQ/https/mudae.net/uploads/8859886/uTl-8Z3FGbv4Gdo8TGDm~eOBBKZh.png?width=193&height=300, 1
+Fami (OD), https://images-ext-1.discordapp.net/external/n9KyYsSBs_IpYkpnCNZ9KfFuWau0f0T60Z-MpM-iVwI/https/mudae.net/uploads/6878756/ebYRtc0O3055wpqkUvN9~fRe3HMq.png?width=193&height=300, 1
+Susuki, https://images-ext-1.discordapp.net/external/U23B-a2t8CHUhMbO9ZNBZR6bVsFosd52s157Zehr9Gg/https/mudae.net/uploads/9463200/GO_k2kWq7LxqU8oLuHOR~aJK74g4.png?width=193&height=300, 2
+Aoi Mikage, https://images-ext-1.discordapp.net/external/QncIIss2NHwXueaZb6s80WYCiSvh-JBCioy-tkAv4yE/https/mudae.net/uploads/6479399/rfdiC8h5VLHkUJ0L6B5D~JyVQRtv.png?width=193&height=300, 1
+Ito Life, https://images-ext-1.discordapp.net/external/w4ESOWKyr0SNxXU0oPe33BNW19Dl5U5Vi986wn_KaO4/https/mudae.net/uploads/3222823/IiUTZOQbG7Wk7poiwQnP~ZQ5UmQc.png?width=193&height=300, 1
+Miia, https://images-ext-1.discordapp.net/external/MBejl5WnR1v3VWBuXS-civqKmJJ5449kik3_PMqO84k/https/mudae.net/uploads/5821483/TTsx2oZ80IpbEbubJ8w_~8qOljWR.png?width=193&height=300, 1
+Asami Tomochika, https://images-ext-1.discordapp.net/external/VzZST_pEdbvVKxFy8vpYbRLFvN98RgND3f3pcwd_7wc/https/mudae.net/uploads/2952382/ijtVnsRnRadEb9455LE2~GlTVL3t.png?width=193&height=300, 1
+Futaba Fukumoto, https://images-ext-1.discordapp.net/external/8J4zii6AOsvEWMuf4Jp5v_U8FvS0SZ_QUffsiFNUqfE/https/mudae.net/uploads/9979352/M0meH2rmXlAVL6eNbrzg~KL0OtSu.png?width=193&height=300, 1
+Roxanne Elipton, https://images-ext-1.discordapp.net/external/sL4Du2l2LSfgFTDGfCA2uhnLk9La4d-k3OSKhmUh3oM/https/mudae.net/uploads/6793989/Qe23tSiB-f3SHXU07qYE~vYfnLuq.png?width=193&height=300, 1
+Chise Tahara, https://images-ext-1.discordapp.net/external/GNnvgd9h-QXDya7s5JywvBdc61RHDcc2_E1TTw70f5A/https/mudae.net/uploads/7769700/B5lJYbbYlLgXwZ5gMLgY~jSrwX7B.png?width=193&height=300, 1
+Hotaru (GH), https://images-ext-1.discordapp.net/external/BQukAs2cas7bOvyUP_rRq8z12xIVyg1Fv4E1g2Fu2x8/https/mudae.net/uploads/1796349/1w16sPHIFJoBWidbIqCh~ZkC8qqd.png?width=193&height=300, 1
+Yumi Hayakawa, https://images-ext-1.discordapp.net/external/G6iRzcA1HbI-7y6-Ygh_aAyjnh1Hv4EEivw-yOnmyj0/https/mudae.net/uploads/7375105/vzDrk2um5ge_Lh93NSFp~XBdFsSd.png?width=193&height=300, 1
+Mai Togano, https://images-ext-1.discordapp.net/external/1DxaEz-MLpREFXup31g6wwZyaeeUhwiWg7rWCPEF2EE/https/mudae.net/uploads/9769037/wHawi9k0y5FziLD1ZJSY~p8eB7nl.png?width=193&height=300, 1
+Vitamin C, https://images-ext-1.discordapp.net/external/d27-THZSGSoRVi5njlPdiY7qo1bnLzcYZkF7czIXNHI/https/mudae.net/uploads/5773477/AWoGG7v4uNIsGanKFcah~OUXP7fX.png?width=193&height=300, 1
+Uta (Bubble), https://images-ext-1.discordapp.net/external/jJx2JPBS9SaVNUZXJELdMReWa4MHbVdf2AEJab8JgwI/https/mudae.net/uploads/3133793/BLyAtyrbXHxNiloHVzEq~eCWvymf.png?width=193&height=300, 2
+Leia Chihara, https://images-ext-1.discordapp.net/external/wvDZFyIpQMoiqXqH_isD0mCUIbftfJZTN9dLHhVaF2Y/https/mudae.net/uploads/6027196/rsPGQPrg_lIIdciaxOcD~qICiCjs.png?width=193&height=300, 1
+Dogmatize Jewel Knight, Sybill, https://images-ext-1.discordapp.net/external/Ybh0L3uGdaR2h8TNOhTYIL7IfC3gURutkzj1de_Get0/https/mudae.net/uploads/1527564/srcTo61v1Ui5dQak-t-K~23Y5NFj.png?width=193&height=300, 1
+Hero Albatross, https://images-ext-1.discordapp.net/external/_3-EY0YZeNWw7TdBBy6FJ5QG96-UFOoVwABNgoZu7CM/https/mudae.net/uploads/3216080/D9RFBbMJsxTihNqgQB3U~PTz9VjO.png?width=193&height=300, 1
+Rabbit (GoH), https://images-ext-1.discordapp.net/external/xo5LYhiZYfDNDFTVlcMK7mu0sG3iHPLX--vRID867Yg/https/mudae.net/uploads/6807292/u0QUI2r0DwRNpAj1UYDi~TIw679y.png?width=193&height=300, 1
+Mea Uchifuji, https://images-ext-1.discordapp.net/external/Wzfv1FooIq3JynxwtfxGqe6VoVhXsysA3CJRkF3DuzM/https/mudae.net/uploads/9058169/DqdfZEvZ5cwnT4xKunP2~cPQ0mxG.png?width=193&height=300, 1
+Makoto Amen, https://images-ext-1.discordapp.net/external/nwjdNFmusHjrurcYZMJpNFrlX4AmK6S3b7LlwDCveho/https/mudae.net/uploads/4235345/9fBSJJ_Z5s4cSk6lqfXt~XLsowhj.png?width=193&height=300, 1
+Kate Hoshimiya, https://images-ext-1.discordapp.net/external/TXwz33m1w6_ZcGmIoS4PM1YkarXXHFxlBxyydyX2uNk/https/mudae.net/uploads/5233940/vHHOL7cnDJ4Rpf3w_bxI~fkwfmhP.png?width=193&height=300, 1
+Glüna, https://images-ext-1.discordapp.net/external/55WMOHn2x6TKycGhs1M_VyK-U4eEwkrle1NcmbhfPJ4/https/mudae.net/uploads/6535935/0x8WzB1CLCuLfgjgN95_~XEg0aNd.png?width=193&height=300, 1
+Grandma Shirosaki, https://images-ext-1.discordapp.net/external/gVB0zACg_avDHraIJ6HJ6EJT4o2ex4PGZlbxq9B2E8s/https/mudae.net/uploads/8809810/4WcJ6-0HmzwItBH5DKaT~vrS38Eq.png?width=193&height=300, 1
+Bottle, https://images-ext-1.discordapp.net/external/Qrz8rZg3Mvbcj3qNRLime4yK2TujO0lHkd31NtHFkTQ/https/mudae.net/uploads/5319154/PSVth8U1gyBbvyYKpDeb~dTvOquf.png?width=193&height=300, 1
+Ares Strahl, https://images-ext-1.discordapp.net/external/VAlygrbZtQ0rjQoCGM08Fp-FOF9jmX6wTx8wZe1jxtE/https/mudae.net/uploads/2485745/6gUC8XFs94XEVHSrYULE~Uv06tty.png?width=193&height=300, 1
+Seika Tsutsukakushi, https://images-ext-1.discordapp.net/external/pjBMH-cEiWPAThMwlFC0241ibLNnPo7JOSxp8UOCeyc/https/mudae.net/uploads/4420780/qwOpGWEuIi7AzgrFu03q~0VDpaO8.png?width=193&height=300, 2
+Efi Oladele, https://images-ext-1.discordapp.net/external/apLIYxoZ3kYxK92FLXvkxWNnUVxwu18KjWkyji70TUs/https/mudae.net/uploads/5729455/1MJcD8sBkP23dwsn3cO1~OIKei8G.png?width=193&height=300, 1
+Taeko, https://images-ext-1.discordapp.net/external/gbKvt73nLC-VqvE5KipdWY5m2Lbm7SgcAOONnOdFMtw/https/mudae.net/uploads/7339478/APQEAJXtfbsZEvia2p6V~RS66D7q.png?width=193&height=300, 1
+Jisoo, https://images-ext-1.discordapp.net/external/BlpGUYqUjFkj3V9CISH0S-xcQsid6cVa1XqUryOYXOo/https/mudae.net/uploads/8295761/amPXtj4bCAl3NarxyK2q~0XlGbRa.png?width=193&height=300, 1
+Lysia Plaid, https://images-ext-1.discordapp.net/external/i6uZc10kSrst1tEklNs5WPXUP2cyBG96KZTqfSB0LnI/https/mudae.net/uploads/8558351/aI3nJYTxBG3F5GvOdXGU~DBWPPPm.png?width=193&height=300, 1
+Hikaru Shiina, https://images-ext-1.discordapp.net/external/MF24j3DeHLf6Wgd8aIKsmm6wOkjeeoEFCET4JaSp668/https/mudae.net/uploads/6162845/DBymwMvnzSm7VvFnBLN4~dSXSAFX.png?width=193&height=300, 1
+Millia, https://images-ext-1.discordapp.net/external/9aPb064Uu-1ApjH6bXJ2OgR6-RKgfeuRCoigTdd2FLg/https/mudae.net/uploads/5305541/3imVfw_1qTcYoP4BogmY~HyPZNzG.png?width=193&height=300, 1
+Numbers 21: Frozen Lady Justice, https://images-ext-1.discordapp.net/external/RLjFWAAhKPQRAJ_DEe4EzAyD8NtW3PyRVENA2CygmN8/https/mudae.net/uploads/1605570/QMVaECKMzuG54T3ppH8O~monsSX6.png?width=193&height=300, 1
+Han-Rim Lim, https://images-ext-1.discordapp.net/external/UBy0oEW_r8hwpK7tQKsJSXvdMOBNbTgmf62eA1XXIYY/https/mudae.net/uploads/3232288/XNPKFW8caEQkhVPjjoqm~L7SAAPa.png?width=193&height=300, 1
+Leone Olfa, https://images-ext-1.discordapp.net/external/Xy9vGBW2-cSZFOu_rH1pa-DGOZKTB2VFmtI6251eVsI/https/mudae.net/uploads/6639945/o6ZH7F9sY0lxiznUmxSe~Wb2J6VC.png?width=193&height=300, 1
+Odd-Eyes Pendulum Dragon, https://images-ext-1.discordapp.net/external/1uz0ftIM8jzGv_8x-aUu4hJoZvGgw3jBJ-cg-yRGd6E/https/mudae.net/uploads/3053475/GoJ7k6OqnOof5umPRgXa~5xfgq2Z.png?width=193&height=300, 1
+Raltara, https://images-ext-1.discordapp.net/external/jdX-6BQ5Y17G--SiruujV6OI-MOLZose7mITKS2M59o/https/mudae.net/uploads/4847828/hOijq6axfEMlyc7iTwIu~OOgDo8k.png?width=193&height=300, 2
+Kohaku (IwS), https://images-ext-1.discordapp.net/external/E7eNeEdHsCyEGRLGKgPUWcCF-tzBfRy2fOXj8UUGYA0/https/mudae.net/uploads/9195818/LnVLWdlw0ZYuCWVyhUVl~bJOMVgZ.png?width=193&height=300, 1
+Kluke, https://images-ext-1.discordapp.net/external/bdOMC_oIyv-zmJT1Vj5an1jacwF4eyyMLQbuscM-TFU/https/mudae.net/uploads/5110153/p5isjCAuy8eg5OtDiJFv~puB1m6C.png?width=193&height=300, 1
+Majime Yamashita, https://images-ext-1.discordapp.net/external/KaNRCA4v_A-lST8bfg1_GPSywZ7boxRq7ShgPTQdlfU/https/mudae.net/uploads/7689690/YRutI057r38NJ_cTTL_C~DZeh57N.png?width=193&height=300, 1
+Cosmos (FT), https://images-ext-1.discordapp.net/external/_Bf3ehMnfcRyZG2pbvHUZeyioQXI--EgJXnxO132Vn0/https/mudae.net/uploads/3581385/u-qu4F4qXf_Tozg3A7Eq~42xqoSE.png?width=193&height=300, 1
+Ghost Devil, https://images-ext-1.discordapp.net/external/xxddyA9OZnJHqoQhC-HnxbpYY88pFgZ_ZyWT1B861PQ/https/mudae.net/uploads/8904631/oD2iysg11a9jwahl3y16~jmuyaIl.png?width=193&height=300, 1
+Nadeshiko Matsudaira, https://images-ext-1.discordapp.net/external/QOlr8uqXGiXROSc2t_fE20jjS7VtLRK_2JdRRb7L-Cs/https/mudae.net/uploads/6638681/Xt3Pngy97X5I9_-8o9W1~stO7dof.png?width=193&height=300, 1
+Ha Cheonhee, https://images-ext-1.discordapp.net/external/sNfnt0zrUoTNo_u9TOgwPl7BTfwCUFn5sJ40uAe-Hfg/https/mudae.net/uploads/2059531/P-pPBgtDkn7yI3eRDdvn~ZlQAKIW.png?width=193&height=300, 1
+Amane Sumeragi, https://images-ext-1.discordapp.net/external/c35KUXfKyYQ-a3RTGjC0ecIZq6c9t08P2ne2ZNC7NYU/https/mudae.net/uploads/8918374/Et_XuplEClkxreiRDSL5~COtbDbA.png?width=193&height=300, 1
+Mileina Vashti, https://images-ext-1.discordapp.net/external/75L4tcm0WuudW3MYSGsx3uHpD-zRYD0frcycHL8ztR8/https/mudae.net/uploads/2436390/1-WniXXzujpS5pnhmyy7~9fxsMPd.png?width=193&height=300, 1
+Iina Suzane Hirenbrant, https://images-ext-1.discordapp.net/external/1XeSjjMYTFh4XfKpqyJxxo5cG6kwIzs4lQmACFaa3qE/https/mudae.net/uploads/8501597/GR0kvHx7wMrOzyT62Huq~8ozoJfQ.png?width=193&height=300, 1
+Tifana von Ribelt, https://images-ext-1.discordapp.net/external/HQncvRXrNI4B0BMoIFj1FGIx3PPJzLUmNzsPA2trMOA/https/mudae.net/uploads/5706767/mJP7INyaw8_zeRXoX719~mHO5fuU.png?width=193&height=300, 1
+Friedrich Nietzsche, https://images-ext-1.discordapp.net/external/F_Y0yRfiKjqRfQgqhSX2I3KRVEOzt7Wg_NYY008JPCA/https/mudae.net/uploads/1005217/APSHf8t1bYLpHgayBT3E~BY8bSnk.png?width=193&height=300, 2
+Earl Grey, https://images-ext-1.discordapp.net/external/I6YXRO00dD3MW09OrZyGiK0uRqPf2iI7Nrfyc9OpB5E/https/mudae.net/uploads/3147480/S1VU41-MtSoejNwOZbba~YxI01wG.png?width=193&height=300, 1
+Haruhi Suzumiya, https://images-ext-1.discordapp.net/external/IhXYp51IRACVp2xkIeAYCItQVLI_J8rgUfhwKF5rclE/https/mudae.net/uploads/7576541/4eJRiqu2Ndly_KsTI_Sx~AbF7A8U.png?width=193&height=300, 1
+Nao Sadatsuka, https://images-ext-1.discordapp.net/external/YZlNEUKuQW5AXEQLrRZotRovMuK6eJZAMoOSSFk6gZY/https/mudae.net/uploads/4914398/b7SGOOdRS5HquulTya9S~9NeE7Gc.png?width=193&height=300, 1
+Sonia Nevermind, https://images-ext-1.discordapp.net/external/JUoLOVeMgmDQNVq9qppDQsLvTnPVEZJOFzvIYaqquBo/https/mudae.net/uploads/8724753/CEkqbB0RDi4mVAPyDmdw~WMSv2Kh.png?width=193&height=300, 1
+Tsubone, https://images-ext-1.discordapp.net/external/03hWdRHq1paqUVOyNU0G3bVq5FpJg1SKLWa5YS3mYgs/https/mudae.net/uploads/9327742/WZ9a_Z8Ig5Q-T0JtcOgy~yhdjQhW.png?width=193&height=300, 1
+Truth, https://images-ext-1.discordapp.net/external/pnO3TQRamPuEj0QBgo1G3uCJaDhdGkTZ4o327_zATdg/https/mudae.net/uploads/1007047/QuOeSJcR2yeEIr7U498Y~FSOtz3e.png?width=193&height=300, 1
+Kuru-Kuru Hime, https://images-ext-1.discordapp.net/external/g5OsZqdg2TQ6THvR1gzlwRPYYAGfZrj7BZv6eDCRXS0/https/mudae.net/uploads/6905358/V2Db4dt9SYKAPEGLFgss~k7dC6xk.png?width=193&height=300, 1
+Natsuki Momohara, https://images-ext-1.discordapp.net/external/bZORANJACgMXOgH_CS3EuGPcj3TooHujpux1w-qm97g/https/mudae.net/uploads/3922431/rsf3w3eGxX76j7HJoOfh~yxYm4RC.png?width=193&height=300, 1
+TunTun Mousi, https://images-ext-1.discordapp.net/external/EJxGGcwy-Ww49CCz-f2iMteU9aBnyxnmDKKGXPzbM0A/https/mudae.net/uploads/8168639/JO2RBnQYss7uVuD78XX8~F0IqTpI.png?width=193&height=300, 1
+Shion Karanomori, https://images-ext-1.discordapp.net/external/trm8B0WA2Yh_7VVn2CPLUuAjuq_t88WDwh-gvPmL1dk/https/mudae.net/uploads/4346586/2ZOlsXmGQu9fyftRNcQK~hvF1H0O.png?width=193&height=300, 1
+Yuki (Cencoroll), https://images-ext-1.discordapp.net/external/BEm9fCP6mPDmPz8m-Eelv4MKGD_DNeiQORBr29jK3c8/https/mudae.net/uploads/4216271/acxp0t_JIlsTaiOQYerk~2ii03w5.png?width=193&height=300, 2
+Marika Tookami, https://images-ext-1.discordapp.net/external/jKWghxu0vZKND-lrUcz5pkiFrudPqfUdrlm5cqbtw_0/https/mudae.net/uploads/7082971/ukMZoi5rm0Q_yaQ-V3xn~ud6sNwl.png?width=193&height=300, 1
+Aguilera, https://images-ext-1.discordapp.net/external/hcW6_tzZegFNtomyrh5vmPFxUhUSsR2ZKM1tPJpXCeE/https/mudae.net/uploads/6763941/iyvoWk0hwaMQ9MJaHr5U~cSAFh4r.png?width=193&height=300, 1
+Chiya, https://images-ext-1.discordapp.net/external/gJCATPBhBquzjHjS5AScnETE6Ovg2xpoAQK380u2DhY/https/mudae.net/uploads/4325767/9GTj0YqkD6pXuij6KjX8~P2SkH8m.png?width=193&height=300, 1
+Mirabuka, https://images-ext-1.discordapp.net/external/YlkCzI9wbkv5gZF0xAOjUc33xeSslbEszpOtjU0lMYE/https/mudae.net/uploads/8500709/fDGLk8QCGsA1nRnaW1l3~RFCBuID.png?width=193&height=300, 1
+Akane Kenyoshi, https://images-ext-1.discordapp.net/external/U0OaTMLGlCetZg-jJoq7MoEC87Y-28m8cJ20Jqzq38M/https/mudae.net/uploads/4544256/Rlqb1qDWref-hkmGqtrP~my2pcxvwzq7.png?width=193&height=300, 1
+Mikan (LvB), https://images-ext-1.discordapp.net/external/Bee1ITYfUIN7eHs42WCQTDoFNPMsDCBxQ3ii73swkPY/https/mudae.net/uploads/1347624/UYo4pgTKwQmCJe3q8jJ2~hUYyEtX.png?width=193&height=300, 1
+Fantasy Petal Storm, Shirayuki, https://images-ext-1.discordapp.net/external/ofiHilH92F-98W2rooFb1ME5UfU4B9ra9NmR-xw8SRU/https/mudae.net/uploads/2547830/F6-kQgOHs5HeddSmKC7G~QgiKtVD.png?width=193&height=300, 1
+Keke Tang, https://images-ext-1.discordapp.net/external/5Ni0n8mpwwN5ECAf7CT55eNA7yQz2GNORJDfMhVJICU/https/mudae.net/uploads/1824468/TB1qGF0XCFJ3yFYeLvx2~LGAMngd.png?width=193&height=300, 1
+Rika Suzuki, https://images-ext-1.discordapp.net/external/LA6UFqlXxWMg9aq4uScgf_sbLxNoFJEDe6y3He4dEAs/https/mudae.net/uploads/1572847/ZaNXKaDMQgyoPh_dK0th~85UgACo.png?width=193&height=300, 1
+Alyssa (LMK), https://images-ext-1.discordapp.net/external/upaHDVpBa1QL0aaNFaemSlOoVQyMN7JECGW92XxtwaM/https/mudae.net/uploads/8125557/4KJrPRBAIlwf70lpAjWP~Dh918Aw.png?width=193&height=300, 1
+Evienrose Chloelle Hadellamid, https://images-ext-1.discordapp.net/external/0WwPUVPc7Yn2-Rq6OPHP13MwykTeyA_eN3LwfqK4--E/https/mudae.net/uploads/7475929/C_7n0CSCBtw9JRfvNbtc~Ymqas4J.png?width=193&height=300, 2
+Chii Hoshigari, https://images-ext-1.discordapp.net/external/Zg-PA5nzXzRT882y6csYsUMvdE55J1HgtDKy88sIrHo/https/mudae.net/uploads/6832905/24xopT0zV_QjdkXdfWFQ~CQomAEX.png?width=193&height=300, 1
+Mameta, https://images-ext-1.discordapp.net/external/klPNC8AVJMN1wBdmyd4kGvcPbNQBm7bxM5guPlkmQwo/https/mudae.net/uploads/2139198/guvsAPaPzXMC2o-bp2Ov~hzxzkO4.png?width=193&height=300, 1
+Kyrie Ushiromiya, https://images-ext-1.discordapp.net/external/xMXumHLm3qZnVVk0hgEjtk2VqcQrPW3IbhVOvDj0uFg/https/mudae.net/uploads/9049341/3mRPQUuYmXu3DsNBVk3o~05jUFk1.png?width=193&height=300, 1
+Risa Kurokawa, https://images-ext-1.discordapp.net/external/oWuRjwdEZQgehRxCffaHekO2DMpgNkm0vYt_ABnqfUs/https/mudae.net/uploads/4207379/H-8eNYCMAZL65Qvt4PaZ~oGSktCv.png?width=193&height=300, 1
+Midori Sugiura, https://images-ext-1.discordapp.net/external/VwQyoazLygk_7_jE7fU9ab-eOTYwv_tT67bh0vcn-Fs/https/mudae.net/uploads/8847609/BTxyBeOb3wOmX7bhQ--K~OACbT7H.png?width=193&height=300, 1
+Tomari Seto, https://images-ext-1.discordapp.net/external/Kl6P5mnNg5Smx14j3D4Qqp0_2BOb3BELhn8IZrwHnR8/https/mudae.net/uploads/4533616/7fO_2JKjirMLusnuXjFM~93d1Bvp.png?width=193&height=300, 1
+Ritsu, https://images-ext-1.discordapp.net/external/9cQasAeVfgra7zvJIHPVTMldZxs7inxyGbFCx7uGpy0/https/mudae.net/uploads/1769982/kzoWHu5aMOeqtYDiDVIp~ST44evH.png?width=193&height=300, 1
+Moe Kitahara, https://images-ext-1.discordapp.net/external/ydsYNmOt1QkTq2Zet873mkTLOsY7bMtffkzfRFzaaEo/https/mudae.net/uploads/8814240/DyzhHB5rHybnGT0S-MHZ~ZGBDDoq.png?width=193&height=300, 1
+Arcana, https://images-ext-1.discordapp.net/external/YoZ5sC4A-GxdMuTAY9oxMea7GBiG10FS5HM6pVsKcIU/https/mudae.net/uploads/2792658/tHUsiWRScLEXKu52Af9z~y9pBZC3.png?width=193&height=300, 1
+Nelia, https://images-ext-1.discordapp.net/external/pIqV_I4kBwo-5BYxGDQmaLmTzXJWRqPw2DthYzUIq5I/https/mudae.net/uploads/3535757/pSErpE3TYJYbrdTyNG3j~MdxjqS2.png?width=193&height=300, 2
+Pidgey, https://images-ext-1.discordapp.net/external/V65aof-D71hc4ihVlUmi2Rdj4ntIEZ0ycJuz0FJBva0/https/mudae.net/uploads/9574306/8HHAvMvEANa468f0ih7T~U8As2jy.png?width=193&height=300, 1
+Amatake Izuna, https://images-ext-1.discordapp.net/external/oe4diLvGMmED2brOUT5QDE0mYmxy7sVIZY5WokmNd0I/https/mudae.net/uploads/2946406/a73vtRy_0Lr3CIzcq71U~udceOmG.png?width=193&height=300, 1
+Nekomi Nabeshima, https://images-ext-1.discordapp.net/external/v1HEYxNPz7c2GdU1Unz-atNUYbfdFb9Icq7pEMVuSH0/https/mudae.net/uploads/5644757/3CN6q3f5f5oQsiapkOs6~ZeikTfp.png?width=193&height=300, 1
+Professor Magnolia, https://images-ext-1.discordapp.net/external/t1k2lOPxBA8bhkXCri4Wbw8lLXWKtZv6oe43EmY9yuU/https/mudae.net/uploads/1339469/WVkaPePSkfrK7cMcLUN7~YwySGVV.png?width=193&height=300, 1
+Irene Rapona, https://images-ext-1.discordapp.net/external/UrQybK24lC5Kh3KLRijCO_MRYhdU1Yo4KOnTRkiOVuA/https/mudae.net/uploads/2669698/mvjSSufzdrtTCjEvcPMG~Kds4UiK.png?width=193&height=300, 1
+Yui Horie, https://images-ext-1.discordapp.net/external/jpqYcXjU6xzmQOmZoyN0gw94osXZPA06XBxSbfCrcaM/https/mudae.net/uploads/4681381/54pkD0mqP5RR-ok8jqnT~qHrenZf.png?width=193&height=300, 1
+Yui Takamura, https://images-ext-1.discordapp.net/external/5o4o5yuRSH-WbMKGx0uEkJkJin97sN783VihcSVhQFo/https/mudae.net/uploads/8434547/6RVIzb3XVJTUYxXu5Ou_~056K7IL.png?width=193&height=300, 1
+Electrike, https://images-ext-1.discordapp.net/external/F9R0ZhW09TAzqrJL0EvDFgUMOfZ9dDxZaesRwMYVH5Q/https/mudae.net/uploads/6498784/1FGtyUKgdPF-zPA6lE1T~y2WPUsF.png?width=193&height=300, 1
+Alicia Testarossa, https://images-ext-1.discordapp.net/external/x1JFeC6X61HqJhCPlsd6wLTbIPE0zFczvl56LYM8pNU/https/mudae.net/uploads/5519593/8-MBys2VDMBcl0M4uR3W~8dWYVSv.png?width=193&height=300, 1
+Yomogi Tanaka, https://images-ext-1.discordapp.net/external/gJw2sShDleO0MP4-8gZEKkCmJbUiR16emh7rUjToIYw/https/mudae.net/uploads/4197254/ua5yQUmQHh2rXVqF4tJA~YbmyyAs.png?width=193&height=300, 1
+Chikaru Serizawa, https://images-ext-1.discordapp.net/external/kzFonKmYUcKZW5OLQMpH8jaJm6VBxtkdbWYscmhR_js/https/mudae.net/uploads/5123936/Eg_dGGdGcn5XhY8AfJGg~cR9tCkq.png?width=193&height=300, 2
+Elma (TDF), https://images-ext-1.discordapp.net/external/G4SF9nYQ6jRzHivaTS6_mlB_PG4B7NboqLZHlrSi-MQ/https/mudae.net/uploads/5021075/NGXEqxsTrzpmj6adNmdk~PoLV8ND.png?width=193&height=300, 1
+Konatsu Miyamoto, https://images-ext-1.discordapp.net/external/P2UN3WR7jPoe4HcDR1ova7NMs4lqkVK8kuTuGP9SY0o/https/mudae.net/uploads/2394427/Sz6I5B-0aKM30s6vtUa_~Bou5Qtm.png?width=193&height=300, 1
+Seras Ashrain, https://images-ext-1.discordapp.net/external/tqAS5nS5MqEP6cPZtgLQYK5caoFt9PYtJ5UOHkUL6DE/https/mudae.net/uploads/9369931/RErFFOw69ehgKqsXVr7j~6OE8MbK.png?width=193&height=300, 1
+Tatsuta, https://images-ext-1.discordapp.net/external/iyLBFHd4VEMfld6gNAklhis_c_KxleVQM1YGkBeUbmU/https/mudae.net/uploads/4955176/CW76ggfdRRYvqXOagzRy~QPWV18d.png?width=193&height=300, 1
+Shizue Baba, https://images-ext-1.discordapp.net/external/erLwcpXlKX-H9P3VwCJRCf4FWP8VtU4vlhvVVtXemdA/https/mudae.net/uploads/7451036/V7kqB67ATC4KyXzrXCk0~hEwAATM.png?width=193&height=300, 1
+Mao Domyouji, https://images-ext-1.discordapp.net/external/zlaBNqsomKb0_vwHYyJ4fNMDTifet1Pldd_ztby7W4U/https/mudae.net/uploads/8157990/3awjIpaiCwfkIz54IxPX~nGDUnqQ.png?width=193&height=300, 1
+Baio Rin, https://images-ext-1.discordapp.net/external/FkwJWfxtyRXlUz8EHYQmNki1Q2qwgv7WG_vpvsWmm2Q/https/mudae.net/uploads/4643794/BEedIqRoaWdIgoFltkXA~OvX6sRA.png?width=193&height=300, 1
+Kaga Sumire, https://images-ext-1.discordapp.net/external/pALyX_mL_LWmxeFenWXPUoaRL5AL0Bes7fWE1qO0PoE/https/mudae.net/uploads/1324166/FT9bzBSTLa1m-umxQlpC~HnvE0mb.png?width=193&height=300, 1
+Leonardo da Vinci, https://images-ext-1.discordapp.net/external/6ADmTuRSQdO4y68rlczd1b75e9DunT3DaOgNN_lF1DI/https/mudae.net/uploads/1448555/fGSz7iPadquHMMqgT1q2~IE1gRYM.png?width=193&height=300, 1
+Nichika Ubuyashiki, https://images-ext-1.discordapp.net/external/Yx6Wq7hY334FP77mJXO4luxwE3t6JL4Qliec9YZc78o/https/mudae.net/uploads/6129256/qqPPKUSRG5m8Ur3sROEc~qn8oyVK.png?width=193&height=300, 1
+Almita, https://images-ext-1.discordapp.net/external/xg5A5XaDpgZcyBfK8Zap5wI7qu4_4n_mSSHYmYKr7O0/https/mudae.net/uploads/7277429/CfbFTMR6rOE6gf8Nb2dH~vKMp35e.png?width=193&height=300, 2
+Suhyeon (Billlie), https://images-ext-1.discordapp.net/external/ItklHnnJo1Bj_8vGb4Z5Z3mSpK1r5kNrW2RrzBejTXQ/https/mudae.net/uploads/9720558/7aThK129KQ3LVczZUrfM~dUOpNJ3.png?width=193&height=300, 1
+Girl, https://images-ext-1.discordapp.net/external/ljvsi5_oKsehyzqQl9PmBs0FdxanqOLZFIgAlzWWcuc/https/mudae.net/uploads/8134366/-lQBZvLUYrLLkcolqd_K~g3bshan.png?width=193&height=300, 1
+Kurumi Tokiwa, https://images-ext-1.discordapp.net/external/aoIya7Lxiph16Pe7ARuSE-NVFo2lQnwwgd3hrkOL410/https/mudae.net/uploads/2528149/sw5t8vZCvNM57Ch4Pa_a~TOvMnTx.png?width=193&height=300, 1
+Heaven, https://images-ext-1.discordapp.net/external/15WCZ1wCYo-_LVWabMxeyGgWjhM0-f6hwigQPPZlRLI/https/mudae.net/uploads/7318575/aRTKE4rgCkDhrYMJZtNi~hAMn4ZM.png?width=193&height=300, 1
+Airi Sega, https://images-ext-1.discordapp.net/external/wPTT_wepAHmiXvHDMb1E_Hvigb2vJT0cRMUyFnfmJks/https/mudae.net/uploads/5543428/K3oesASQUw_GzsVSWKEu~hg9PGUd.png?width=193&height=300, 1
+Ririko (KnKH), https://images-ext-1.discordapp.net/external/J9XO3XrQ4eidQ_7gjgTSLp9nU5jF9CF05MaQXo-5OlE/https/mudae.net/uploads/5199317/JDcZiGN_YAUtFzK7FbUN~l1YGrak.png?width=193&height=300, 1
+Setsuna of Faraway Days, https://images-ext-1.discordapp.net/external/Z65gnS3eob2o7P_qK30MdeS8LaSuH5UrSdmO72EqwKk/https/mudae.net/uploads/3125951/AMFU6eE3Puh2xh9cg5rc~zcMeLtn.png?width=193&height=300, 1
+Renge Serizawa, https://images-ext-1.discordapp.net/external/tr5m3mkVAmT8djIHp-0v7U51eUXCjNT6xkcAiaUKdS8/https/mudae.net/uploads/4701231/YqOoQ22X5F2f82uqgnTB~kWjH2rS.png?width=193&height=300, 1
+Judithe, https://images-ext-1.discordapp.net/external/8I5_f4f-tJI6uMsxRM7fAS4QRuv46VOffqew2xm1B8E/https/mudae.net/uploads/9228035/DvPmV1i5IElLBKSvzjux~vlMxWHh.png?width=193&height=300, 1
+Arthur (CG), https://images-ext-1.discordapp.net/external/iQAQiz92SHiwrLRHpHZWfD0q3I1iXl3Gqvhl64uWHg0/https/mudae.net/uploads/6983122/jBdnoDglhfDgc0qv1U-p~eZnOzPE.png?width=193&height=300, 2
+Kumanomi, https://images-ext-1.discordapp.net/external/u0dfRUnhFrbh_D_E5guw1ftJW7hfJAojToif8j0a80o/https/mudae.net/uploads/3866756/xG8DQL4_1tLaNq3Wk768~pyq9c8mmko4.png?width=193&height=300, 1
+ChouCho, https://images-ext-1.discordapp.net/external/n8gSmyqWZt_6Cna9ivbRQu_N5dmRE09NAiYJJJiRUCE/https/mudae.net/uploads/8800435/hNEfaw3Ddv4Z5rBO_69P~jEiOVRX.png?width=193&height=300, 1
+Michiko Tendo, https://images-ext-1.discordapp.net/external/cE9QtSqUYmUaN5ulFUpXTstsB8ylEkA2hjdcDrN5CmI/https/mudae.net/uploads/8706989/Fw7R841BWxX1QrxqMJKj~L5m4TNK.png?width=193&height=300, 1
+Chitose Aoba, https://images-ext-1.discordapp.net/external/ia630NKB-uueCw_MpejOmZsbpVZW_Y5Jd6Rb-uSI1ac/https/mudae.net/uploads/8189278/sD5-mm4khj7lyqNWhOAU~s0VU1c7.png?width=193&height=300, 1
+Yuri Tokikago, https://images-ext-1.discordapp.net/external/EaQX6_L_VUAHJZMqWNQfRlG3bEEc-3W1-7dz7ww6bq4/https/mudae.net/uploads/7445449/SvbwAGWt2LThrQt357MM~3yrgcbz2qa4.png?width=193&height=300, 1
+Sharron, https://images-ext-1.discordapp.net/external/eEBqAwAiR_k9BRUcR3ZOSGSJwNZ3z8nmc_E4ljhb6NE/https/mudae.net/uploads/5492659/58wlbZTFkp_vD7dmvxBz~hf9R2YS.png?width=193&height=300, 1
+Serika Hakozaki, https://images-ext-1.discordapp.net/external/th0V3sE8mGJY0pG-lj7hxZ-4w-USgp_tRGsjBN3ZB98/https/mudae.net/uploads/8346304/4FSOAjWfw4pmIRxxdGQo~FeYGtVR.png?width=193&height=300, 1
+Kiyoko Otawara, https://images-ext-1.discordapp.net/external/QwUQhWPKM6D7jZt8n1Eclf-7XErazm1B14mS662anEY/https/mudae.net/uploads/1929939/JR9PWo-0bECGV0zkeN2l~d7ogcv9klky.png?width=193&height=300, 1
+Rika Yoshitake, https://images-ext-1.discordapp.net/external/Hh9ki3WjzrnyDhvA699ovd8gjsgSr4Q4e1DiBitlpuU/https/mudae.net/uploads/1915745/WeBUO8FB2Pk4IRq1j-Mk~kD8YGmX.png?width=193&height=300, 1
+Izumi Shimomura, https://images-ext-1.discordapp.net/external/zjH5MaKVsMgEoFdJB7SAowTCgHcywkMfGdpLGfAhcaQ/https/mudae.net/uploads/8457593/pygJQoMWYDhohuE-MnZk~iDEn2JI.png?width=193&height=300, 1
+Youki (TTTP), https://images-ext-1.discordapp.net/external/prc8acEah4t9YxSkgHEm3hUDQNZ26sy-esaDAAxAqm8/https/mudae.net/uploads/2272211/QPjw0NeTZQk5XZ440Dfi~QAuAKRp.png?width=193&height=300, 1
+Agnès Chevalier de Milan, https://images-ext-1.discordapp.net/external/_zA3YeQlSRKjzT0LE5gXH9XgdmTR1HzxnYKejMniEzA/https/mudae.net/uploads/3749531/e9LetZxaeHh6YXEUdJ-4~s9cm5zL.png?width=193&height=300, 2
+Kahlua Shuzen, https://images-ext-1.discordapp.net/external/dLrvof2BxI67V239gxh82EbIztT9OrpVt0cSDR7bzB0/https/mudae.net/uploads/7008451/u5kdBYFK6iYLxlAldP1M~so3Cwfs.png?width=193&height=300, 1
+Hayami Kohinata, https://images-ext-1.discordapp.net/external/RWy_XxukbNdne0ffpgxZ9oCSAO6aHCl4HRXBWjyqlbg/https/mudae.net/uploads/9418988/t2vUarv4J8A1SGjK0jB4~mORInt6.png?width=193&height=300, 1
+Masaki Yoshida, https://images-ext-1.discordapp.net/external/hdCeml5zpAm8ixP4uXqWVItON2zMI9ivTUsniAG9eEc/https/mudae.net/uploads/3481137/MwT4d988Tfqr1M63-vFT~pK023Ld.png?width=193&height=300, 1
+Rem Ayanokouji, https://images-ext-1.discordapp.net/external/y5lPCUs_emx_c4rijaENV5A642U--gM8u4e5POcVqro/https/mudae.net/uploads/9965352/33wy1-EMi94Yz7pAnS-u~61KoE79.png?width=193&height=300, 1
+Suzuran Shiraho, https://images-ext-1.discordapp.net/external/Ssdgr4fOI18ruzr8ieL-oEl1J6sBco8uYIuj2iNuH-Y/https/mudae.net/uploads/4975483/j2HqupPw-PHitaIC9b34~gYnSqu4.png?width=193&height=300, 1
+Neon Mitsuoka, https://images-ext-1.discordapp.net/external/Zu9q5Jo33ElcOacJYi9ePiAEpHD0N0uUpXzB-pa-Vw0/https/mudae.net/uploads/6857341/ZU5YujZ1oNy_fd-zv4iH~amtIoaZ.png?width=193&height=300, 1
+Kanon Oikawa, https://images-ext-1.discordapp.net/external/SgxlVazie6Gq5-U2cbbCFnc678vUCjX_DR4ntj3OSLA/https/mudae.net/uploads/7927706/71Nyza9hrSbmb-bkZqY4~j91Av8S.png?width=193&height=300, 1
+Swirlix, https://images-ext-1.discordapp.net/external/2N8Zr8qcE0PbE7Z33Jf2nujvKe4loTWfM8345SprK7g/https/mudae.net/uploads/1555716/P4WF3YvQLotwSd6dYfuX~wvVWJBx.png?width=193&height=300, 1
+Maria (Moscow), https://images-ext-1.discordapp.net/external/yggZO4B1uLIZmWC4WMtP2wUPbfndNnhdc17C75jbW2g/https/mudae.net/uploads/3318984/QlLv6bVC8PWQMSgUcT62~WfftsgD.png?width=193&height=300, 1
+Estelle, https://images-ext-1.discordapp.net/external/iuWgmXxhRJOYyJVE0SYdtIM1TyMbOfhL7g9mIynC3Kw/https/mudae.net/uploads/8677457/7P3eUqIn2huu5bnDjtbM~8zNE0pe.png?width=193&height=300, 1
+Kitsui Akira, https://images-ext-1.discordapp.net/external/dn3pNo8TzXs6CDFUSpFCjJegpgqGgKG3d3d_XPAO9i4/https/mudae.net/uploads/2474560/r2YdAbOZgouNA8kEoeIM~M2IASeA.png?width=193&height=300, 1
+Furcas, https://images-ext-1.discordapp.net/external/f-_mI_Duwdn0NRPUJLg6j-mzhBTxeVbn2-U5Khh-SiI/https/mudae.net/uploads/4629924/loiy3IN-yXVZrq6lDK40~xR4tpZl.png?width=193&height=300, 1
+Saki Yamagishi, https://images-ext-1.discordapp.net/external/wAYovii4p28qdn8hkrhqiIBgcxCSgKxlKQpGenH-1DE/https/mudae.net/uploads/5497760/RGJUQXM2YzJ08MW8Yd-v~MqHPLPG.png?width=193&height=300, 1
+Hiodoshi Ao, https://images-ext-1.discordapp.net/external/rNq8xzjhKWVxtQ_f97bOerQvjjGzVckZd8hZoKuTO3I/https/mudae.net/uploads/7093508/njZcxlsFORXRHdtZhJLa~O7vmz62.png?width=193&height=300, 1
+Akari Mamiya, https://images-ext-1.discordapp.net/external/fZaMyVbdW6-yV9RSCpbGOHHmu4h2n7lMM-5pAq0fP6U/https/mudae.net/uploads/6669631/AXk0OEefRbDKwb-j1R3T~CDbvSwx.png?width=193&height=300, 1
+Nikotama, https://images-ext-1.discordapp.net/external/wZXwzhJdWQymPJUeigsTK7-scZZcMUe_BqycEhfRONg/https/mudae.net/uploads/9403346/cN0dTTqhjhDLHl6tkkd6~i8QwJ3y.png?width=193&height=300, 1
+Ranko Midorikawa, https://images-ext-1.discordapp.net/external/yuq7INjHkJJQbh2TT3xlQ19q8R3uORTle_ok1JP7KUM/https/mudae.net/uploads/5743059/m93rZlJmoKvsMsE8K5NJ~Z5QH6Hp.png?width=193&height=300, 1
+Lotte (SnI), https://images-ext-1.discordapp.net/external/oqi-xknmzCI0mZSJlknIJ82Kt2_xUB0uaT7-xk64moQ/https/mudae.net/uploads/9359535/KxKxriF0U0UFsuCbAPGV~U1Vvzdr.png?width=193&height=300, 1
+Eve (Elsword), https://images-ext-1.discordapp.net/external/8ehvm1h8SXGhlyt0nCssFvHnDdag1AasXv37QJhFzDo/https/mudae.net/uploads/1422350/AbGa7n1MwvgrTFcq3SPr~hm8lmQR.png?width=193&height=300, 1
+Beatrice Yvonne von Guldenhorf, https://images-ext-1.discordapp.net/external/KVT9xJtVWQCJNgRspAlEVNVZ2IEb8kXC_S40k5L_HRo/https/mudae.net/uploads/7347049/Wis0xXPMFlyLmxLwJo7P~lc3umb4.png?width=193&height=300, 1
+Mimori Akatsuki, https://images-ext-1.discordapp.net/external/Ms9tq_8Ej8DvqIf0hFkSC3vqgtVXAPL8gNI5Gv7OEOQ/https/mudae.net/uploads/5362369/ew69zwdUYwDxjd3urj4m~VEELzKL.png?width=193&height=300, 2
+SinB, https://images-ext-1.discordapp.net/external/-6CqhPyJZ_I5XxjlQldESoy9ukbzaZxT7iyrjzvQpVA/https/mudae.net/uploads/8134734/-Y_SC_AwfEqz0WwM-lx8~nDW6JpG.png?width=193&height=300, 1
+Lemrina Vers Envers, https://images-ext-1.discordapp.net/external/4rR_Zqzht-zzqfZt6VEOlb-y3aRVnxJVswllrPTUZd4/https/mudae.net/uploads/2878419/7jMt82-MUJ1BxnYILXNj~XawEjOv.png?width=193&height=300, 1
+Sakurako (MNiLS), https://images-ext-1.discordapp.net/external/Cr1i1TjVskEw_5sy2l6k9d03o-nwlKrVYMGD2Sbsa_I/https/mudae.net/uploads/7681399/kijt2qFOyipKiM-eLCtF~H02MNZs.png?width=193&height=300, 1
+Amaterasu (Noragami), https://images-ext-1.discordapp.net/external/VjrB6euo_4_yH-lqq45Z_LYXSo96MeFugiUy810zLKw/https/mudae.net/uploads/4198571/8TY8szQDcEQdHoi0RZEY~nIa5HEd.png?width=193&height=300, 1
+Ludiene Bergerac, https://images-ext-1.discordapp.net/external/w7Z7-c0BbDBTjgyc4fCPOXg3N4yMlymricm83vunQ_8/https/mudae.net/uploads/6076377/JAOqsSsBb41kAm_Z4Jnl~8Y2U2QA.png?width=193&height=300, 1
+Ai Hayakawa, https://images-ext-1.discordapp.net/external/9YQFlLhn2vdjkBNNAJUUqj5UKOiF9-LWIy-XWvEveCA/https/mudae.net/uploads/1823902/F3CwWtZ0xCTFhzT-7rCR~uQsSsFm.png?width=192&height=300, 1
+Zamazenta, https://images-ext-1.discordapp.net/external/ZsLDCGxHpqnysMTxx6Hl4_LyK-OKyh4p4wRIMmavbHc/https/mudae.net/uploads/2674826/5eR4vV4N3T9_u8lJksGy~7Yh37iq.png?width=193&height=300, 1
+Chisaki Hiradaira, https://images-ext-1.discordapp.net/external/_NlbiOZbN3l0d8T2LJ2dbkC-NV_J4TT5VPSX6yS1Bow/https/mudae.net/uploads/3611731/BfR4PY2N_iCodWxgD6f4~XhY5ftv.png?width=193&height=300, 1
+Ohara, https://images-ext-1.discordapp.net/external/QkxlxHTRD3N0zVXa9iD9ZWb06ZYgAzgCWQpChsV1xGI/https/mudae.net/uploads/3596629/Bo4aZ1cnzCj-C_Gm2oc2~4ZvUGlP.png?width=193&height=300, 1
+Maki Midorikawa, https://images-ext-1.discordapp.net/external/KT_UxslUIs48aUZXLrXoHd0-F8XtvrJ6P4tnbWiP0Y4/https/mudae.net/uploads/6603096/8o-VC0o4QwmutWffzsz9~7qYsBhE.png?width=193&height=300, 1
+Trainer-san, https://images-ext-1.discordapp.net/external/h3LE25DdDgoY2RRhnyWBd2JG4PUO6YdB0M5Pw5bDDBw/https/mudae.net/uploads/2035059/LbDwNQvVZRkkfQntfEv3~XxBSbkd.png?width=193&height=300, 1
+Konpeitou Itou, https://images-ext-1.discordapp.net/external/zr3d9wEza8wBkXiTMxCKBiaDby0f7w7BDxroZtqqmvs/https/mudae.net/uploads/7543983/NvT25CPe8Vb2FkEzQgAG~mMELlE3.png?width=193&height=300, 2
+Eve (LRW), https://images-ext-1.discordapp.net/external/r70zib4zKmTyuo5D2C0pmFfaN0fRMqLel7Jfpdz5uAo/https/mudae.net/uploads/8587313/Lt2zwKfkZ5k2VOWoF7R4~a0fJaAt.png?width=193&height=300, 1
+Kiri Marialate, https://images-ext-1.discordapp.net/external/mYXrtgtPg8Td1oKi0fFxVOoZte7qyhTX5KoQx3d_wKs/https/mudae.net/uploads/1938279/fcrdJfQ53ZZfmdwAcAp3~UobNYZY.png?width=193&height=300, 1
+Cocolia, https://images-ext-1.discordapp.net/external/Cqe4ItVZBqRV7oVI9WYx9wAhxszdf-Z2s7MyCQjsBFA/https/mudae.net/uploads/5925564/STCnz7R8imAAAJA5O49S~475p8MU.png?width=193&height=300, 1
+Kotomi Tsuda, https://images-ext-1.discordapp.net/external/_tcgcwYtc-vLzA3RAf7tVnPVv9B1SZHe0w42mNAaMcU/https/mudae.net/uploads/4306370/v0KJqgOdoI-Mtr8S5Szw~pJc06Hf.png?width=193&height=300, 1
+Pulse Wave, Adriel, https://images-ext-1.discordapp.net/external/7OJnT2_HL-V5tlVUSdogmotvacmdyB1PzeBayA3akqI/https/mudae.net/uploads/5703640/-7PDBibe3v4Ff8Yp7je1~jOUkCFB.png?width=193&height=300, 1
+Haruyama Miya, https://images-ext-1.discordapp.net/external/TKfW40UbdbIbgqwxwnYZ3BXNMZzVncbLDNBIqj2lOtE/https/mudae.net/uploads/2357181/xMIcGdQz5nixaU6jbMqW~wye3c3qg3g4.png?width=193&height=300, 1
+Chigusa Tsukikage, https://images-ext-1.discordapp.net/external/q4zXtVt4mYlUpG4n9pI6f5_arOn12Yh4O5pGw-7vY-w/https/mudae.net/uploads/6766722/2IoBR2c39T2ST36R-F9e~stlXy5j.png?width=193&height=300, 1
+Sasorina, https://images-ext-1.discordapp.net/external/dUaQ2qMHVZfXrq76brHnU9P4hkJISweOYypZbnU8J_M/https/mudae.net/uploads/7532004/xiRZnaPuLZHUmdZhAe2K~OLYNzqX.png?width=193&height=300, 1
+Miledi Reisen, https://images-ext-1.discordapp.net/external/EkpkcYueExRi0mmoQcj9yw7GSAvic6H_tVoJgkWsWpo/https/mudae.net/uploads/4375814/FoMkea8NwzJ5sEPI5Vsn~wkMNnEL.png?width=193&height=300, 1
+Manako, https://images-ext-1.discordapp.net/external/2RAXGB7qO1_2-OhkKNnXb6Mz7bPcHV4b65klOTk-Uy0/https/mudae.net/uploads/4846449/PNECqGi-pj-N_ZcQKpa6~8WOq79u.png?width=193&height=300, 1
+Doreen the Thruster, https://images-ext-1.discordapp.net/external/D6BLlLK0mo9Cc7PxXKrMIGMn2aiZ-5I995z_FP0taM4/https/mudae.net/uploads/9050451/VcvoOyvAz9wChqfKJ09N~ztNrrsg.png?width=193&height=300, 2
+Yuria (EDK), https://images-ext-1.discordapp.net/external/uwutqGPxTRtDofrp8SZnhnsx_Zg-BX_p6h-Mn-jeR1U/https/mudae.net/uploads/8874642/9xTsCd9JfjsXZEuCAGDk~8JYJExQ.png?width=193&height=300, 1
+Vivienne Ohtori, https://images-ext-1.discordapp.net/external/uilu2plvHMV1vmh55bOc7YrEPFYP-1YPO8h_SUASNGo/https/mudae.net/uploads/6328283/Y8tlv4pgWW1cX75TmcJ5~3KwCNtl.png?width=193&height=300, 1
+Falan, https://images-ext-1.discordapp.net/external/C4LU1hIenri9LJ54PZFSIdpDhlgduKj5XesES2P99-Q/https/mudae.net/uploads/7451636/cyzkB9GZwYqytx3XEb8H~3LqKOkU.png?width=193&height=300, 1
+Secretoru, https://images-ext-1.discordapp.net/external/7VaNFmPOTVVJuVTkqNiuuP_2JW92vI5q81DPA0ODpB0/https/mudae.net/uploads/3995827/Sb_65J6UW2bJ20hZMdwH~HW7m9HW.png?width=193&height=300, 1
+Old Lace, https://images-ext-1.discordapp.net/external/EOm4qR7fuiWy86lbbKUKqUNcM00vwartQv5q3AndABw/https/mudae.net/uploads/6712962/3MB7c2tdyfOXu36v-yGC~LdtR2I7.png?width=193&height=300, 1
+Davepetasprite^2, https://images-ext-1.discordapp.net/external/dmY7es3Vt7K6Cm6G15TRLY4qmb7f86CdmK4rGW61UKQ/https/mudae.net/uploads/1245552/MvdxKBosQREzpECLhkTw~fmhOAPQ.png?width=193&height=300, 1
+Zessica Wong, https://images-ext-1.discordapp.net/external/t7bgbXQXrWD5-rKi342ycuJ9LtA3oAnGEKJLpuJm5UE/https/mudae.net/uploads/4325736/L0ExOp8lr7k0vXy9XL-9~nuLnCcP.png?width=193&height=300, 1
+Kanako Yasaka, https://images-ext-1.discordapp.net/external/bw56MzYL9J2pAvj4lzJ5Ydh-1FC-j9S9eBcs2DUTnAs/https/mudae.net/uploads/8193109/YEc6xWD091rqMe3d5_FN~KwpYgk8.png?width=193&height=300, 1
+Sasame (Nuko), https://images-ext-1.discordapp.net/external/qHEsG0ShTolQKOxuQ6PXVm6c5l01gxB90FPkr2Kkg7A/https/mudae.net/uploads/8238918/GKkg3A-izI9r04KDWOHQ~2lPe7vw.png?width=193&height=300, 1
+Ivete Beicur, https://images-ext-1.discordapp.net/external/8rApXl0regKWGNwUYISQwjKl69xljOifeuIrbKUBU4w/https/mudae.net/uploads/9523512/ApSSNDig55-exWq89iG2~sKZXA77.png?width=193&height=300, 1
+Demonika, https://images-ext-1.discordapp.net/external/PUQWhcf-JiweSrctWT0trrCZql1p-vZ7RWAUUzCtkWA/https/mudae.net/uploads/2745516/Chob7q_l3yoyfk6RZ-xu~CjKp9R0.png?width=193&height=300, 2
+Hakuei Ren, https://images-ext-1.discordapp.net/external/x6Ikdg-h7smda7ahVc7veYMvHniLEnckhuktwTZ4TRY/https/mudae.net/uploads/5548745/2Go0vyPMe-76E7U_18fT~5UTSehV.png?width=193&height=300, 1
+Scarlett Fairchild, https://images-ext-1.discordapp.net/external/uBK8QhQjyBlAPrVlXmCm6ZSV5FaY3fvYdB0BPSp6NMI/https/mudae.net/uploads/6971558/3Q6oOILZtA8c7OUBT1Fi~3t6FT3z.png?width=193&height=300, 1
+Beluna, https://images-ext-1.discordapp.net/external/oicPW-nTksBIB532hf86a5wsW5hz5jul8WxBRPHc6qI/https/mudae.net/uploads/1568831/ZfiF8RBFUJqhcqsgdJsp~WBZr8yl.png?width=193&height=300, 1
+Ryouko Ookami, https://images-ext-1.discordapp.net/external/d4gu4uO5ngSp0d575-Xe58wbq5sS1SY2sKn0NneQraM/https/mudae.net/uploads/1809291/cWnoA4O6Qp3qY66Wfq4h~8fuijSv.png?width=193&height=300, 1
+Nobara Kugisaki, https://images-ext-1.discordapp.net/external/b_heUyT_0gumzdapaf4Dt60ZkPYKzXZrHtpahM1mmo4/https/mudae.net/uploads/1741397/FanHurE9BeshjtS2IS5L~e1V732n.png?width=193&height=300, 1
+Tsugiha Yojirou, https://images-ext-1.discordapp.net/external/AJrjMb-jvbXCdhw9jwpWNe9umCOBsOZTPpmeVgW9pfY/https/mudae.net/uploads/1240940/o7yoolDFCHm5WABMIcnE~vvFTueY.png?width=193&height=300, 1
+Charlotte Stern, https://images-ext-1.discordapp.net/external/zeSeA9GjPEFTUGsIyD03unoTj7Cnb2DYKbGmtuDJRpE/https/mudae.net/uploads/5912281/8TOtIMuCulCq_0GjGKHf~rYVq1ra.png?width=193&height=300, 1
+Schott Key No.2, https://images-ext-1.discordapp.net/external/wNQ-EZVTUYLuMXhKDHgTTuEpXGeMRKgk-CW8DIm0EHs/https/mudae.net/uploads/3210602/5nxB1Cz5_1-5jPYGF-8B~QLBKdJn.png?width=193&height=300, 1
+Nina (KJN), https://images-ext-1.discordapp.net/external/mTr-u2JdSGutOkZcKJa3ls44MAgJKv8SZmDzXzdxHGk/https/mudae.net/uploads/8466644/PTwBymbqS_K1sF6sX235~NRmk48K.png?width=193&height=300, 1
+Miyuki Kujou, https://images-ext-1.discordapp.net/external/HZxawyqMuVBCCb4qab3Nr2EePsLG7weSUF3xj4bEGko/https/mudae.net/uploads/6570959/55e0kUFSofPcS6tGedxa~uckylFR.png?width=193&height=300, 1
+Lily (RL), https://images-ext-1.discordapp.net/external/-aql7FDi7a66dBXtx3s7KefJ9dm6r3RB-bPDZkCN3kQ/https/mudae.net/uploads/7597709/DYHIWQH2dgpoFKghpj3Q~CYMz0ks.png?width=193&height=300, 2
+Crazy Rascal, https://images-ext-1.discordapp.net/external/1pnhLONkRZL1pQ5965sSfSOxjXSTY4K9bWp4oK8-YO0/https/mudae.net/uploads/6281779/81xqP5bZ0JLOtMxvzZ0z~YvuXw8l.png?width=193&height=300, 1
+Ishtar (TUEEE), https://images-ext-1.discordapp.net/external/ke2Awds6mlEIWRQB_g1TzItU8tq5_qGlzYdt4hUAZrs/https/mudae.net/uploads/5850456/PqBf0ntVcCnRaAd12U1j~kpewo4L.png?width=193&height=300, 1
+Naomi Reisinger, https://images-ext-1.discordapp.net/external/5ZjP4Px9HoaLqCFwwRPzNbui9OAgVa1IzlDeplSANnA/https/mudae.net/uploads/1333826/cMhTBqoPLBR1fy75LhI-~DALfcxo.png?width=193&height=300, 1
+Hungry Nun, https://images-ext-1.discordapp.net/external/k58dn37g2twxjmYjdsBQGlDf9XgcbkAPIc_ND7SzwRg/https/mudae.net/uploads/8937278/SxRLPH-EpKMIgJBKN4JY~9DX5kt4.png?width=193&height=300, 1
+Hoshino Yumemi, https://images-ext-1.discordapp.net/external/_l7beHAVtnyDYIP_szE5faFooUxad25gvaJ6NCPyi7Y/https/mudae.net/uploads/7642073/AZLmkUpy3YAxdKkTchqy~w7w6ce8kary.png?width=193&height=300, 1
+Shun Hishikawa, https://images-ext-1.discordapp.net/external/tD-dPKojAt1CCDGnz_er6GQp9BDTdPObe-hU9jOV3yQ/https/mudae.net/uploads/2754123/OecPv2Na1USA2-KGAtJc~jD30pA0.png?width=193&height=300, 1
+Marin Mizuta, https://images-ext-1.discordapp.net/external/SYcSNCZ-5QLnBwYCj2FSi0Baz9J89sudd9G8B-2wBso/https/mudae.net/uploads/5824851/ZEnQhTNuxmJcSHAGZlAH~WF7JX5S.png?width=193&height=300, 1
+Anabel, https://images-ext-1.discordapp.net/external/54Sl5oGkyd50EXAzJd0qoP_jMmHcpPhjnbt4ymSOfEo/https/mudae.net/uploads/8751036/Jg3G3uk6tZFOgeRGVbkn~lZ22snV.png?width=193&height=300, 1
+Seika Ijichi, https://images-ext-1.discordapp.net/external/X8RUxgcIeHyDg5VadQT9Qdnf-VFkcfuTAccyvBlED_M/https/mudae.net/uploads/1406959/_Pk8Ib1Q1sPmYS3RQubz~Wfg1Ln8.png?width=193&height=300, 1
+Kouko Nosa, https://images-ext-1.discordapp.net/external/IKuNyyMjb8IIBv1P0e-YQrl6YgyRh7Hg6nLD8F3AOrI/https/mudae.net/uploads/3873655/7roprhrDlWoSjztli2Kc~ZFBIxjR.png?width=193&height=300, 1
+Makina Momozono, https://images-ext-1.discordapp.net/external/jW7dM4acj974cgGfxrmrO3Hiu68QILZj2YAZBF5MWsU/https/mudae.net/uploads/9400687/wknpYqTfaV0iPmagwaFt~KIadplg.png?width=193&height=300, 1
+Talho Yuuki, https://images-ext-1.discordapp.net/external/R2KFuHQxUxL_Ze5sIU6JXOqUdecY_WPj35_b7WGq1mM/https/mudae.net/uploads/5330562/hVkn8dK9UBxCetIi56th~cwaiom8.png?width=193&height=300, 2
+Mizuho Kazami, https://images-ext-1.discordapp.net/external/QVCOxz3ddC1TWf_FRUbbt26hgJzLbQBUMsx0BQMTTqM/https/mudae.net/uploads/5755472/OeZRFbF0BTOCILN6JLOj~KQgtHJC.png?width=193&height=300, 1
+Lyra (FMA), https://images-ext-1.discordapp.net/external/z5i5UjIO1_wzkYrDUX-TvOO8YfbOhUrxXteV9pRV--8/https/mudae.net/uploads/3280199/2Gvo3i2GCDoJyLnqjIsV~8PGiZsI.png?width=193&height=300, 1
+Gemini Sunrise, https://images-ext-1.discordapp.net/external/Gf1lIxZG4yo4qwyAqsFU_KBiHv75jDV94hNmHoe7yew/https/mudae.net/uploads/6242085/WdN8NOd3brATWLEFWUGn~YXSpSl8.png?width=193&height=300, 1
+Chiaki Takahashi, https://images-ext-1.discordapp.net/external/lZxYAOESjcEo_urfxXut1qk4uitRT4muMX0mguXksEI/https/mudae.net/uploads/4260998/sC_R-KXZdTvzUyxZXcR5~uK0LhAl.png?width=193&height=300, 1
+Yukari Sakuragi, https://images-ext-1.discordapp.net/external/imy52wGESjc67FQ17XfVEEEuKSMwIUFYJC5KgC4O63I/https/mudae.net/uploads/3410451/-xGe2z-K1HoTMKMlqOc7~dnu7K47.png?width=193&height=300, 1
+Yuno Kashiki, https://images-ext-1.discordapp.net/external/UGtzfcRtOqpI3VjwHfZIy-nGAn_UkmZ5UonajSYt0_w/https/mudae.net/uploads/1304856/JsdluTXjz1t3PC3lDqP-~3uActga.png?width=193&height=300, 1
+Miss Monday, https://images-ext-1.discordapp.net/external/eLdMU16Hwz45qf1XvDW7n3RjFUiqJ45G3Jj7Oj1FbJk/https/mudae.net/uploads/9549211/P8gI8pMx6hh64GPB6W-o~p7bwcv5mzn7.png?width=193&height=300, 1
+Narvi Roll, https://images-ext-1.discordapp.net/external/OtuRHo4xcZvRjv7D9dI6YtHmSUSzVXSVgCFnZM1eI98/https/mudae.net/uploads/5345273/UVA23AwyLDZN41HZeaFp~hvSXgqz.png?width=193&height=300, 1
+Chiyu Haebaru, https://images-ext-1.discordapp.net/external/15lX8LtJqU7sWT8KPoNFAPJ3L9-o3xuwZAlpAOiMtyo/https/mudae.net/uploads/5756853/FzNejLTKkxb0Cdf9f_Wt~7TJu9Sc.png?width=193&height=300, 1
+Sumin, https://images-ext-1.discordapp.net/external/ZJwaO1vEljMFMsizTBqvPUmgWZ5Z5OiyaIaG5GBnLHI/https/mudae.net/uploads/9829295/OW8oCk5WppJ5SjzKHn4v~Io6U6Jn.png?width=193&height=300, 1
+Chiyoko Kurotori, https://images-ext-1.discordapp.net/external/34K1Z9knSCYLb46xztNjanBEKGFQOte-K5ga3O18B3E/https/mudae.net/uploads/6462737/wNbVZDt6BcP02V0peika~UGX6Soo.png?width=193&height=300, 1
+Natsuki Moriyama, https://images-ext-1.discordapp.net/external/_xqSv7TldU9dmsneencsPceoDrIAivMupd4UIPb42dw/https/mudae.net/uploads/4987497/55AHL_gfQx9PKwjnnsyN~yz6534h.png?width=193&height=300, 2
