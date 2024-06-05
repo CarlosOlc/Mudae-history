@@ -136,6 +136,8 @@
             filteredData = data.slice();
             const urlParams = new URLSearchParams(window.location.search);
             currentPage = parseInt(urlParams.get('page')) || 1;
+            itemsPerPage = parseInt(urlParams.get('itemsPerPage')) || 10;
+            document.getElementById('itemsPerPage').value = itemsPerPage;
             displayImages();
         }
 
@@ -190,6 +192,7 @@
         function updateURL() {
             const url = new URL(window.location);
             url.searchParams.set('page', currentPage);
+            url.searchParams.set('itemsPerPage', itemsPerPage);
             history.pushState(null, '', url);
         }
 
@@ -210,8 +213,10 @@
             updateURL();
             displayImages();
         }
+
         loadData('rolls.txt');
     </script>
 </body>
+
 
 </html>
