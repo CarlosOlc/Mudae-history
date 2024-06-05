@@ -129,7 +129,7 @@
             const response = await fetch(file);
             const text = await response.text();
             data = text.trim().split('\n').map(line => {
-                const [name, imageUrl, number] = line.split(', ');
+                const [name, imageUrl, number] = line.split('; ');
                 return { name, imageUrl, number: parseInt(number) };
             });
             data.reverse();
