@@ -48,7 +48,12 @@
             display: -webkit-inline-box;
             flex-wrap: wrap;
             justify-content: space-around;
+            grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
             gap: 0px;
+        }
+
+        .hidden {
+            display: none;
         }
 
         .image-item {
@@ -92,11 +97,12 @@
         <div class="header-title">Mudae History</div>
         <div class="header-menu">
             <button onclick="loadData('rolls.txt')">All Rolls</button>
-            <button onclick="loadData('wishes_coletadas.txt')">Clains</button>
+            <button onclick="loadData('wishes_coletadas.txt')">Claims</button>
+            <button onclick="loadWishes()">Wishes</button>
         </div>
     </div>
     <div class="content">
-        <div class="search-bar">
+        <div id="controls" class="search-bar">
             <input type="text" id="searchInput" placeholder="Buscar..." onkeyup="searchImages()">
             <select id="sortOrder" onchange="sortData()">
                 <option value="default">Últimos Rolls</option>
@@ -104,7 +110,7 @@
             </select>
         </div>
         <div id="imageGrid" class="image-grid"></div>
-        <div class="pagination">
+        <div id="paginationControls" class="pagination">
             <label for="itemsPerPage">Itens por página:</label>
             <select id="itemsPerPage" onchange="changeItemsPerPage()">
                 <option value="10">10</option>
@@ -117,6 +123,11 @@
                 <span id="pageInfo"></span>
                 <button onclick="nextPage()">Próxima</button>
             </div>
+        </div>
+        <div id="wishesContainer" style="display: none;">
+            <textarea id="wishesText" rows="20" cols="50"></textarea>
+            <br>
+            <button onclick="saveWishes()">Salvar</button>
         </div>
     </div>
     <script>
@@ -138,6 +149,9 @@
             currentPage = parseInt(urlParams.get('page')) || 1;
             itemsPerPage = parseInt(urlParams.get('itemsPerPage')) || 10;
             document.getElementById('itemsPerPage').value = itemsPerPage;
+            document.getElementById('wishesContainer').style.display = 'none';
+            document.getElementById('controls').classList.remove('hidden');
+            document.getElementById('paginationControls').classList.remove('hidden');
             displayImages();
         }
 
@@ -212,6 +226,51 @@
             currentPage = 1;
             updateURL();
             displayImages();
+        }
+
+        async function loadWishes() {
+            const response = await fetch('wishes.txt');
+            const text = await response.text();
+            document.getElementById('wishesText').value = text;
+            document.getElementById('imageGrid').innerHTML = '';
+            document.getElementById('wishesContainer').style.display = 'block';
+            document.getElementById('controls').classList.add('hidden');
+            document.getElementById('paginationControls').classList.add('hidden');
+        }
+
+        async function saveWishes() {
+            const token = prompt("Enter your GitHub token:");
+            const content = document.getElementById('wishesText').value;
+            const filePath = 'wishes.txt';
+            const repo = 'CarlosOlc/Mudae-history';
+            const branch = 'main';
+
+            const getShaUrl = `https://api.github.com/repos/${repo}/contents/${filePath}`;
+            const getShaResponse = await fetch(getShaUrl);
+            const getShaData = await getShaResponse.json();
+            const sha = getShaData.sha;
+
+            const url = `https://api.github.com/repos/${repo}/contents/${filePath}`;
+            const response = await fetch(url, {
+                method: 'PUT',
+                headers: {
+                    'Authorization': `token ${token}`,
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    message: 'Update wishes.txt',
+                    content: btoa(unescape(encodeURIComponent(content))),
+                    sha: sha,
+                    branch: branch
+                })
+            });
+
+            if (response.ok) {
+                alert('File saved successfully!');
+            } else {
+                alert(response);
+            }
+            print(response)
         }
 
         loadData('rolls.txt');
