@@ -39,7 +39,7 @@ Yorozu
 Briar
 Sono Bisque Doll wa Koi wo Suru
 Runa Shirakawa
-Kage no Jitsuryokusha ni Naritakute!
+Kage no Jitsuryokusha ni Naritakute
 Komi-san wa, Comyushou desu.
 Mio (Dororo)
 Ranko Hanazono
@@ -82,7 +82,7 @@ Ai Makita
 Koori Nano
 Urami Magahara
 One Punch Man
-Nande Koko ni Sensei ga!?
+Nande Koko ni Sensei ga
 The Girlfriend Project
 Fudatsuki no Kyoko-chan
 Re:Monster Shisatsu Kara Hajimaru Kaibutsu Tensei-ki
@@ -122,3 +122,20 @@ Isekai Yururi Kikou
 Elf-san wa Yaserarenai
 Bye-Bye, Earth
 Na Nare Hana Nare
+<<<<<<< HEAD
+=======
+Fia
+Hyetta
+Malenia the Severed
+Marika (ER)
+Melina
+Millicent
+Nepheli Loux
+Ranni
+Rennala
+Roderika
+Rya
+Sorceress Sellen
+Tanith (ER)
+Rita Thompson
+>>>>>>> 78e56fac2e977841334a696e331569789fec22f9
